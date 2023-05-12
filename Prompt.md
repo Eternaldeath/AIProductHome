@@ -69,3 +69,5 @@
 - [ChatGPT 技巧 | Prompt 逆向工程](https://zhuanlan.zhihu.com/p/617524191)
 - [Prompt 如何更好地应用于工业界？](https://www.zhihu.com/question/495040812/answer/2924305333)
 - [FlowGPT ，向ChatGPT发起高质量问题的模板大全](https://zhuanlan.zhihu.com/p/609377043)
+- [Guide for prompt writing](https://boostpixels.com/guide)：提示工程写作指南
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/):Andrew Y.Ng的OpenAI免费英语课程教你如何编写ChatGPT技巧并创建自己的聊天机器人

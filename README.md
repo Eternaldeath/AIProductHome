@@ -13,7 +13,7 @@
 |✈️|科学上网|
 |🆓|免费使用|
 |💰|付费使用|
-|<🆓,💰>|免费，付费，两种机制并存|
+|🆓&💰|免费，付费，两种机制并存|
 |🔓|开源|
 |📥|插件|
 # 聊天对话
@@ -59,6 +59,9 @@
 |[beautiful ai](https://www.beautiful.ai/)|💰|Beautiful.ai是一款利用AI人工智能技术来帮助用户创建漂亮、专业、高效的PPT演示文稿的在线工具|
 |[tome](https://beta.tome.app/)|<🆓,💰>|tome ai是一个演示文稿应用程序，它可以帮助用户制作出色的演示文稿|
 |[chat ppt](https://chat-ppt.com/)|🧪🆓|ChatPPT是一款用于创建和共享演示文稿的软件|
+|[gamma](https://gamma.app/)|✈️🆓||
+|[美图 AI PPT](https://design.meitu.com/ppt/)|🆓||
+|[mindshow](https://mindshow.fun/#/home)|🆓&💰|输入内容自动生成演示文稿|
 ## Excel
 产品名称|相关信息|备注|
 |-|-|-|
@@ -85,8 +88,8 @@
 |[copydone](http://copyai.cn/)|💰|AI营销内容创作|
 |[周报通](https://zhoubaotong.com/zh)|🆓|简单描述工作内容帮你生成完整周报|
 |[Wordtune](https://www.wordtune.com/)|✈️🆓|Wordtune是终极的人工智能写作工具，可以改写和改写你的写作！获取人工智能建议，立即改进您所写的一切|
-|[Copy ai](https://www.copy.ai/)|<🆓,💰>|Copy.ai是一款人工智能文案|
-|[jenni](https://jenni.ai/)|✈️<🆓,💰>|人工智能写作助手|
+|[Copy ai](https://www.copy.ai/)|🆓&💰|Copy.ai是一款人工智能文案|
+|[jenni](https://jenni.ai/)|✈️🆓&💰|人工智能写作助手|
 |[小莫编辑器](https://www.xiaomo.com/home/)|🆓|AI写作辅助工具|
 |[writely](https://github.com/anc95/writely)|🆓🔓|一个替代 Notion AI 的浏览器插件|
 ## 智能抠图
@@ -95,6 +98,7 @@
 |[pixian](https://pixian.ai)|🆓||
 |[experte](https://www.experte.com/background-remover)|🆓||
 |[boolv](https://toolkit.boolv.tech/background-remover)|🆓||
+|[booltool](https://booltool.boolv.tech/home)|🆓&💰|由 OpenAI 支持|
 # 数字人
 ## 数字人
 |产品名称|相关信息|备注|
@@ -102,12 +106,13 @@
 |[硅语](https://www.guiji.ai/#/index)|💰||
 |[闪剪](https://shanjian.tv/create)|💰||
 |[synthesia](https://www.synthesia.io)|💰||
-## 语音
+## 语音&音乐
 |产品名称|相关信息|备注|
 |-|-|-|
 |[murf](https://murf.ai/)|<🆓,💰>||
 |[resemble ai](https://www.resemble.ai/)|💰||
 |[adobe podcast](https://podcast.adobe.com/)|🧪🆓|语音增强功能使录音听起来就像是在专业录音室中录制的一样|
+|[musico](https://www.musi-co.com/listen/streams)|✈️🆓|生成音乐的 AI 模型|
 ## 换脸
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -123,3 +128,4 @@
 |[roomgpt](https://www.roomgpt.io/)|🆓|室内设计|
 |[openai-translator](https://github.com/yetone/openai-translator)|✈️🆓🔓📥|基于 chatGPT 4 的划词翻译润色插件|
 |[boostpixels](https://boostpixels.com/)|✈️💰|可以微调你的 AI 模型的网站|
+|[futurepedia](https://www.futurepedia.io/)|✈️🆓|一个 AI 工具箱，里面提供了大量的 AI 网站，比我的这个仓库更加丰富|
