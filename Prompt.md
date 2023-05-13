@@ -64,10 +64,16 @@
 | 扮演醉汉                       | 我要你扮演一个喝醉的人。您只会像一个喝醉了的人发短信一样回答，仅此而已。你的醉酒程度会在你的答案中故意和随机地犯很多语法和拼写错误。你也会随机地忽略我说的话，并随机说一些与我提到的相同程度的醉酒。不要在回复上写解释。我的第一句话是“你好吗？”                                                                                                                                                                                                                                                                                              |
 | 作为求职信                     | 为了提交工作申请，我想写一封新的求职信。请撰写一封说明我的技术技能的求职信。我从事网络技术工作已经两年了。我作为前端开发人员工作了 8 个月。我通过使用一些工具而成长。这些包括[...Tech Stack]，等等。我希望发展我的全栈开发技能。我渴望过一种 T 型生活。你能写一封关于我自己的求职信吗？                                                                                                                                                                                                                                                       |
 # 其他 Prompt 工程
-- [给ChatGPT施咒，让它为你制作Anki卡片——Prompt工程案例](https://zhuanlan.zhihu.com/p/609413004)
-- [ChatGPT中的提示工程(Prompt)怎么做？DAIR.AI最新《提示工程指南》，全面讲述提示技术，附书册课件视频](https://zhuanlan.zhihu.com/p/616794213)
-- [ChatGPT 技巧 | Prompt 逆向工程](https://zhuanlan.zhihu.com/p/617524191)
-- [Prompt 如何更好地应用于工业界？](https://www.zhihu.com/question/495040812/answer/2924305333)
-- [FlowGPT ，向ChatGPT发起高质量问题的模板大全](https://zhuanlan.zhihu.com/p/609377043)
-- [Guide for prompt writing](https://boostpixels.com/guide)：提示工程写作指南
-- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/):Andrew Y.Ng的OpenAI免费英语课程教你如何编写ChatGPT技巧并创建自己的聊天机器人
+| 主题                                                         | 描述                                                         | 来源 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions) | 微软官方提供的 prompt 教程                                   | 微软 |
+| [给ChatGPT施咒，让它为你制作Anki卡片——Prompt工程案例](https://zhuanlan.zhihu.com/p/609413004) |                                                              |      |
+| [ChatGPT中的提示工程(Prompt)怎么做？DAIR.AI最新《提示工程指南》，全面讲述提示技术，附书册课件视频](https://zhuanlan.zhihu.com/p/616794213) |                                                              |      |
+| [ChatGPT 技巧 Prompt 逆向工程](https://zhuanlan.zhihu.com/p/617524191) |                                                              |      |
+| [Prompt 如何更好地应用于工业界？](https://www.zhihu.com/question/495040812/answer/2924305333) |                                                              |      |
+| [FlowGPT ，向ChatGPT发起高质量问题的模板大全](https://zhuanlan.zhihu.com/p/609377043) |                                                              |      |
+| [Guide for prompt writing](https://boostpixels.com/guide)    | 提示工程写作指南                                             |      |
+| [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | Andrew Y.Ng的OpenAI免费英语课程教你如何编写ChatGPT技巧并创建自己的聊天机器人 |      |
+
+
+

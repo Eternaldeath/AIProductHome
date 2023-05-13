@@ -1,4 +1,11 @@
 # AI Product Home
+
+<p align="center"> 	
+    <img alt="flag" src="https://img.shields.io/badge/Hub-收集仓库-green?style=for-the-badge">
+  	<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Eternaldeath/AIProductHome?color=Green&style=for-the-badge">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Eternaldeath/AIProductHome?color=green&style=for-the-badge">
+</p>
+
 1. **收集各种 AI 商业或开源产品**
 2. 提供帮助？👉 **[点击](https://github.com/Eternaldeath/AIProductHome/issues)** 👈️
    1. 资源失效
