@@ -62,6 +62,7 @@
 |[稿定 AI](https://www.gaoding.com/ai)|<🆓,💰>|稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果|
 |[stable diffusion](https://stablediffusionweb.com/)|✈️🆓|Stable Diffusion是一个文本到图像的潜在扩散模型|
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰|DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
+|viz-gpt|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -69,7 +70,7 @@
 |[khroma](https://www.khroma.co/)|✈️🆓||
 # 内容创作
 ## PPT
-产品名称|相关信息|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[beautiful ai](https://www.beautiful.ai/)|💰|Beautiful.ai是一款利用AI人工智能技术来帮助用户创建漂亮、专业、高效的PPT演示文稿的在线工具|
 |[tome](https://beta.tome.app/)|<🆓,💰>|tome ai是一个演示文稿应用程序，它可以帮助用户制作出色的演示文稿|
@@ -77,23 +78,27 @@
 |[gamma](https://gamma.app/)|✈️🆓||
 |[美图 AI PPT](https://design.meitu.com/ppt/)|🆓||
 |[mindshow](https://mindshow.fun/#/home)|🆓&💰|输入内容自动生成演示文稿|
+
 ## Excel
-产品名称|相关信息|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[chat excel](https://chatexcel.com/)|🆓|ChatExcel是通过文字聊天实现Excel交互控制的AI辅助工具|
+
 ## 阅读辅助
-产品名称|相关信息|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[chatdoc](https://chatdoc.com/)|✈️🆓|ChatDOC 是一个基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。此外它还支持 word 等格式|
 |[chat PDF](https://www.chatpdf.com/)|✈️<🆓,💰>|基于OpenAI的Chat API开发的 PDF 识别文章内容的阅读助手|
 |[chatpaper](https://chatpaper.org/)|🆓🔓|一款免费，开源的论文阅读 AI 辅助工具|
 |[myreader](https://www.myreader.io/)|✈️<🆓,💰>🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
+
 ## 思维导图
-产品名称|相关信息|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[chat mind](https://www.chatmind.tech/)|<🆓,💰>|Chatmind是专注于AI生成思维导图的效率工具|
+
 ## 文本创作
-产品名称|相关信息|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[据意查句](https://wantquotes.net/)|🆓|据意查句是一款在线句子查询工具，以清朝官方用语为基础，收录了大量的古诗文、现代名人金句、俗语谚语以及网络用语电视电视剧台词等，并提供了相关的解释和翻译。使用者只需输入大概意思的描述，即可查找相关的句子，非常方便实用|
 |[反向词典](https://wantwords.net/)|🆓🔓|清华大学推出的根据描述找到适合的词语|
@@ -107,6 +112,7 @@
 |[jenni](https://jenni.ai/)|✈️🆓&💰|人工智能写作助手|
 |[小莫编辑器](https://www.xiaomo.com/home/)|🆓|AI写作辅助工具|
 |[writely](https://github.com/anc95/writely)|🆓🔓|一个替代 Notion AI 的浏览器插件|
+
 ## 智能抠图
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -144,3 +150,4 @@
 |[openai-translator](https://github.com/yetone/openai-translator)|✈️🆓🔓📥|基于 chatGPT 4 的划词翻译润色插件|
 |[boostpixels](https://boostpixels.com/)|✈️💰|可以微调你的 AI 模型的网站|
 |[futurepedia](https://www.futurepedia.io/)|✈️🆓|一个 AI 工具箱，里面提供了大量的 AI 网站，比我的这个仓库更加丰富|
+|[AI 工具集导航](https://ai.nancheng.fun/)|🆓|一个 AI 工具导航网站，类似本仓库，但提供更多的产品，不过未提供本仓库中“相关信息”的部分，且部分功能需要注册|
