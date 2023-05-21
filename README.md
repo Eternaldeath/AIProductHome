@@ -151,3 +151,5 @@
 |[boostpixels](https://boostpixels.com/)|✈️💰|可以微调你的 AI 模型的网站|
 |[futurepedia](https://www.futurepedia.io/)|✈️🆓|一个 AI 工具箱，里面提供了大量的 AI 网站，比我的这个仓库更加丰富|
 |[AI 工具集导航](https://ai.nancheng.fun/)|🆓|一个 AI 工具导航网站，类似本仓库，但提供更多的产品，不过未提供本仓库中“相关信息”的部分，且部分功能需要注册|
+|[AI Apps](https://cooltools.top/ai.html)|🆓|一个 AI 工具导航网站|
+

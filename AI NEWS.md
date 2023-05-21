@@ -26,3 +26,4 @@
 | [AIGC 行业专题报告：从 AI 技术演进看 AIGC](https://www.8btc.com/article/6808474) |                                                              |          |
 | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              | 证券时报 |
 | [Just how good can China get at generative AI?](https://www.economist.com/business/2023/05/09/just-how-good-can-china-get-at-generative-ai) | 《中国在生成人工智能方面能有多好？》：最近在很多社交媒体上都有关于中国 AIGC 与美国的 AIGC 的对比，可以看看这篇经济学人的报道，相对中立，客观。这也和我在中文互联网了解的相关结论有所不同。 | 经济学人 |
+| [ChatGPT背后的语言模型简史](https://www.bmpi.dev/dev/deep-learning/nlp-language-models/#%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B) |                                                              |          |
