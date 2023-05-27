@@ -1,10 +1,13 @@
 # AI Product Home
 
+<img src="./img/ai_robot.png" style="zoom:50%" />
+
 <p align="center"> 	
     <img alt="flag" src="https://img.shields.io/badge/Hub-收集仓库-green?style=for-the-badge">
   	<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Eternaldeath/AIProductHome?color=Green&style=for-the-badge">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Eternaldeath/AIProductHome?color=green&style=for-the-badge">
 </p>
+
 
 1. **收集各种 AI 商业或开源产品**
 2. 提供帮助？👉 **[点击](https://github.com/Eternaldeath/AIProductHome/issues)** 👈️
@@ -91,12 +94,13 @@
 ## PPT
 |产品名称|相关信息|备注|
 |-|-|-|
-|[beautiful ai](https://www.beautiful.ai/)|💰|Beautiful.ai是一款利用AI人工智能技术来帮助用户创建漂亮、专业、高效的PPT演示文稿的在线工具|
-|[tome](https://beta.tome.app/)|<🆓,💰>|tome ai是一个演示文稿应用程序，它可以帮助用户制作出色的演示文稿|
-|[chat ppt](https://chat-ppt.com/)|🧪🆓|ChatPPT是一款用于创建和共享演示文稿的软件|
-|[gamma](https://gamma.app/)|✈️🆓||
-|[美图 AI PPT](https://design.meitu.com/ppt/)|🆓||
-|[mindshow](https://mindshow.fun/#/home)|🆓&💰|输入内容自动生成演示文稿|
+|[beautiful ai](https://www.beautiful.ai/)|💰|用户输入提示，AI 生成 PPT|
+|[tome](https://beta.tome.app/)|<🆓,💰>|用户输入提示，AI 生成 PPT|
+|[chat ppt](https://chat-ppt.com/)|🧪🆓|用户输入提示，AI 生成 PPT|
+|[gamma](https://gamma.app/)|✈️🆓|用户输入提示，AI 生成 PPT|
+|[美图 AI PPT](https://design.meitu.com/ppt/)|🆓|用户输入提示，AI 生成 PPT|
+|[mindshow](https://mindshow.fun/#/home)|🆓&💰|用户输入提示，AI 生成 PPT|
+|[MotionGo](http://motion.yoo-ai.com/)|🆓&💰|用户输入提示，AI 生成 PPT|
 
 ## Excel
 |产品名称|相关信息|备注|

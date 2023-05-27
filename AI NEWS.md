@@ -29,3 +29,4 @@
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |       证券时报        |
 | 行业      | [Just how good can China get at generative AI?](https://www.economist.com/business/2023/05/09/just-how-good-can-china-get-at-generative-ai) | 《中国在生成人工智能方面能有多好？》：最近在很多社交媒体上都有关于中国 AIGC 与美国的 AIGC 的对比，可以看看这篇经济学人的报道，相对中立，客观。这也和我在中文互联网了解的相关结论有所不同。 |       经济学人        |
 | 行业      | [抢外包饭碗，AI做到了](https://www.tmtpost.com/6543736.html) |                     AI 对绘画行业的影响                      |         豹变          |
+| 行业      | [三位OpenAI掌舵人亲自撰文：我们应该如何治理超级智能？](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247574604&idx=1&sn=e8c0604658e0ddd9816db82db4cec933&chksm=cf7ac6b5f80d4fa33dcb20388f8641195077abb767129010b06bc8299ec62e32011c014b3e0a&scene=126&sessionid=1685156270#rd) |                            中译版                            |       学术头条        |
