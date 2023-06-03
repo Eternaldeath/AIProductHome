@@ -1,6 +1,6 @@
 # AI Product Home
 
-<img src="./img/ai_robot.png" style="zoom:50%" />
+<img src="./img/ai_robot.png" style="zoom:40%" />
 
 <p align="center"> 	
     <img alt="flag" src="https://img.shields.io/badge/Hub-收集仓库-green?style=for-the-badge">
@@ -16,6 +16,20 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
+3. 本周更新
+
+```bash
+# Readme
+- 华佗 GPT: 香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型
+
+# AI NEWS
+- 谁在布局生成式AI？一文详解生成式AI的行业应用版图
+- 研究：ChatGPT带来生成式AI十年繁荣，2032年市场规模1.3万亿美元
+- GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了
+- OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
+```
+
+
 
 # 其他资源
 
@@ -40,7 +54,7 @@
 | 产品名称                          | 相关信息 | 备注                                         |
 | --------------------------------- | -------- | -------------------------------------------- |
 | [new bing](https://www.bing.com/) | 🧪✈️🆓      | 必应搜索中集成的 chat gpt4                   |
-| 360 智脑                          | 🧪🆓       | 360 智脑是一款基于人工智能技术的搜索引擎产品 |
+| [360 智脑](https://ai.360.cn/)    | 🧪🆓       | 360 智脑是一款基于人工智能技术的搜索引擎产品 |
 
 
 
@@ -51,10 +65,10 @@
 |[文心一言](https://yiyan.baidu.com/welcome)|🧪 🆓|百度大模型|
 |[通义千问](https://tongyi.aliyun.com/)|🧪 🆓|阿里巴巴达摩院推出的 AI 大模型|
 |[youchat](https://you.com/)|✈️🆓||
-|[chat gpt](https://openai.com/blog/chatgpt)|✈️💰|Open AI|
+|[chat gpt](https://openai.com/blog/chatgpt)|✈️💰|Open AI<br>⚠️ Open AI 目前有地域限制|
 |[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|🆓|一个提供大量基于 ChatGPT API 产品的导航网站|
 |[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的产品|
-|[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的产品<br>⚠ 与百度的文心产品没有关系|
+|[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的产品<br>⚠️ 与百度的文心产品没有关系|
 |[freegpt](https://freegpt.one/)|✈️🆓|基于 ChatGPT 3.5 API 的产品|
 |[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的产品|
 |[open-assistant](https://open-assistant.io/zh)|🆓🔓|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
@@ -64,7 +78,8 @@
 |[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓🔓📥|聚合聊天的谷歌，Edge 插件|
 |[chatgpt4google](https://chatgpt4google.com/)|✈️🆓🔓📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
 |[character.ai](https://beta.character.ai/)|✈️🆓🔓|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
-|bard|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人|
+|[bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人<br>⚠️ bard 目前有地域限制|
+|[huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)|🧪🔓🆓|香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT)|
 # 代码辅助
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -77,14 +92,15 @@
 |产品名称|相关信息|备注|
 |-|-|-|
 |[midjourney](https://www.midjourney.com)|✈️🆓&💰|Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
-|[chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓|基于 Midjourney，无需注册 discord|
+|[chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓|基于 Midjourney API 的产品，无需注册 discord|
+|[midjourney 中文版](https://www.huashou.club/)|💰|⚠️非 midjourney 官方中文版|
 |[意间 AI](http://yjai.ai-galaxy.com/)|🆓||
 |[无界 AI](https://www.wujieai.com/)|🆓&💰|以绘画 AI 为主的 AIGC 内容创作平台|
 |[文心一格](https://yige.baidu.com/)|🆓&💰|百度推出的以绘画 AI 为主的 AIGC 内容创作平台|
 |[稿定 AI](https://www.gaoding.com/ai)|🆓&💰|稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果|
 |[stable diffusion](https://stablediffusionweb.com/)|✈️🆓|Stable Diffusion是一个文本到图像的潜在扩散模型|
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰|DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
-|viz-gpt|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
+|[viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|-|-|
