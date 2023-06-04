@@ -26,6 +26,7 @@
 | 技术      | [AIGC 行业专题报告：从 AI 技术演进看 AIGC](https://www.8btc.com/article/6808474) |                                                              |                       |
 | 技术      | [OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650878803&idx=2&sn=3515182027d17ea5a73961bb1fb678e0&chksm=84e4f72db3937e3b987a61c8e9661ce13a9521f1387b1b24aedf435f7218aaecface68a499ae&scene=126&sessionid=1685779766#rd) |                         GPT 技术原理                         |       机器之心        |
 | 技术      | [GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650878863&idx=1&sn=4bf8baff71c3dfdd1fbcafa30683333c&chksm=84e4f7f1b3937ee7c85ea1e8db95be6f41540065fc1a757115280774f1c32b98621be198f972&scene=126&sessionid=1685779766#rd) |                                                              |       机器之心        |
+| 技术      | [Welcome to LLM University!](https://docs.cohere.com/docs/llmu) |            系统性介绍 LLM 工作原理的网站（英文）             |        Cohere         |
 | 行业      | [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) |                                                              |       澎湃新闻        |
 | 行业      | [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510) |                                                              |                       |
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |       证券时报        |

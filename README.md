@@ -21,6 +21,7 @@
 ```bash
 # Readme
 - 华佗 GPT: 香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型
+- flutter chatGPT：基于 flutter 开发的全平台 chatGPT 聊天客户端
 
 # AI NEWS
 - 谁在布局生成式AI？一文详解生成式AI的行业应用版图
@@ -28,6 +29,7 @@
 - GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了
 - OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
 - AI眼中的崂山四季
+- LLM University：系统性介绍 LLM 工作原理的网站（英文）
 ```
 
 
@@ -72,6 +74,7 @@
 |[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的产品<br>⚠️ 与百度的文心产品没有关系|
 |[freegpt](https://freegpt.one/)|✈️🆓|基于 ChatGPT 3.5 API 的产品|
 |[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的产品|
+|[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|✈️🆓🔓|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
 |[open-assistant](https://open-assistant.io/zh)|🆓🔓|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
 |[chatYuan](https://www.clueai.cn/)|🆓🔓|中英文对话的大型语言模型|
 |[freedom gpt](https://freedomgpt.com/)|✈️🆓🔓||
