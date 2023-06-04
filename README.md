@@ -1,6 +1,6 @@
 # AI Product Home
 
-<img src="./img/ai_robot.png" style="zoom:40%" />
+<img src="./img/ai_robot.png" style="zoom:30%" />
 
 <p align="center"> 	
     <img alt="flag" src="https://img.shields.io/badge/Hub-收集仓库-green?style=for-the-badge">
@@ -27,6 +27,7 @@
 - 研究：ChatGPT带来生成式AI十年繁荣，2032年市场规模1.3万亿美元
 - GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了
 - OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
+- AI眼中的崂山四季
 ```
 
 
