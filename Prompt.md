@@ -90,6 +90,7 @@
 | [Guide for prompt writing](https://boostpixels.com/guide)    | 提示工程写作指南                                             |      |
 | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | Andrew Y.Ng的OpenAI免费英语课程教你如何编写ChatGPT技巧并创建自己的聊天机器人 |      |
 | [Prompt Hero](https://prompthero.com/)                       | 面向多平台（chat GPT，Midjourney）的 AI 提示工程网站<br>用户可以参考其他使用者分享的提示词来优化自己的提示 |      |
+| [FLOWGPT](https://flowgpt.com/)                              | 帮助提高 Prompt 质量                                         |      |
 | [Prompt Hunt](https://www.prompthunt.com/)                   | 面向绘画领域的提示工程网站                                   |      |
 
 

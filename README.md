@@ -16,20 +16,21 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周更新
+3. 本周（6.11）更新：每周末更新
 
 ```bash
-# Readme
-- 华佗 GPT: 香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型
-- flutter chatGPT：基于 flutter 开发的全平台 chatGPT 聊天客户端
-
 # AI NEWS
-- 谁在布局生成式AI？一文详解生成式AI的行业应用版图
-- 研究：ChatGPT带来生成式AI十年繁荣，2032年市场规模1.3万亿美元
-- GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了
-- OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
-- AI眼中的崂山四季
-- LLM University：系统性介绍 LLM 工作原理的网站（英文）
+- OpenAI无意间发现了一个有史以来最赚钱的商业模式
+
+# Readme
+- MagickPen：基于 chatGPT 的智能写作助手
+- GPT-2 Output Detector：反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率
+- GPT Academic：提供论文润色等功能
+
+# Prompt
+- flowgpt：帮助提高 Prompt 质量
+- Chatbot Arena Leaderboard：一个动态更新的 LLM 模型排行榜
+- AI 研究所：一个提供 AI 资讯，AI 工具等内容的聚合网站
 ```
 
 
@@ -69,6 +70,7 @@
 |[通义千问](https://tongyi.aliyun.com/)|🧪 🆓|阿里巴巴达摩院推出的 AI 大模型|
 |[youchat](https://you.com/)|✈️🆓||
 |[chat gpt](https://openai.com/blog/chatgpt)|✈️💰|Open AI<br>⚠️ Open AI 目前有地域限制|
+|[HuggingChat](https://huggingface.co/chat/)|✈️🆓🔓|Hugging Face 推出的 ChatGPT 的开源替代品|
 |[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|🆓|一个提供大量基于 ChatGPT API 产品的导航网站|
 |[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的产品|
 |[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的产品<br>⚠️ 与百度的文心产品没有关系|
@@ -79,11 +81,12 @@
 |[chatYuan](https://www.clueai.cn/)|🆓🔓|中英文对话的大型语言模型|
 |[freedom gpt](https://freedomgpt.com/)|✈️🆓🔓||
 |[Poe](https://poe.com/)|✈️<🆓,💰>|AI 产品聚合网站，包括 GPT4，chatgpt 等|
-|[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓🔓📥|聚合聊天的谷歌，Edge 插件|
+|[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓🔓📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
 |[chatgpt4google](https://chatgpt4google.com/)|✈️🆓🔓📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
 |[character.ai](https://beta.character.ai/)|✈️🆓🔓|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
 |[bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人<br>⚠️ bard 目前有地域限制|
 |[huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)|🧪🔓🆓|香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT)|
+|[GPT-2 Output Detector](https://openai-openai-detector--5smxg.hf.space/)|✈️🆓|反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率|
 # 代码辅助
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -155,6 +158,8 @@
 |[jenni](https://jenni.ai/)|✈️🆓&💰|人工智能写作助手|
 |[小莫编辑器](https://www.xiaomo.com/home/)|🆓|AI写作辅助工具|
 |[writely](https://github.com/anc95/writely)|🆓🔓|一个替代 Notion AI 的浏览器插件|
+|[magickpen](https://magickpen.com/zh/)|✈️🆓&💰|基于 chatGPT 的智能写作助手|
+|[GPT Academic](https://github.com/binary-husky/gpt_academic)|✈️🆓🔓|提供论文润色等功能|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -196,6 +201,8 @@
 |[AI 工具集导航](https://ai.nancheng.fun/)|🆓|一个 AI 工具导航网站，类似本仓库，但提供更多的产品，不过未提供本仓库中“相关信息”的部分，且部分功能需要注册|
 |[AI Apps](https://cooltools.top/ai.html)|🆓|一个 AI 工具导航网站|
 |[AIL](https://www.ai-lib.club/)|🆓|一个 AI 工具导航网站|
+|[AI 研究所](https://www.aiyjs.com/)|🆓|一个提供 AI 资讯，AI 工具等内容的聚合网站|
+|[Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)|🆓|一个动态更新的 LLM 模型排行榜|
 
 # 教程
 
