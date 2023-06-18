@@ -72,11 +72,16 @@
 |[chat gpt](https://openai.com/blog/chatgpt)|✈️💰|Open AI<br>⚠️ Open AI 目前有地域限制|
 |[HuggingChat](https://huggingface.co/chat/)|✈️🆓🔓|Hugging Face 推出的 ChatGPT 的开源替代品|
 |[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|🆓|一个提供大量基于 ChatGPT API 产品的导航网站|
+|[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)|✈️🆓🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
+|[ChatGPT 在线体验网站收集列表](https://github.com/lzwme/chatgpt-sites)|✈️🆓🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
+|[免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)|✈️🆓🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
 |[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的产品|
+|[Chat GPT Demo](https://chatgptdemo.net/zh-hans)|✈️🆓|基于 ChatGPT 4 API 的产品，允许用户免费使用，无需登录|
 |[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的产品<br>⚠️ 与百度的文心产品没有关系|
-|[freegpt](https://freegpt.one/)|✈️🆓|基于 ChatGPT 3.5 API 的产品|
+|[freegpt](https://freegpt.cc/)|✈️🆓|基于 ChatGPT 3.5 API 的产品|
 |[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的产品|
 |[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|✈️🆓🔓|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
+|[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|✈️🆓🔓|基于多种大模型的客户端|
 |[open-assistant](https://open-assistant.io/zh)|🆓🔓|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
 |[chatYuan](https://www.clueai.cn/)|🆓🔓|中英文对话的大型语言模型|
 |[freedom gpt](https://freedomgpt.com/)|✈️🆓🔓||
@@ -113,7 +118,14 @@
 |-|-|-|
 |[huemint](https://huemint.com/)|✈️🆓||
 |[khroma](https://www.khroma.co/)|✈️🆓||
+## 视频生成
+
+| 产品名称                        | 相关信息 | 备注                       |
+| ------------------------------- | -------- | -------------------------- |
+| [EBsynth](https://ebsynth.com/) | ✈️🆓       | 将原始视频通过 AI 转换风格 |
+
 # 内容创作
+
 ## PPT
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -182,12 +194,14 @@
 |[resemble ai](https://www.resemble.ai/)|💰||
 |[adobe podcast](https://podcast.adobe.com/)|🧪🆓|语音增强功能使录音听起来就像是在专业录音室中录制的一样|
 |[musico](https://www.musi-co.com/listen/streams)|✈️🆓|生成音乐的 AI 模型|
+|[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)|✈️🆓|Facebook 推出的文本音乐生成模型 MusicGen|
 ## 换脸
 |产品名称|相关信息|备注|
 |-|-|-|
 |[deepswap](https://www.deepswap.ai/)|💰||
 |[faceswap](https://faceswap.dev/)|🆓||
 # 提示工程
+
 |产品名称|相关信息|备注|
 |-|-|-|
 |[promptperfect](https://promptperfect.jina.ai/)|✈️🆓|优化你的提示词|

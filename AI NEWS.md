@@ -2,6 +2,8 @@
 
 > 该模块搜集 AI 领域重要的新闻资讯
 
+# 新闻资讯
+
 ## 2022
 
 |                             主题                             |                             内容                             |   来源   |
@@ -28,6 +30,7 @@
 | 技术      | [GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650878863&idx=1&sn=4bf8baff71c3dfdd1fbcafa30683333c&chksm=84e4f7f1b3937ee7c85ea1e8db95be6f41540065fc1a757115280774f1c32b98621be198f972&scene=126&sessionid=1685779766#rd) |                                                              |          机器之心           |
 | 技术      | [Welcome to LLM University!](https://docs.cohere.com/docs/llmu) |            系统性介绍 LLM 工作原理的网站（英文）             |           Cohere            |
 | 技术      | [使用chatgpt仅需3天就能搞定一篇高质量的研究生论文？（附prompt）](https://zhuanlan.zhihu.com/p/611303146) |                                                              |            知乎             |
+| 技术      | [“GPT-N”一定更强吗？专家警告：当人类数据用完，AI大模型或将越来越笨](https://www.thepaper.cn/newsDetail_forward_23467960) |  AI 模型如果用 AI 自己产生的数据自训练，则会出现变笨的情况   |          学术头条           |
 | 行业      | [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) |                                                              |          澎湃新闻           |
 | 行业      | [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510) |                                                              |                             |
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |          证券时报           |
@@ -40,3 +43,15 @@
 | 行业      | 📺️ [OpenAI 首席科学家谈大型语言模型的未来](https://www.8btc.com/article/6821460) |                                                              | YouTube \| Stanford eCorner |
 | 行业      | [探讨 AI 对就业的影响：哪些工作可能被替代，又会出现哪些新岗位？](https://www.8btc.com/article/6821010) |                                                              |           巴比特            |
 | 行业      | [OpenAI无意间发现了一个有史以来最赚钱的商业模式](https://36kr.com/p/2198085797087364) |                                                              |         36kr（译）          |
+| 行业      | [AI is not alien, it's us](https://metastable.org/alien.html) |                人工智能不是外星人，它就是我们                |         metastable          |
+| 行业      | [加快发展新一代人工智能](http://paper.people.com.cn/rmrb/html/2023-06/16/nw.D110000renmrb_20230616_6-05.htm) |                                                              |    人民日报（二流报纸）     |
+| 行业      | [ChatGPT参加了2023高考数学，它的分数超过你了吗？](https://mp.weixin.qq.com/s/HG_Axf38ljcaQTfi9pyJvA) | chatGPT 在高考试卷中得到了很好的分数，根据其数学测评，它的水平已经达到了进入中上游 985 院校的水平 |          碳基封面           |
+
+# 产业报告
+
+| 标题                                                         | 来源                                 | 时间 | 备注                     |
+| ------------------------------------------------------------ | ------------------------------------ | ---- | ------------------------ |
+| [全球生成式AI产业图谱及报告](https://www.isc.org.cn/article/16678731927646208.html) | 中国互联网协会                       | 2023 | 内附下载链接             |
+| [The economic potential of generative AI: The next productivity frontier](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction) | 麦肯锡                               | 2023 | 生成式人工智能的经济潜力 |
+| [中国文化元宇宙AIGC发展研究报告](https://www.8btc.com/article/6822588) | 中国文化产业协会文化元宇宙专业委员会 | 2023 | 内附下载链接             |
+

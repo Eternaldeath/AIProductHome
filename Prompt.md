@@ -79,19 +79,20 @@
 | 作为求职信                     | 为了提交工作申请，我想写一封新的求职信。请撰写一封说明我的技术技能的求职信。我从事网络技术工作已经两年了。我作为前端开发人员工作了 8 个月。我通过使用一些工具而成长。这些包括[...Tech Stack]，等等。我希望发展我的全栈开发技能。我渴望过一种 T 型生活。你能写一封关于我自己的求职信吗？                                                                                                                                                                                                                                                       |
 # 其他 Prompt 工程
 
-| 主题                                                         | 描述                                                         | 来源 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions) | 微软官方提供的 prompt 教程                                   | 微软 |
-| [给ChatGPT施咒，让它为你制作Anki卡片——Prompt工程案例](https://zhuanlan.zhihu.com/p/609413004) |                                                              |      |
-| [ChatGPT中的提示工程(Prompt)怎么做？DAIR.AI最新《提示工程指南》，全面讲述提示技术，附书册课件视频](https://zhuanlan.zhihu.com/p/616794213) |                                                              |      |
-| [ChatGPT 技巧 Prompt 逆向工程](https://zhuanlan.zhihu.com/p/617524191) |                                                              |      |
-| [Prompt 如何更好地应用于工业界？](https://www.zhihu.com/question/495040812/answer/2924305333) |                                                              |      |
-| [FlowGPT ，向ChatGPT发起高质量问题的模板大全](https://zhuanlan.zhihu.com/p/609377043) |                                                              |      |
-| [Guide for prompt writing](https://boostpixels.com/guide)    | 提示工程写作指南                                             |      |
-| [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | Andrew Y.Ng的OpenAI免费英语课程教你如何编写ChatGPT技巧并创建自己的聊天机器人 |      |
-| [Prompt Hero](https://prompthero.com/)                       | 面向多平台（chat GPT，Midjourney）的 AI 提示工程网站<br>用户可以参考其他使用者分享的提示词来优化自己的提示 |      |
-| [FLOWGPT](https://flowgpt.com/)                              | 帮助提高 Prompt 质量                                         |      |
-| [Prompt Hunt](https://www.prompthunt.com/)                   | 面向绘画领域的提示工程网站                                   |      |
+| 主题                                                         | 描述                                                         | 来源    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
+| [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions) | 微软官方提供的 prompt 教程                                   | 微软    |
+| [给ChatGPT施咒，让它为你制作Anki卡片——Prompt工程案例](https://zhuanlan.zhihu.com/p/609413004) |                                                              |         |
+| [ChatGPT中的提示工程(Prompt)怎么做？DAIR.AI最新《提示工程指南》，全面讲述提示技术，附书册课件视频](https://zhuanlan.zhihu.com/p/616794213) |                                                              |         |
+| [ChatGPT 技巧 Prompt 逆向工程](https://zhuanlan.zhihu.com/p/617524191) |                                                              |         |
+| [Prompt 如何更好地应用于工业界？](https://www.zhihu.com/question/495040812/answer/2924305333) |                                                              |         |
+| [FlowGPT ，向ChatGPT发起高质量问题的模板大全](https://zhuanlan.zhihu.com/p/609377043) |                                                              |         |
+| [Guide for prompt writing](https://boostpixels.com/guide)    | 提示工程写作指南                                             |         |
+| [提示工程指南](https://www.promptingguide.ai/zh)             | 一本关于提示工程的电子书                                     | DAIR.AI |
+| [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | Andrew Y.Ng的OpenAI免费英语课程教你如何编写ChatGPT技巧并创建自己的聊天机器人 |         |
+| [Prompt Hero](https://prompthero.com/)                       | 面向多平台（chat GPT，Midjourney）的 AI 提示工程网站<br>用户可以参考其他使用者分享的提示词来优化自己的提示 |         |
+| [FLOWGPT](https://flowgpt.com/)                              | 帮助提高 Prompt 质量                                         |         |
+| [Prompt Hunt](https://www.prompthunt.com/)                   | 面向绘画领域的提示工程网站                                   |         |
 
 
 
