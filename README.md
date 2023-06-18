@@ -16,21 +16,24 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周（6.11）更新：每周末更新
+3. 本周（6.18）更新：每周末更新
 
 ```bash
 # AI NEWS
-- OpenAI无意间发现了一个有史以来最赚钱的商业模式
+- 加快发展新一代人工智能_二流报纸
+- 全球生成式AI产业图谱及报告_中国互联网协会
+- 中国文化元宇宙AIGC发展研究报告
+- The economic potential of generative AI: The next productivity frontier
+- ChatGPT参加了2023高考数学，它的分数超过你了吗？
 
 # Readme
-- MagickPen：基于 chatGPT 的智能写作助手
-- GPT-2 Output Detector：反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率
-- GPT Academic：提供论文润色等功能
-
-# Prompt
-- flowgpt：帮助提高 Prompt 质量
-- Chatbot Arena Leaderboard：一个动态更新的 LLM 模型排行榜
-- AI 研究所：一个提供 AI 资讯，AI 工具等内容的聚合网站
+- 更新 freegpt 网址
+- Chat GPT Demo                       ：基于 ChatGPT 4 API 的产品，允许用户免费使用，无需登录
+- Awesome Free ChatGPT          ：一个提供大量基于 ChatGPT API 产品的开源仓库
+- ChatGPT 在线体验网站收集列表：一个提供大量基于 ChatGPT API 产品的开源仓库
+- 免费ChatGPT网站列表               ：一个提供大量基于 ChatGPT API 产品的开源仓库
+- Chuanhu Chat                          ：基于多种大模型的客户端
+- MusicGen		    ：Facebook 推出的文本音乐生成模型 MusicGen
 ```
 
 
