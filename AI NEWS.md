@@ -46,6 +46,9 @@
 | 行业      | [AI is not alien, it's us](https://metastable.org/alien.html) |                人工智能不是外星人，它就是我们                |         metastable          |
 | 行业      | [加快发展新一代人工智能](http://paper.people.com.cn/rmrb/html/2023-06/16/nw.D110000renmrb_20230616_6-05.htm) |                                                              |    人民日报（二流报纸）     |
 | 行业      | [ChatGPT参加了2023高考数学，它的分数超过你了吗？](https://mp.weixin.qq.com/s/HG_Axf38ljcaQTfi9pyJvA) | chatGPT 在高考试卷中得到了很好的分数，根据其数学测评，它的水平已经达到了进入中上游 985 院校的水平 |          碳基封面           |
+| 行业      | [ChatGPT Plugin：被高估的“App Store时刻”，软件和SaaS生态的重组开端](https://www.8btc.com/article/6822494) |                                                              |           巴比特            |
+| 行业      | [AI时代我们需要新的“摩尔定律”](http://www.eeo.com.cn/2023/0628/596504.shtml) |                                                              |    经济观察报<br>埃哲森     |
+| 行业      | [如何看待傅盛与朱啸虎激辩：围绕ChatGPT的创业公司有没有价值？](https://www.zhihu.com/question/608893873) |                                                              |            知乎             |
 
 # 产业报告
 
