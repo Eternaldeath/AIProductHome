@@ -93,6 +93,7 @@
 | [Prompt Hero](https://prompthero.com/)                       | 面向多平台（chat GPT，Midjourney）的 AI 提示工程网站<br>用户可以参考其他使用者分享的提示词来优化自己的提示 |         |
 | [FLOWGPT](https://flowgpt.com/)                              | 帮助提高 Prompt 质量                                         |         |
 | [Prompt Hunt](https://www.prompthunt.com/)                   | 面向绘画领域的提示工程网站                                   |         |
+| [<月球的阴影> - ChatGPT编写的科幻小说](https://1link.fun/blog/fiction-novel-by-chat-gpt/) | 作者通过和 chatGPT 对话，目前完成了小说的梗概                |         |
 
 
 

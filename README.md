@@ -83,23 +83,28 @@
 |[ChatGPT 在线体验网站收集列表](https://github.com/lzwme/chatgpt-sites)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
 |[免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
 |[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的产品|
+|[stockai](https://stockai.trade/)|🆓|基于 ChatGPT API 的选股产品|
 |[Chat GPT Demo](https://chatgptdemo.net/zh-hans)|✈️🆓|基于 ChatGPT 4 API 的产品，允许用户免费使用，无需登录|
 |[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的产品<br>⚠️ 与百度的文心产品没有关系|
 |[freegpt](https://freegpt.cc/)|✈️🆓|基于 ChatGPT 3.5 API 的产品|
+|[AIchatOS](https://c.binjie.fun/)|✈️🆓&💰|基于 ChatGPT 3.5 API 的产品|
+|[GPT-3.5 Chatbot](https://huggingface.co/spaces/yuntian-deng/ChatGPT)|✈️🆓|基于 ChatGPT 3.5 API 的产品，部署在 Hugging Face|
 |[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的产品|
-|[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|✈️🆓&🔓|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
-|[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|✈️🆓&🔓|基于多种大模型的客户端|
-|[open-assistant](https://open-assistant.io/zh)|🆓&🔓|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
-|[chatYuan](https://www.clueai.cn/)|🆓&🔓|中英文对话的大型语言模型|
-|[freedom gpt](https://freedomgpt.com/)|✈️🆓&🔓||
-|[Poe](https://poe.com/)|✈️🆓&🔓|AI 产品聚合网站，包括 GPT4，chatgpt 等|
-|[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓&🔓📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
-|[chatgpt4google](https://chatgpt4google.com/)|✈️🆓&🔓📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
-|[character.ai](https://beta.character.ai/)|✈️🆓&🔓|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
+|[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|✈️🆓&💰|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
+|[ShareGPT](https://sharegpt.com/)|✈️🆓📥|分享你的 GPT 对话，提供给他人如何与 GPT 聊天的模板|
+|[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|✈️🆓&💰|基于多种大模型的客户端|
+|[open-assistant](https://open-assistant.io/zh)|🆓&💰|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
+|[chatYuan](https://www.clueai.cn/)|🆓&💰|中英文对话的大型语言模型|
+|[freedom gpt](https://freedomgpt.com/)|✈️🆓&💰||
+|[Poe](https://poe.com/)|✈️🆓&💰|AI 产品聚合网站，包括 GPT4，chatgpt 等|
+|[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓&💰📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
+|[chatgpt4google](https://chatgpt4google.com/)|✈️🆓&💰📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
+|[character.ai](https://beta.character.ai/)|✈️🆓&💰|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
 |[bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人<br>⚠️ bard 目前有地域限制|
 |[huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)|🧪🆓|香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT)|
 |[GPT-2 Output Detector](https://openai-openai-detector--5smxg.hf.space/)|✈️🆓|反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率|
-|[火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform)|🆓&🔓|字节跳动开发的云原生机器学习平台|
+|[火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform)|🆓&💰|字节跳动开发的云原生机器学习平台|
+|[ChatLaw](https://www.chatlaw.cloud/)|🆓🔓|北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|
 # 代码辅助
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
 |-|-|-|
@@ -123,6 +128,7 @@
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰|DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
 |[viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓|图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
+|[艺码](https://yima.me/)|🆓|用 ai 生成艺术二维码|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -208,10 +214,12 @@
 |[硅语](https://www.guiji.ai/#/index)|💰||
 |[闪剪](https://shanjian.tv/create)|💰||
 |[synthesia](https://www.synthesia.io)|💰||
+|[腾讯智影](https://zenvideo.qq.com/)|🆓&💰|集数字人，文本生成音频，AI 绘画等功能的产品|
+|[DID](https://www.d-id.com/)|🆓&💰|虚拟数字人制作工具|
 ## 语音&音乐
 |产品名称|相关信息&emsp;|备注|
 |-|-|-|
-|[murf](https://murf.ai/)|🆓&🔓||
+|[murf](https://murf.ai/)|🆓🔓||
 |[resemble ai](https://www.resemble.ai/)|💰||
 |[adobe podcast](https://podcast.adobe.com/)|🧪🆓|语音增强功能使录音听起来就像是在专业录音室中录制的一样|
 |[musico](https://www.musi-co.com/listen/streams)|✈️🆓|生成音乐的 AI 模型|
@@ -237,6 +245,8 @@
 |[AI Apps](https://cooltools.top/ai.html)|🆓|一个 AI 工具导航网站|
 |[AIL](https://www.ai-lib.club/)|🆓|一个 AI 工具导航网站|
 |[ai model](https://aimodel.app/)|🆓|一个 AI 工具导航网站|
+|[toolai](https://www.toolai.io/zh/)|🆓|一个 AI 工具导航网站|
+|[91wink](https://www.91wink.com/)|🆓|一个 AI 工具导航网站|
 |[AI 研究所](https://www.aiyjs.com/)|🆓|一个提供 AI 资讯，AI 工具等内容的聚合网站|
 |[Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)|🆓|一个动态更新的 LLM 模型排行榜|
 

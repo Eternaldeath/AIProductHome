@@ -49,6 +49,10 @@
 | 行业      | [ChatGPT Plugin：被高估的“App Store时刻”，软件和SaaS生态的重组开端](https://www.8btc.com/article/6822494) |                                                              |           巴比特            |
 | 行业      | [AI时代我们需要新的“摩尔定律”](http://www.eeo.com.cn/2023/0628/596504.shtml) |                                                              |    经济观察报<br>埃哲森     |
 | 行业      | [如何看待傅盛与朱啸虎激辩：围绕ChatGPT的创业公司有没有价值？](https://www.zhihu.com/question/608893873) |                                                              |            知乎             |
+| 行业      | [大模型们别挤了，没啥机会了](https://36kr.com/p/2328241523319687) |                                                              |            36 kr            |
+| 行业      | [仅用 5 小时！中国团队推出「全球首颗」AI 全自动设计 CPU，性能比肩 Intel 486！...](https://blog.csdn.net/csdnnews/article/details/131526245?spm=1000.2115.3001.5927) |                                                              |            CSDN             |
+| 行业      | [启明创投：最迟2024中国GPT4将诞生，长文本是大语言模型关键](https://wallstreetcn.com/articles/3692688) |                                                              |         华尔街日报          |
+| 行业      | [ChatGPT写研报像模像样 取代“金融民工”道阻且长](https://finance.sina.com.cn/stock/roll/2023-02-13/doc-imyfnqvc8637400.shtml) |                                                              |          新浪财经           |
 
 # 产业报告
 
