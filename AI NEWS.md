@@ -31,6 +31,9 @@
 | 技术      | [Welcome to LLM University!](https://docs.cohere.com/docs/llmu) |            系统性介绍 LLM 工作原理的网站（英文）             |           Cohere            |
 | 技术      | [使用chatgpt仅需3天就能搞定一篇高质量的研究生论文？（附prompt）](https://zhuanlan.zhihu.com/p/611303146) |                                                              |            知乎             |
 | 技术      | [“GPT-N”一定更强吗？专家警告：当人类数据用完，AI大模型或将越来越笨](https://www.thepaper.cn/newsDetail_forward_23467960) |  AI 模型如果用 AI 自己产生的数据自训练，则会出现变笨的情况   |          学术头条           |
+| 技术      | [ChatGPT神器Code Interpreter终于开放，到底怎么用？这里有一份保姆级教程](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247576619&idx=1&sn=7927be12366b00adbbe65c31296ed3b5&chksm=cf7aced2f80d47c47728be375921e2e5131119f4532c66b467f2bb291e0b9fd0020c43214d04&scene=126&sessionid=1689475359#rd) |                  Code InterPreter 使用教程                   |          学术头条           |
+| 技术      | [ChatPaper：论文综述细节一问即答，还能构建专属文献库｜AI工具](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247576713&idx=1&sn=b0e6b585d132925a1f11d8b5eb115712&chksm=cf7ace70f80d47667ee2dfee7af247a195e052020271de75ef7bdf0871b90ec7b19a07df4ff1&scene=126&sessionid=1689475359#rd) |                 ChatPaper + AMiner 使用教程                  |          学术头条           |
+| 技术      | [3D AI生成出新玩法了：无需数小时，只要45秒，单张图片即可生成 3D模型](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650883646&idx=5&sn=c294c4e949462e065777ed3fd64f418d&chksm=84e48240b3930b5605ba4c76f4eeeea1e76d03dd51dd96494c2331447450a412f6873ce1ace4&scene=126&sessionid=1689476652#rd) |                                                              |          机器之心           |
 | 行业      | [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) |                                                              |          澎湃新闻           |
 | 行业      | [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510) |                                                              |                             |
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |          证券时报           |
@@ -53,6 +56,9 @@
 | 行业      | [仅用 5 小时！中国团队推出「全球首颗」AI 全自动设计 CPU，性能比肩 Intel 486！...](https://blog.csdn.net/csdnnews/article/details/131526245?spm=1000.2115.3001.5927) |                                                              |            CSDN             |
 | 行业      | [启明创投：最迟2024中国GPT4将诞生，长文本是大语言模型关键](https://wallstreetcn.com/articles/3692688) |                                                              |         华尔街日报          |
 | 行业      | [ChatGPT写研报像模像样 取代“金融民工”道阻且长](https://finance.sina.com.cn/stock/roll/2023-02-13/doc-imyfnqvc8637400.shtml) |                                                              |          新浪财经           |
+| 行业      | [What are the chances of an AI apocalypse?](https://www.economist.com/science-and-technology/2023/07/10/what-are-the-chances-of-an-ai-apocalypse) |               人工智能世界末日的可能性有多大？               |          经济学人           |
+| 行业      | [剑指AI，马斯克暗度陈仓](https://www.8btc.com/article/6826100) |                                                              |           巴比特            |
+| 行业      | [大模型需要实干派](https://mp.weixin.qq.com/s/1bB7btScpaj-cMefnOk8Tw) |                                                              |          光子星球           |
 
 # 产业报告
 

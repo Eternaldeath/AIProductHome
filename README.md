@@ -26,21 +26,17 @@
 正在准备 AI Product Home 的在线网站 ...
 
 # AI NEWS
-- 大模型们别挤了，没啥机会了
-- 仅用 5 小时！中国团队推出「全球首颗」AI 全自动设计 CPU，性能比肩 Intel 486！...
-- 启明创投：最迟2024中国GPT4将诞生，长文本是大语言模型关键
-- ChatGPT写研报像模像样 取代“金融民工”道阻且长
+- What are the chances of an AI apocalypse?：人工智能世界末日的可能性有多大
+- 剑指AI，马斯克暗度陈仓
+- 大模型需要实干派
+- ChatGPT神器Code Interpreter终于开放，到底怎么用？这里有一份保姆级教程
 
-# Readme
-- GPT-3.5 Chatbot：部署在 hugging face 
-- toolai：一个人工智能聚合网站
-- 91wink：一个人工智能聚合网站
-- Sharegpt：分享你的 GPT 对话，提供给他人如何与 GPT 聊天的模板
-- AIchatOS：基于 ChatGPT 3.5 API 的产品
-- 腾讯智影：集数字人，文本生成音频，AI 绘画等功能的产品
-- DID：虚拟数字人制作工具
-- ChatLaw：北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务
-- 艺码：用 ai 生成艺术二维码
+# README
+- Runway：一款 ai 与艺术的产品
+- 学术版GPT：由 chatPaper 团队开发的学术版 GPT
+- Aminer：AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper
+- One-2-3-45：一款通过 2D 图片生成 3D 图片的模型
+- Claude：一款聊天对话的语言模型，为 chatGPT 的竞品
 
 # Prompt
 - <月球的阴影> - ChatGPT编写的科幻小说：作者通过和 chatGPT 对话，目前完成了小说的梗概
@@ -68,12 +64,14 @@
 |📥|插件|
 # 搜索引擎
 
-| 产品名称                                    | 相关信息 | 备注                                                         |
-| ------------------------------------------- | -------- | ------------------------------------------------------------ |
-| [new bing](https://www.bing.com/)           | 🧪✈️🆓      | 必应搜索中集成的 chat gpt4                                   |
-| [Perplexity AI](https://www.perplexity.ai/) | ✈️🆓&💰     | 提供类似 new bing 的 AI 检索功能，对检索结果提供数据来源标注 |
-| [360 智脑](https://ai.360.cn/)              | 🧪🆓       | 360 智脑是一款基于人工智能技术的搜索引擎产品                 |
-| [consensus](https://consensus.app/search/)  | ✈️🆓&💰     | 学术方向的 AI 搜索引擎，根据检索内容，提供相关的论文，并总结 |
+| 产品名称                                         | 相关信息 | 备注                                                         |
+| ------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| [new bing](https://www.bing.com/)                | 🧪✈️🆓      | 必应搜索中集成的 chat gpt4                                   |
+| [Perplexity AI](https://www.perplexity.ai/)      | ✈️🆓&💰     | 提供类似 new bing 的 AI 检索功能，对检索结果提供数据来源标注 |
+| [360 智脑](https://ai.360.cn/)                   | 🧪🆓       | 360 智脑是一款基于人工智能技术的搜索引擎产品                 |
+| [consensus](https://consensus.app/search/)       | ✈️🆓&💰     | 学术方向的 AI 搜索引擎，根据检索内容，提供相关的论文，并总结 |
+| [学术版GPT](https://academic.chatwithpaper.org/) | 🧪🆓       | 由 chatPaper 团队开发的学术版 GPT                            |
+| [Aminer](https://www.aminer.cn/)                 | 🆓        | AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper |
 
 
 
@@ -108,10 +106,11 @@
 |[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓&💰📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
 |[chatgpt4google](https://chatgpt4google.com/)|✈️🆓&💰📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
 |[character.ai](https://beta.character.ai/)|✈️🆓&💰|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
-|[bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人<br>⚠️ bard 目前有地域限制|
+|[Bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型<br>⚠️ bard 目前有地域限制|
 |[huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)|🧪🆓|香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT)|
 |[GPT-2 Output Detector](https://openai-openai-detector--5smxg.hf.space/)|✈️🆓|反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率|
 |[火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform)|🆓&💰|字节跳动开发的云原生机器学习平台|
+|[Claude](https://claude.ai/)|🧪✈️🆓&💰|一款聊天对话的语言模型，为 chatGPT 的竞品<br/>⚠️ Claude 目前仅限美国和英国使用|
 |[ChatLaw](https://www.chatlaw.cloud/)|🆓🔓|北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|
 # 代码辅助
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
@@ -137,6 +136,7 @@
 |[viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓|图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
 |[艺码](https://yima.me/)|🆓|用 ai 生成艺术二维码|
+|[One-2-3-45](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)|🧪✈️🆓|一款通过 2D 图片生成 3D 图片的模型，部署在 huggingface 上|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -147,6 +147,7 @@
 | 产品名称                        | 相关信息 | 备注                       |
 | ------------------------------- | -------- | -------------------------- |
 | [EBsynth](https://ebsynth.com/) | ✈️🆓       | 将原始视频通过 AI 转换风格 |
+| [Runway](https://runwayml.com/) | ✈️🆓&💰     | 视频生成视频，文本生成视频 |
 
 # 内容创作
 
