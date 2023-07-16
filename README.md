@@ -37,9 +37,6 @@
 - Aminer：AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper
 - One-2-3-45：一款通过 2D 图片生成 3D 图片的模型
 - Claude：一款聊天对话的语言模型，为 chatGPT 的竞品
-
-# Prompt
-- <月球的阴影> - ChatGPT编写的科幻小说：作者通过和 chatGPT 对话，目前完成了小说的梗概
 ```
 
 
