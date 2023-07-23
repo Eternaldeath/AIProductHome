@@ -19,24 +19,17 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周（7.16）更新
+3. 本周（7.23）更新
 
 ```bash
 # Project
 正在准备 AI Product Home 的在线网站 ...
 
 # AI NEWS
-- What are the chances of an AI apocalypse?：人工智能世界末日的可能性有多大
-- 剑指AI，马斯克暗度陈仓
-- 大模型需要实干派
-- ChatGPT神器Code Interpreter终于开放，到底怎么用？这里有一份保姆级教程
+- AI教父MIT万字访谈：人类可能只是AI演化过程中的一个过渡阶段
 
 # README
-- Runway：一款 ai 与艺术的产品
-- 学术版GPT：由 chatPaper 团队开发的学术版 GPT
-- Aminer：AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper
-- One-2-3-45：一款通过 2D 图片生成 3D 图片的模型
-- Claude：一款聊天对话的语言模型，为 chatGPT 的竞品
+- ChatAvatar：通过对话生成 3D 人像
 ```
 
 
@@ -134,6 +127,7 @@
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓|图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
 |[艺码](https://yima.me/)|🆓|用 ai 生成艺术二维码|
 |[One-2-3-45](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)|🧪✈️🆓|一款通过 2D 图片生成 3D 图片的模型，部署在 huggingface 上|
+|[ChatAvatar](https://hyperhuman.deemos.com/)|🆓&💰|一款通过对话生成 3D 人像的产品|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|-|-|
