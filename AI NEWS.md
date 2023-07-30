@@ -35,6 +35,9 @@
 | 技术      | [ChatPaper：论文综述细节一问即答，还能构建专属文献库｜AI工具](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247576713&idx=1&sn=b0e6b585d132925a1f11d8b5eb115712&chksm=cf7ace70f80d47667ee2dfee7af247a195e052020271de75ef7bdf0871b90ec7b19a07df4ff1&scene=126&sessionid=1689475359#rd) |                 ChatPaper + AMiner 使用教程                  |          学术头条           |
 | 技术      | [3D AI生成出新玩法了：无需数小时，只要45秒，单张图片即可生成 3D模型](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650883646&idx=5&sn=c294c4e949462e065777ed3fd64f418d&chksm=84e48240b3930b5605ba4c76f4eeeea1e76d03dd51dd96494c2331447450a412f6873ce1ace4&scene=126&sessionid=1689476652#rd) |                                                              |          机器之心           |
 | 技术      | [AI教父MIT万字访谈：人类可能只是AI演化过程中的一个过渡阶段](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247574299&idx=1&sn=67a5c0ac589c9a66552083bc73de8ba9&chksm=cf7ac1e2f80d48f4424b32bfa8e0e6beb0e1be6a65cd5ba297db9be5dc6d40ea6237e5111a80&scene=126&sessionid=1683967308#rd) |                                                              |          学术头条           |
+| 技术      | [陈巍：ChatGPT发展历程、原理、技术架构详解和产业未来](https://zhuanlan.zhihu.com/p/590655677) |                                                              |          知乎专栏           |
+| 技术      | [Midjourney结合ChatGPT技巧](https://zhuanlan.zhihu.com/p/639910296) |                                                              |          知乎专栏           |
+| 技术      | [B站第一套系统的AI绘画课](https://www.bilibili.com/video/BV1As4y127HW/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) |                                                              |            B 站             |
 | 行业      | [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) |                                                              |          澎湃新闻           |
 | 行业      | [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510) |                                                              |                             |
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |          证券时报           |
@@ -60,6 +63,7 @@
 | 行业      | [What are the chances of an AI apocalypse?](https://www.economist.com/science-and-technology/2023/07/10/what-are-the-chances-of-an-ai-apocalypse) |               人工智能世界末日的可能性有多大？               |          经济学人           |
 | 行业      | [剑指AI，马斯克暗度陈仓](https://www.8btc.com/article/6826100) |                                                              |           巴比特            |
 | 行业      | [大模型需要实干派](https://mp.weixin.qq.com/s/1bB7btScpaj-cMefnOk8Tw) |                                                              |          光子星球           |
+| 行业      | [普通人如何抓住AI这个风口?](https://www.zhihu.com/question/591256543/answer/3008064338) |                                                              |          知乎问答           |
 
 # 产业报告
 

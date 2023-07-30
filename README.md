@@ -19,17 +19,21 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周（7.23）更新
+3. 本周（7.30）更新
 
 ```bash
-# Project
-正在准备 AI Product Home 的在线网站 ...
-
 # AI NEWS
-- AI教父MIT万字访谈：人类可能只是AI演化过程中的一个过渡阶段
+- 陈巍：ChatGPT发展历程、原理、技术架构详解和产业未来
+- 普通人如何抓住AI这个风口?
+- Midjourney结合ChatGPT技巧
+- B站第一套系统的AI绘画课
 
 # README
-- ChatAvatar：通过对话生成 3D 人像
+- 迅捷办公 - 一键 AI 绘画：一款本地 AI 绘画工具
+- AI 画室：一款在线 AI 绘画工具
+- Draft：一款在线 AI 绘画工具
+- 6 open：一款在线 AI 绘画工具
+- chatgpt 中文在线：基于 ChatGLM 模型的工具
 ```
 
 
@@ -74,19 +78,20 @@
 |[youchat](https://you.com/)|✈️🆓||
 |[chat gpt](https://openai.com/blog/chatgpt)|✈️💰|Open AI<br>⚠️ Open AI 目前有地域限制|
 |[HuggingChat](https://huggingface.co/chat/)|✈️🆓&🔓|Hugging Face 推出的 ChatGPT 的开源替代品|
-|[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|🆓|一个提供大量基于 ChatGPT API 产品的导航网站|
-|[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
-|[ChatGPT 在线体验网站收集列表](https://github.com/lzwme/chatgpt-sites)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
-|[免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 产品的开源仓库|
-|[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的产品|
-|[stockai](https://stockai.trade/)|🆓|基于 ChatGPT API 的选股产品|
-|[Chat GPT Demo](https://chatgptdemo.net/zh-hans)|✈️🆓|基于 ChatGPT 4 API 的产品，允许用户免费使用，无需登录|
-|[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的产品<br>⚠️ 与百度的文心产品没有关系|
-|[freegpt](https://freegpt.cc/)|✈️🆓|基于 ChatGPT 3.5 API 的产品|
-|[AIchatOS](https://c.binjie.fun/)|✈️🆓&💰|基于 ChatGPT 3.5 API 的产品|
-|[GPT-3.5 Chatbot](https://huggingface.co/spaces/yuntian-deng/ChatGPT)|✈️🆓|基于 ChatGPT 3.5 API 的产品，部署在 Hugging Face|
-|[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的产品|
+|[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|🆓|一个提供大量基于 ChatGPT API 工具的导航网站|
+|[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
+|[ChatGPT 在线体验网站收集列表](https://github.com/lzwme/chatgpt-sites)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
+|[免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
+|[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的工具|
+|[stockai](https://stockai.trade/)|🆓|基于 ChatGPT API 的选股工具|
+|[Chat GPT Demo](https://chatgptdemo.net/zh-hans)|✈️🆓|基于 ChatGPT 4 API 的工具，允许用户免费使用，无需登录|
+|[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的工具<br>⚠️ 与百度的文心工具没有关系|
+|[freegpt](https://freegpt.cc/)|✈️🆓|基于 ChatGPT 3.5 API 的工具|
+|[AIchatOS](https://c.binjie.fun/)|✈️🆓&💰|基于 ChatGPT 3.5 API 的工具|
+|[GPT-3.5 Chatbot](https://huggingface.co/spaces/yuntian-deng/ChatGPT)|✈️🆓|基于 ChatGPT 3.5 API 的工具，部署在 Hugging Face|
+|[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的工具|
 |[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|✈️🆓&💰|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
+|[ChatGPT 中文在线](https://codenews.cc/chatgpt)|🆓|基于 ChatGLM 模型的工具<br/>⚠️ 测试结果为 ChatGLM 模型而非 ChatGPT 模型|
 |[ShareGPT](https://sharegpt.com/)|✈️🆓📥|分享你的 GPT 对话，提供给他人如何与 GPT 聊天的模板|
 |[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|✈️🆓&💰|基于多种大模型的客户端|
 |[open-assistant](https://open-assistant.io/zh)|🆓&💰|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
@@ -117,10 +122,14 @@
 |[midjourney](https://www.midjourney.com)|✈️🆓&💰|Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
 |[chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓|基于 Midjourney API 的产品，无需注册 discord|
 |[midjourney 中文版](https://www.huashou.club/)|💰|⚠️非 midjourney 官方中文版|
-|[意间 AI](http://yjai.ai-galaxy.com/)|🆓||
-|[无界 AI](https://www.wujieai.com/)|🆓&💰|以绘画 AI 为主的 AIGC 内容创作平台|
-|[文心一格](https://yige.baidu.com/)|🆓&💰|百度推出的以绘画 AI 为主的 AIGC 内容创作平台|
+|[意间 AI](http://yjai.ai-galaxy.com/)|🆓|一款在线 AI 绘画工具|
+|[无界 AI](https://www.wujieai.com/)|🆓&💰|一款在线 AI 绘画工具|
+|[AI 画室](https://www.aihuazuo.com/?stzhcdq20230620-587769810)|🆓&💰|一款在线 AI 绘画工具|
+|[Draft](https://draft.art/home)|🆓|一款在线 AI 绘画工具|
+|[6 open](https://6pen.art/)|🆓|一款在线 AI 绘画工具|
+|[文心一格](https://yige.baidu.com/)|🆓&💰|一款百度推出的在线 AI 绘画工具|
 |[稿定 AI](https://www.gaoding.com/ai)|🆓&💰|稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果|
+|[迅捷办公 - 一键 AI 绘画](https://www.xunjiepdf.com/aihuihuapc?stzhcjx230721-589056030)|🆓|一款本地 AI 绘画工具|
 |[stable diffusion](https://stablediffusionweb.com/)|✈️🆓|Stable Diffusion是一个文本到图像的潜在扩散模型|
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰|DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
 |[viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
