@@ -1,6 +1,6 @@
 # AI Product Home
 
-<img src="./img/ai_robot.png" style="zoom:30%" />
+<img src="./img/ai_robot.png" width="375" alt="一个可爱的机器人 a cute robot"/>
 
 <p align="center"> 	
     <img alt="flag" src="https://img.shields.io/badge/Hub-收集仓库-green?style=for-the-badge">
@@ -39,8 +39,9 @@
 # 交流群
 
 <div align=left>  
-<img src=".\img\weichat.png" style="zoom:30%;" />
+<img src=".\img\weichat.png" width="300" />
 </div>
+
 
 # 其他资源
 
