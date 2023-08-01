@@ -36,7 +36,11 @@
 - chatgpt 中文在线：基于 ChatGLM 模型的工具
 ```
 
+# 交流群
 
+<div align=left>  
+<img src=".\img\weichat.png" style="zoom:30%;" />
+</div>
 
 # 其他资源
 
@@ -134,7 +138,8 @@
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰|DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
 |[viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓|图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
-|[艺码](https://yima.me/)|🆓|用 ai 生成艺术二维码|
+|[艺码](https://yima.me/)|🆓|一款利用 ai 生成艺术二维码的工具|
+|[quick qr art](https://quickqr.art/)|✈️🆓&💰|一款利用 ai 生成艺术二维码的工具|
 |[One-2-3-45](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)|🧪✈️🆓|一款通过 2D 图片生成 3D 图片的模型，部署在 huggingface 上|
 |[ChatAvatar](https://hyperhuman.deemos.com/)|🆓&💰|一款通过对话生成 3D 人像的产品|
 ## 色彩搭配
