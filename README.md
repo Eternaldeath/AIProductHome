@@ -8,17 +8,16 @@
   	<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Eternaldeath/AIProductHome?color=Green&style=for-the-badge">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Eternaldeath/AIProductHome?color=green&style=for-the-badge">
     <img alt="GitHub forks" src="https://img.shields.io/badge/License-Anti%20996-green?style=for-the-badge">
+        <a href="https://raw.githubusercontent.com/Eternaldeath/AIProductHome/master/img/weichat.png">
+    	<img alt="Static Badge" src="https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-%20Wechat-blue%3F?style=for-the-badge&logo=wechat&logoColor=white&labelColor=blue">
+    </a>
 </p>
 
 <p align="center"> 	
-	<a href="https://github.com/Eternaldeath/AIProductHome/commits.atom"> 
-        <img alt="Static Badge" src="https://img.shields.io/badge/RSS%20-%20%23FFA500?style=for-		the-badge&logo=RSS&logoColor=%23FFFFFF"/>    
-    </a>
-    <a href="https://raw.githubusercontent.com/Eternaldeath/AIProductHome/master/img/weichat.png">
-    	<img alt="Static Badge" src="https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-		 %20Wechat-7BB32E%3F?style=for-the-badge&logo=wechat&logoColor=white">
+    <a href="https://github.com/Eternaldeath/AIProductHome/commits.atom"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/RSS%20-%20%23FFA500?style=for-		the-badge&logo=RSS&logoColor=%23FFFFFF"/>  
     </a>
 </p>
-
 
 1. **收集各种 AI 商业或开源产品**
 2. 提供帮助？👉 **[点击](https://github.com/Eternaldeath/AIProductHome/issues)** 👈️
