@@ -12,11 +12,13 @@
     	<img alt="Static Badge" src="https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-%20Wechat-blue%3F?style=for-the-badge&logo=wechat&logoColor=white&labelColor=blue">
     </a>
 </p>
+
 <p align="center"> 	
     <a href="https://github.com/Eternaldeath/AIProductHome/commits.atom"> 
         <img alt="Static Badge" src="https://img.shields.io/badge/RSS%20-%20%23FFA500?style=for-		the-badge&logo=RSS&logoColor=%23FFFFFF"/>  
     </a>
 </p>
+
 
 
 1. **收集各种 AI 商业或开源产品**
@@ -26,21 +28,15 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周（7.30）更新
+3. 本周（8.6）更新
 
 ```bash
-# AI NEWS
-- 陈巍：ChatGPT发展历程、原理、技术架构详解和产业未来
-- 普通人如何抓住AI这个风口?
-- Midjourney结合ChatGPT技巧
-- B站第一套系统的AI绘画课
-
 # README
-- 迅捷办公 - 一键 AI 绘画：一款本地 AI 绘画工具
-- AI 画室：一款在线 AI 绘画工具
-- Draft：一款在线 AI 绘画工具
-- 6 open：一款在线 AI 绘画工具
-- chatgpt 中文在线：基于 ChatGLM 模型的工具
+- WormGPT：一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品
+- Kickresume：一款利用 AI 来生成简历的简历生成器
+- Durable：一款人工智能网站构建器
+- LOVO：一款 AI 语音生成，文本转语音，创建自己的语音，自定义语音的工具
+- LightPDF：一款 AI 阅读辅助工具，类似 ChatDoc
 ```
 
 # 交流群
@@ -119,6 +115,8 @@
 |[火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform)|🆓&💰|字节跳动开发的云原生机器学习平台|
 |[Claude](https://claude.ai/)|🧪✈️🆓&💰|一款聊天对话的语言模型，为 chatGPT 的竞品<br/>⚠️ Claude 目前仅限美国和英国使用|
 |[ChatLaw](https://www.chatlaw.cloud/)|🆓🔓|北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|
+|[WormGPT](https://wormgpt.ai/)|✈️💰|一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品|
+||||
 # 代码辅助
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
 |-|-|-|
@@ -127,6 +125,7 @@
 |[codium ai](https://www.codium.ai/)|💰|一款面向测试使用的人工智能插件，基于 TestGpt，chatGpt|
 |[cursor](https://www.cursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
 |[codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
+|[Durable](https://durable.co/)|✈️🆓|一款人工智能网站构建器|
 # 艺术创作
 ## 图像生成
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
@@ -184,9 +183,10 @@
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
 |-|-|-|
 |[chatdoc](https://chatdoc.com/)|✈️🆓|ChatDOC 是一个基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。此外它还支持 word 等格式|
-|[chat PDF](https://www.chatpdf.com/)|✈️🆓&💰|基于OpenAI的Chat API开发的 PDF 识别文章内容的阅读助手|
+|[chat PDF](https://www.chatpdf.com/)|✈️🆓&💰|基于 OpenAI 的 Chat API 开发的 PDF 识别文章内容的阅读助手|
 |[chatpaper](https://chatpaper.org/)|🆓🔓|一款免费，开源的论文阅读 AI 辅助工具|
 |[myreader](https://www.myreader.io/)|✈️🆓&💰🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
+|LightPDF|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
 
 ## 思维导图
 |产品名称|相关信息|备注|
@@ -210,6 +210,7 @@
 |[writely](https://github.com/anc95/writely)|🆓🔓|一个替代 Notion AI 的浏览器插件|
 |[magickpen](https://magickpen.com/zh/)|✈️🆓&💰|基于 chatGPT 的智能写作助手|
 |[GPT Academic](https://github.com/binary-husky/gpt_academic)|✈️🆓🔓|提供论文润色等功能|
+|[Kickresume](https://www.kickresume.com/en/pricing/)|✈️🆓&💰|一款利用 AI 来生成简历的简历生成器|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -246,6 +247,7 @@
 |[adobe podcast](https://podcast.adobe.com/)|🧪🆓|语音增强功能使录音听起来就像是在专业录音室中录制的一样|
 |[musico](https://www.musi-co.com/listen/streams)|✈️🆓|生成音乐的 AI 模型|
 |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)|✈️🆓|Facebook 推出的文本音乐生成模型 MusicGen|
+|[LOVO](https://lovo.ai/)|✈️🆓&💰|一款 AI 语音生成，文本转语音，创建自己的语音，自定义语音的工具|
 ## 换脸
 |产品名称|相关信息|备注|
 |-|-|-|
