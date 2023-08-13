@@ -38,6 +38,7 @@
 | 技术      | [陈巍：ChatGPT发展历程、原理、技术架构详解和产业未来](https://zhuanlan.zhihu.com/p/590655677) |                                                              |          知乎专栏           |
 | 技术      | [Midjourney结合ChatGPT技巧](https://zhuanlan.zhihu.com/p/639910296) |                                                              |          知乎专栏           |
 | 技术      | [B站第一套系统的AI绘画课](https://www.bilibili.com/video/BV1As4y127HW/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) |                                                              |            B 站             |
+| 技术      | [谷歌 DeepMind 打破十年算法封印，AlphaDev 惊世登场](https://www.ithome.com/0/698/425.htm) |                                                              |           IT 之家           |
 | 行业      | [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) |                                                              |          澎湃新闻           |
 | 行业      | [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510) |                                                              |                             |
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |          证券时报           |
@@ -50,7 +51,7 @@
 | 行业      | 📺️ [OpenAI 首席科学家谈大型语言模型的未来](https://www.8btc.com/article/6821460) |                                                              | YouTube \| Stanford eCorner |
 | 行业      | [探讨 AI 对就业的影响：哪些工作可能被替代，又会出现哪些新岗位？](https://www.8btc.com/article/6821010) |                                                              |           巴比特            |
 | 行业      | [OpenAI无意间发现了一个有史以来最赚钱的商业模式](https://36kr.com/p/2198085797087364) |                                                              |         36kr（译）          |
-| 行业      | [AI is not alien, it's us](https://metastable.org/alien.html) |                人工智能不是外星人，它就是我们                |         metastable          |
+| 行业      | [AI is not alien, it's us](https://metastable.org/alien.html) |                人工智能不是外星人，它就是我们                |         Metastable          |
 | 行业      | [加快发展新一代人工智能](http://paper.people.com.cn/rmrb/html/2023-06/16/nw.D110000renmrb_20230616_6-05.htm) |                                                              |    人民日报（二流报纸）     |
 | 行业      | [ChatGPT参加了2023高考数学，它的分数超过你了吗？](https://mp.weixin.qq.com/s/HG_Axf38ljcaQTfi9pyJvA) | chatGPT 在高考试卷中得到了很好的分数，根据其数学测评，它的水平已经达到了进入中上游 985 院校的水平 |          碳基封面           |
 | 行业      | [ChatGPT Plugin：被高估的“App Store时刻”，软件和SaaS生态的重组开端](https://www.8btc.com/article/6822494) |                                                              |           巴比特            |
@@ -64,6 +65,9 @@
 | 行业      | [剑指AI，马斯克暗度陈仓](https://www.8btc.com/article/6826100) |                                                              |           巴比特            |
 | 行业      | [大模型需要实干派](https://mp.weixin.qq.com/s/1bB7btScpaj-cMefnOk8Tw) |                                                              |          光子星球           |
 | 行业      | [普通人如何抓住AI这个风口?](https://www.zhihu.com/question/591256543/answer/3008064338) |                                                              |          知乎问答           |
+| 行业      | [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) |    泄露的谷歌内部文件声称开源人工智能将超越谷歌和 OpenAI     |    某公共 Discord 服务器    |
+| 行业      | [Radio station gets part-time AI DJ based on its midday host](https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/) |                           AI 广播                            |         Techcrunch          |
+| 行业      | [The Future of SEO in a Post-ChatGPT World](https://www.animalz.co/blog/seo-and-chatgpt/) |                     有 ChatGPT 后的 SEO                      |           Animalz           |
 
 # 产业报告
 

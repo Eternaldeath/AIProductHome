@@ -13,7 +13,7 @@
         <img alt="RSS" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white">
 </p>
 <p align="center">
-        <a href="https://raw.githubusercontent.com/Eternaldeath/AIProductHome/master/img/weichat.png">
+        <a href="https://raw.githubusercontent.com/Eternaldeath/AIProductHome/master/img/wechat.jpg">
     	<img alt="WeChat" src="https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-%20Wechat-blue%3F?style=for-the-badge&logo=wechat&logoColor=white&labelColor=blue">
     </a>
 </p>
@@ -34,20 +34,24 @@
 3. 本周（8.6）更新
 
 ```bash
+# AI NEWS
+- Google "We Have No Moat, And Neither Does OpenAI"：谷歌“我们没有护城河，OpenAI 也没有”
+- 谷歌 DeepMind 打破十年算法封印，AlphaDev 惊世登场
+- Radio station gets part-time AI DJ based on its midday host：AI 广播
+- The Future of SEO in a Post-ChatGPT World：有 ChatGPT 后的 SEO
+
 # README
-- WormGPT：一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品
-- Kickresume：一款利用 AI 来生成简历的简历生成器
-- Durable：一款人工智能网站构建器
-- LOVO：一款 AI 语音生成，文本转语音，创建自己的语音，自定义语音的工具
-- LightPDF：一款 AI 阅读辅助工具，类似 ChatDoc
+- AI 导航
+- Claude2 中文
 ```
 
 # 交流群
 
-<div align=left>  
-<img src=".\img\weichat.png" width="300" />
-</div>
+添加微信，邀您入群
 
+<div align=left>  
+<img src=".\img\wechat.jpg" width="300" />
+</div>
 
 # 其他资源
 
@@ -116,7 +120,8 @@
 |[huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)|🧪🆓|香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT)|
 |[GPT-2 Output Detector](https://openai-openai-detector--5smxg.hf.space/)|✈️🆓|反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率|
 |[火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform)|🆓&💰|字节跳动开发的云原生机器学习平台|
-|[Claude](https://claude.ai/)|🧪✈️🆓&💰|一款聊天对话的语言模型，为 chatGPT 的竞品<br/>⚠️ Claude 目前仅限美国和英国使用|
+|[Claude](https://claude.ai/)|🧪✈️🆓&💰|Anthropic 公司开发的 AI 聊天工具<br/>⚠️ Claude 目前仅限美国和英国使用|
+|[Claude2 中文](https://www.claudeai.ai/zh-CN/)|🆓|非官方镜像|
 |[ChatLaw](https://www.chatlaw.cloud/)|🆓🔓|北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|
 |[WormGPT](https://wormgpt.ai/)|✈️💰|一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品|
 ||||
@@ -274,6 +279,7 @@
 |[ai model](https://aimodel.app/)|🆓|一个 AI 工具导航网站|
 |[toolai](https://www.toolai.io/zh/)|🆓|一个 AI 工具导航网站|
 |[91wink](https://www.91wink.com/)|🆓|一个 AI 工具导航网站|
+|[AI 导航](https://ai.dreamthere.cn/)|🆓|一个 AI 工具导航网站|
 |[AI 研究所](https://www.aiyjs.com/)|🆓|一个提供 AI 资讯，AI 工具等内容的聚合网站|
 |[Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)|🆓|一个动态更新的 LLM 模型排行榜|
 
