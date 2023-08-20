@@ -31,18 +31,14 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周（8.6）更新
+3. 本周（8.20）更新
 
 ```bash
-# AI NEWS
-- Google "We Have No Moat, And Neither Does OpenAI"：谷歌“我们没有护城河，OpenAI 也没有”
-- 谷歌 DeepMind 打破十年算法封印，AlphaDev 惊世登场
-- Radio station gets part-time AI DJ based on its midday host：AI 广播
-- The Future of SEO in a Post-ChatGPT World：有 ChatGPT 后的 SEO
-
 # README
-- AI 导航
-- Claude2 中文
+- Tabby：一款开源的 AI 编程助手，用于替代 Github Copilot
+- MiLM-6B：一款小米开发的开源大规模预训练语言模型
+- C-Eval：一个适用于大语言模型的多层次多学科中文评估套件
+- Named by AI：一款利用 AI 来生成英文名字的工具
 ```
 
 # 交流群
@@ -124,15 +120,16 @@
 |[Claude2 中文](https://www.claudeai.ai/zh-CN/)|🆓|非官方镜像|
 |[ChatLaw](https://www.chatlaw.cloud/)|🆓🔓|北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|
 |[WormGPT](https://wormgpt.ai/)|✈️💰|一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品|
-||||
+|[MiLM-6B](https://github.com/XiaoMi/MiLM-6B)||一款小米开发的大规模预训练语言模型|
 # 代码辅助
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
 |-|-|-|
-|[copilot](https://github.com/features/copilot)|✈️🆓&🔓|Github 提供的基于 Openai codex 的代码提示功能|
-|[codeium](https://codeium.com/)|✈️🆓&🔓📥|copilot 的平替产品，以插件的方式支持主流的编辑器或 IDE|
-|[codium ai](https://www.codium.ai/)|💰|一款面向测试使用的人工智能插件，基于 TestGpt，chatGpt|
-|[cursor](https://www.cursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
-|[codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
+|[Copilot](https://github.com/features/copilot)|✈️🆓&🔓|Github 提供的基于 Openai codex 的代码提示功能|
+|[Codeium](https://codeium.com/)|✈️🆓&🔓📥|一款开源的 AI 编程助手插件，用于替代 Github Copilot|
+|[Tabby](https://tabbyml.github.io/tabby/)|✈️🆓🔓|一款开源的 AI 编程助手，用于替代 Github Copilot|
+|[Codium ai](https://www.codium.ai/)|💰|一款面向测试使用的人工智能插件，基于 TestGpt，chatGpt|
+|[Cursor](https://www.cursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
+|[Codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
 |[Durable](https://durable.co/)|✈️🆓|一款人工智能网站构建器|
 # 艺术创作
 ## 图像生成
@@ -219,6 +216,7 @@
 |[magickpen](https://magickpen.com/zh/)|✈️🆓&💰|基于 chatGPT 的智能写作助手|
 |[GPT Academic](https://github.com/binary-husky/gpt_academic)|✈️🆓🔓|提供论文润色等功能|
 |[Kickresume](https://www.kickresume.com/en/pricing/)|✈️🆓&💰|一款利用 AI 来生成简历的简历生成器|
+|[Named by AI](https://www.namedbyai.com/)|✈️🆓|一款利用 AI 来生成英文名字的工具|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -282,6 +280,7 @@
 |[AI 导航](https://ai.dreamthere.cn/)|🆓|一个 AI 工具导航网站|
 |[AI 研究所](https://www.aiyjs.com/)|🆓|一个提供 AI 资讯，AI 工具等内容的聚合网站|
 |[Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)|🆓|一个动态更新的 LLM 模型排行榜|
+|[C-Eval](https://cevalbenchmark.com/index_zh.html)|🆓|一个适用于大语言模型的多层次多学科中文评估套件|
 
 # 教程
 
