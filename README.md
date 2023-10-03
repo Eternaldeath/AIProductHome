@@ -31,19 +31,28 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周（8.20）更新
+3. 本周（10.03）更新
 
 ```bash
 # README
-- Tabby：一款开源的 AI 编程助手，用于替代 Github Copilot
-- MiLM-6B：一款小米开发的开源大规模预训练语言模型
-- C-Eval：一个适用于大语言模型的多层次多学科中文评估套件
-- Named by AI：一款利用 AI 来生成英文名字的工具
+- Stable-diffusion-videos：根据描述生成视频
+- 豆包：字节跳动推出的 AI 聊天工具
+- 智联 AI：基于 chatGPT API 的工具，支持 3.5 和 4
+- SeamlessM4T：一款 Mate 推出的 AI 翻译模型，有在线 Demo
+- 智谱清言：生成式 AI 助手
+- 百川智能：人工智能大模型
+- 商量 SenseChat：人工智能大模型
+- 天工 AI 搜索：基于 AI 的搜索引擎
+- FinChat：面向投资者的 ChatGPT
+- 讯飞星火认知大模型：人工智能大模型
+- V0.dev：一款用来进行设计和编程的 AI 辅助工具
+- Stable diffusion XL：最新版本的 Stable diffusion
+- AI Town：一个虚拟城镇，AI 角色在此居住、聊天和社交
 ```
 
 # 交流群
 
-添加微信，邀您入群
+添加微信，备注【AI 工具】，邀您入群
 
 <div align=left>  
 <img src=".\img\wechat.jpg" width="300" />
@@ -77,6 +86,7 @@
 | [consensus](https://consensus.app/search/)       | ✈️🆓&💰     | 学术方向的 AI 搜索引擎，根据检索内容，提供相关的论文，并总结 |
 | [学术版GPT](https://academic.chatwithpaper.org/) | 🧪🆓       | 由 chatPaper 团队开发的学术版 GPT                            |
 | [Aminer](https://www.aminer.cn/)                 | 🆓        | AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper |
+| [天工 AI 搜索](https://search.tiangong.cn/)      | 🆓        | 基于人工智能技术的搜索引擎产品                               |
 
 
 
@@ -94,6 +104,7 @@
 |[ChatGPT 在线体验网站收集列表](https://github.com/lzwme/chatgpt-sites)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
 |[免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
 |[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的工具|
+|[智联 AI](https://xaogpt.cn/)|🆓&💰|基于 chatGPT API 的工具，支持 3.5 和 4|
 |[stockai](https://stockai.trade/)|🆓|基于 ChatGPT API 的选股工具|
 |[Chat GPT Demo](https://chatgptdemo.net/zh-hans)|✈️🆓|基于 ChatGPT 4 API 的工具，允许用户免费使用，无需登录|
 |[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的工具<br>⚠️ 与百度的文心工具没有关系|
@@ -120,8 +131,20 @@
 |[Claude2 中文](https://www.claudeai.ai/zh-CN/)|🆓|非官方镜像|
 |[ChatLaw](https://www.chatlaw.cloud/)|🆓🔓|北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|
 |[WormGPT](https://wormgpt.ai/)|✈️💰|一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品|
-|[MiLM-6B](https://github.com/XiaoMi/MiLM-6B)||一款小米开发的大规模预训练语言模型|
+|[MiLM-6B](https://github.com/XiaoMi/MiLM-6B)|🆓|一款小米开发的大规模预训练语言模型|
+|[豆包](https://www.doubao.com/chat/2694826498)|🧪🆓|一款字节跳动开发的聊天 AI|
+|[百川智能](www.baichuan-ai.com)|🆓|人工智能大模型|
+|[商量 SenseChat](https://chat.sensetime.com/)|🆓|人工智能大模型|
+|[讯飞星火认知大模型](https://passport.xfyun.cn/)|🆓|人工智能大模型|
+|[FinChat](https://finchat.io/)|✈️🆓|面向投资者的 ChatGPT|
+# AI 助手
+
+| 产品名称                              | 相关信息 | 备注           |
+| ------------------------------------- | -------- | -------------- |
+| [智谱清言](https://chatglm.cn/detail) | 🆓        | 生成式 AI 助手 |
+
 # 代码辅助
+
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
 |-|-|-|
 |[Copilot](https://github.com/features/copilot)|✈️🆓&🔓|Github 提供的基于 Openai codex 的代码提示功能|
@@ -131,6 +154,7 @@
 |[Cursor](https://www.cursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
 |[Codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
 |[Durable](https://durable.co/)|✈️🆓|一款人工智能网站构建器|
+|[V0.dev](https://v0.dev/)|✈️🆓|一款用来进行设计和编程的 AI 辅助工具|
 # 艺术创作
 ## 图像生成
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
@@ -146,7 +170,8 @@
 |[文心一格](https://yige.baidu.com/)|🆓&💰|一款百度推出的在线 AI 绘画工具|
 |[稿定 AI](https://www.gaoding.com/ai)|🆓&💰|稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果|
 |[迅捷办公 - 一键 AI 绘画](https://www.xunjiepdf.com/aihuihuapc?stzhcjx230721-589056030)|🆓|一款本地 AI 绘画工具|
-|[stable diffusion](https://stablediffusionweb.com/)|✈️🆓|Stable Diffusion是一个文本到图像的潜在扩散模型|
+|[Stable diffusion](https://stablediffusionweb.com/)|✈️🆓|Stable Diffusion 是一个文本到图像的潜在扩散模型|
+|[Stable diffusion XL](https://www.stablediffusionai.ai/zh-CN)|✈️🆓|最新版本的 Stable diffusion|
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰|DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
 |[viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓|图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
@@ -161,10 +186,17 @@
 |[khroma](https://www.khroma.co/)|✈️🆓||
 ## 视频生成
 
-| 产品名称                        | 相关信息 | 备注                       |
-| ------------------------------- | -------- | -------------------------- |
-| [EBsynth](https://ebsynth.com/) | ✈️🆓       | 将原始视频通过 AI 转换风格 |
-| [Runway](https://runwayml.com/) | ✈️🆓&💰     | 视频生成视频，文本生成视频 |
+| 产品名称                                                     | 相关信息 | 备注                       |
+| ------------------------------------------------------------ | -------- | -------------------------- |
+| [EBsynth](https://ebsynth.com/)                              | ✈️🆓       | 将原始视频通过 AI 转换风格 |
+| [Runway](https://runwayml.com/)                              | ✈️🆓&💰     | 视频生成视频，文本生成视频 |
+| [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) | ✈️🆓🔓      | 根据描述生成视频           |
+
+## 游戏
+
+| 产品名称                                         | 相关信息 | 备注                                      |
+| ------------------------------------------------ | -------- | ----------------------------------------- |
+| [AI Town](https://github.com/get-convex/ai-town) | ✈️🆓🔓      | 一个虚拟城镇，AI 角色在此居住、聊天和社交 |
 
 # 内容创作
 
@@ -231,7 +263,12 @@
 | ---------------------------------------- | -------- | -------------------------------------------------------- |
 | [即时 AI](https://js.design/ai-upcoming) | 🧪🆓       | 由文本描述生成可编辑 的原型设计稿                        |
 | [美图设计室](https://design.meitu.com/)  | 🧪🆓&💰     | 提供大量基于设计领域的 AI 功能，如，AI 试衣，AI 海报 ... |
-|                                          |          |                                                          |
+
+## 翻译 AI
+
+| 产品名称                                                     | 相关信息 | 备注                                                         |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) | ✈️🆓       | 一款 Mate 推出的 AI 翻译模型，有在线 [Demo](https://seamless.metademolab.com/) |
 
 
 
