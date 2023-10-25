@@ -31,23 +31,10 @@
    3. 提供资源
    4. 帮助纠错
    5. ...
-3. 本周（10.03）更新
+3. 更新记录
 
 ```bash
-# README
-- Stable-diffusion-videos：根据描述生成视频
-- 豆包：字节跳动推出的 AI 聊天工具
-- 智联 AI：基于 chatGPT API 的工具，支持 3.5 和 4
-- SeamlessM4T：一款 Mate 推出的 AI 翻译模型，有在线 Demo
-- 智谱清言：生成式 AI 助手
-- 百川智能：人工智能大模型
-- 商量 SenseChat：人工智能大模型
-- 天工 AI 搜索：基于 AI 的搜索引擎
-- FinChat：面向投资者的 ChatGPT
-- 讯飞星火认知大模型：人工智能大模型
-- V0.dev：一款用来进行设计和编程的 AI 辅助工具
-- Stable diffusion XL：最新版本的 Stable diffusion
-- AI Town：一个虚拟城镇，AI 角色在此居住、聊天和社交
+- 秋招中，暂停更新
 ```
 
 # 交流群
