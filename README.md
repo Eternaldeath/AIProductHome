@@ -8,7 +8,7 @@
     <img alt="flag" src="https://img.shields.io/badge/Hub-收集仓库-green?style=for-the-badge">
   	<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Eternaldeath/AIProductHome?color=Green&style=for-the-badge">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Eternaldeath/AIProductHome?color=green&style=for-the-badge">
-    <img alt="GitHub forks" src="https://img.shields.io/badge/License-Anti%20996-green?style=for-the-badge">
+    <!--<img alt="GitHub forks" src="https://img.shields.io/badge/License-Anti%20996-green?style=for-the-badge">-->
     <a href="https://github.com/Eternaldeath/AIProductHome/commits.atom"> 
         <img alt="RSS" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white">
 </p>
@@ -17,11 +17,6 @@
     	<img alt="WeChat" src="https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-%20Wechat-blue%3F?style=for-the-badge&logo=wechat&logoColor=white&labelColor=blue">
     </a>
 </p>
-
-
-
-
-
 
 
 1. **收集各种 AI 商业或开源产品**
