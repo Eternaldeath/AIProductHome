@@ -29,7 +29,13 @@
 3. 更新记录
 
 ```bash
-- 秋招中，暂停更新
+# 2023.12.3
+- ToolAI：一个 AI 工具导航网站
+- 1024Code：带有 AI 辅助的在线 IDE
+- Monica：支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）
+- ZhuChat：基于 ChatGPT 3.5 API 的工具
+- 白泽 ChatGPT：基于 ChatGPT 3.5 API 的工具
+- SDXL Turbo：输入提示词，快速生成对应的图画，目前仅支持英文
 ```
 
 # 交流群
@@ -94,6 +100,8 @@
 |[AIchatOS](https://c.binjie.fun/)|✈️🆓&💰|基于 ChatGPT 3.5 API 的工具|
 |[GPT-3.5 Chatbot](https://huggingface.co/spaces/yuntian-deng/ChatGPT)|✈️🆓|基于 ChatGPT 3.5 API 的工具，部署在 Hugging Face|
 |[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的工具|
+|[ZhuChat](https://chat2.geekgpt.site/#/chat/1002)|✈️🆓|基于 ChatGPT 3.5 API 的工具|
+|[白泽 ChatGPT](https://www.lifemindx.com/)|✈️🆓&💰|基于 ChatGPT 3.5 API 的工具|
 |[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|✈️🆓&💰|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
 |[ChatGPT 中文在线](https://codenews.cc/chatgpt)|🆓|基于 ChatGLM 模型的工具<br/>⚠️ 测试结果为 ChatGLM 模型而非 ChatGPT 模型|
 |[ShareGPT](https://sharegpt.com/)|✈️🆓📥|分享你的 GPT 对话，提供给他人如何与 GPT 聊天的模板|
@@ -103,6 +111,7 @@
 |[freedom gpt](https://freedomgpt.com/)|✈️🆓&💰||
 |[Poe](https://poe.com/)|✈️🆓&💰|AI 产品聚合网站，包括 GPT4，chatgpt 等|
 |[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓&💰📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
+|[Monica](https://monica.im/)|✈️🆓📥|支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）|
 |[chatgpt4google](https://chatgpt4google.com/)|✈️🆓&💰📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
 |[character.ai](https://beta.character.ai/)|✈️🆓&💰|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
 |[Bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型<br>⚠️ bard 目前有地域限制|
@@ -134,6 +143,7 @@
 |[Tabby](https://tabbyml.github.io/tabby/)|✈️🆓🔓|一款开源的 AI 编程助手，用于替代 Github Copilot|
 |[Codium ai](https://www.codium.ai/)|💰|一款面向测试使用的人工智能插件，基于 TestGpt，chatGpt|
 |[Cursor](https://www.cursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
+|[1024Code](https://1024code.com/)|🧪🆓|带有 AI 辅助的在线 IDE|
 |[Codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
 |[Durable](https://durable.co/)|✈️🆓|一款人工智能网站构建器|
 |[V0.dev](https://v0.dev/)|✈️🆓|一款用来进行设计和编程的 AI 辅助工具|
@@ -161,6 +171,7 @@
 |[quick qr art](https://quickqr.art/)|✈️🆓&💰|一款利用 ai 生成艺术二维码的工具|
 |[One-2-3-45](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)|🧪✈️🆓|一款通过 2D 图片生成 3D 图片的模型，部署在 huggingface 上|
 |[ChatAvatar](https://hyperhuman.deemos.com/)|🆓&💰|一款通过对话生成 3D 人像的产品|
+|[SDXL Turbo](https://sdxlturbo.ai/)|✈️🆓|输入提示词，快速生成对应的图画，**目前仅支持英文**|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|-|-|
@@ -297,6 +308,7 @@
 |[toolai](https://www.toolai.io/zh/)|🆓|一个 AI 工具导航网站|
 |[91wink](https://www.91wink.com/)|🆓|一个 AI 工具导航网站|
 |[AI 导航](https://ai.dreamthere.cn/)|🆓|一个 AI 工具导航网站|
+|[ToolAI](https://toolai.io/zh/)|🆓|一个 AI 工具导航网站|
 |[AI 研究所](https://www.aiyjs.com/)|🆓|一个提供 AI 资讯，AI 工具等内容的聚合网站|
 |[Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)|🆓|一个动态更新的 LLM 模型排行榜|
 |[C-Eval](https://cevalbenchmark.com/index_zh.html)|🆓|一个适用于大语言模型的多层次多学科中文评估套件|
