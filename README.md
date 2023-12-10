@@ -29,13 +29,12 @@
 3. 更新记录
 
 ```bash
-# 2023.12.3
-- ToolAI：一个 AI 工具导航网站
-- 1024Code：带有 AI 辅助的在线 IDE
-- Monica：支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）
-- ZhuChat：基于 ChatGPT 3.5 API 的工具
-- 白泽 ChatGPT：基于 ChatGPT 3.5 API 的工具
-- SDXL Turbo：输入提示词，快速生成对应的图画，目前仅支持英文
+# 2023.12.10
+# AI 工具
+- Bibigpt：基于 ChatGPT 的总结视频内容的工具，支持多个平台
+- Glarity：基于 ChatGPT，OpenAI Key，Claude 和 GPT4的总结视频内容的浏览器插件，支持多个平台
+- Summarize：基于 AI 的总结视频内容的工具，支持多个平台
+- Phind：由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持
 ```
 
 # 交流群
