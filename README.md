@@ -114,7 +114,7 @@
 |[Monica](https://monica.im/)|✈️🆓📥|支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）|
 |[chatgpt4google](https://chatgpt4google.com/)|✈️🆓&💰📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
 |[character.ai](https://beta.character.ai/)|✈️🆓&💰|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
-|[Bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型<br>⚠️ bard 目前有地域限制|
+|[Bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型<br>⚠️ 请开启全局访问，并选择美国节点|
 |[huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)|🧪🆓|香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT)|
 |[GPT-2 Output Detector](https://openai-openai-detector--5smxg.hf.space/)|✈️🆓|反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率|
 |[火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform)|🆓&💰|字节跳动开发的云原生机器学习平台|
@@ -147,6 +147,7 @@
 |[Codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
 |[Durable](https://durable.co/)|✈️🆓|一款人工智能网站构建器|
 |[V0.dev](https://v0.dev/)|✈️🆓|一款用来进行设计和编程的 AI 辅助工具|
+|[Phind](https://www.phind.com/search?home=true)|✈️🆓|由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持|
 # 艺术创作
 ## 图像生成
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
@@ -218,7 +219,16 @@
 |[myreader](https://www.myreader.io/)|✈️🆓&💰🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
 |LightPDF|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
 
+## 视频辅助
+
+| 产品名称                                 | 相关信息&emsp;&emsp;&emsp;&emsp;&emsp; | 备注                                                         |
+| ---------------------------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| [bibigpt](https://bibigpt.co/)           | ✈️🆓&💰                                   | 1. 基于 ChatGPT 的总结视频内容的工具<br/>2. 支持平台：B 站，抖音，快手，小红书，Youtube |
+| [Glarity](https://glarity.app/zh-CN)     | ✈️🆓📥                                    | 1. 基于 ChatGPT，OpenAI Key，Claude 和 GPT4的总结视频内容的插件<br/>2. 插件平台：Chrome，Edge，Safari，Firefox，Opera<br/>3. 支持平台：YouTube、Google、Twitter，B 站等 |
+| [summarize](https://www.summarize.tech/) | ✈️🆓                                     | 1. 基于 AI 的总结视频内容的工具<br/>2. 支持平台：YouTube     |
+
 ## 思维导图
+
 |产品名称|相关信息|备注|
 |-|-|-|
 |[chat mind](https://www.chatmind.tech/)|🆓&💰|Chatmind是专注于AI生成思维导图的效率工具|
@@ -294,7 +304,14 @@
 |产品名称|相关信息|备注|
 |-|-|-|
 |[promptperfect](https://promptperfect.jina.ai/)|✈️🆓|优化你的提示词|
+# GPTs
+
+| 产品名称                         | 相关信息 | 备注         |
+| -------------------------------- | -------- | ------------ |
+| [Gptstore](https://gptstore.ai/) | ✈️🆓       | GPT 插件商店 |
+
 # 其他
+
 |产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
 |-|-|-|
 |[roomgpt](https://www.roomgpt.io/)|🆓|室内设计|
