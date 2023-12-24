@@ -39,6 +39,7 @@
 | 技术      | [Midjourney结合ChatGPT技巧](https://zhuanlan.zhihu.com/p/639910296) |                                                              |          知乎专栏           |
 | 技术      | [B站第一套系统的AI绘画课](https://www.bilibili.com/video/BV1As4y127HW/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) |                                                              |            B 站             |
 | 技术      | [谷歌 DeepMind 打破十年算法封印，AlphaDev 惊世登场](https://www.ithome.com/0/698/425.htm) |                                                              |           IT 之家           |
+| 技术      | [Nature重磅：击败人类数学家，AI首次攻破经典数学难题](https://mp.weixin.qq.com/s/cAYvtR4fmWicwjhT5s2YAQ) | 介绍了一种名为FunSearch的方法，利用人工智能大模型与自动评估器配对，搜索数学和计算机科学的新解决方案 |          学术头条           |
 | 行业      | [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) |                                                              |          澎湃新闻           |
 | 行业      | [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510) |                                                              |                             |
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |          证券时报           |
@@ -68,6 +69,7 @@
 | 行业      | [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) |    泄露的谷歌内部文件声称开源人工智能将超越谷歌和 OpenAI     |    某公共 Discord 服务器    |
 | 行业      | [Radio station gets part-time AI DJ based on its midday host](https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/) |                           AI 广播                            |         Techcrunch          |
 | 行业      | [The Future of SEO in a Post-ChatGPT World](https://www.animalz.co/blog/seo-and-chatgpt/) |                     有 ChatGPT 后的 SEO                      |           Animalz           |
+| 行业      | [AI新战场打响，硅谷五巨头瞄准智能眼镜](https://36kr.com/p/2566324359734659) |                       智能眼镜卷土重来                       |           智东西            |
 
 # 产业报告
 

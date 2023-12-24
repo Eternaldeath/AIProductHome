@@ -20,7 +20,7 @@
 
 
 1. **收集各种 AI 商业或开源产品**
-2. 提供帮助？👉 **[点击](https://github.com/Eternaldeath/AIProductHome/issues)** 👈️
+2. 提供帮助？👉 **[提交 ISSUE](https://github.com/Eternaldeath/AIProductHome/issues)** 👈️
    1. 自我推荐
    2. 资源失效
    3. 提供资源
@@ -29,12 +29,31 @@
 3. 更新记录
 
 ```bash
-# 2023.12.10
+
+  ___   ___ ___  ____       __ ___      ___  _  _   
+ |__ \ / _ \__ \|___ \     /_ |__ \    |__ \| || |  
+    ) | | | | ) | __) |_____| |  ) |_____ ) | || |_ 
+   / /| | | |/ / |__ <______| | / /______/ /|__   _|
+  / /_| |_| / /_ ___) |     | |/ /_     / /_   | |  
+ |____|\___/____|____/      |_|____|   |____|  |_|   
+
 # AI 工具
-- Bibigpt：基于 ChatGPT 的总结视频内容的工具，支持多个平台
-- Glarity：基于 ChatGPT，OpenAI Key，Claude 和 GPT4的总结视频内容的浏览器插件，支持多个平台
-- Summarize：基于 AI 的总结视频内容的工具，支持多个平台
-- Phind：由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持
+- 小绿鲸英文文献阅读器【贡献者：lixiaozhe.com】：内置基于 AI 的文献全文翻译功能
+- supadoc.ai【贡献者：xqliu】：基于 GPT4 的文档生成工具，提供诸如产品需求文档、功能设计文档、市场推广方案等功能
+- AI简历-求职帮手【贡献者：itLeeyw】：新一代在线AI简历工具，制作高质量简历
+- FinGPT：面向金融领域的开源 GPT 模型，可以部署在自己的电脑上
+- 通义灵码：阿里推出的辅助编程的 AI 工具，以插件的方式出现在主流的开发工具上（如 Vscode 等）
+- GPT3Demo：提供大量 Demo 告诉你如何利用 GPT 进行商业变现
+- MetaGPT：给出你的需求，该 GPT 自动执行需求内容，需要提供 OpenAI 的 API 密钥
+
+# AI 教程
+- 效果拉满，效率惊人❗用AI工具3分钟整理并制作出一本书的思维导图
+- 不会还有人不会用AI做毕设吧？！
+- 24小时300%回报？5个ChatGPT搞钱成功案例鉴定汇总
+
+# AI NEWS
+- Nature重磅：击败人类数学家，AI首次攻破经典数学难题
+- AI新战场打响，硅谷五巨头瞄准智能眼镜
 ```
 
 # 交流群
@@ -216,7 +235,8 @@
 |[chat PDF](https://www.chatpdf.com/)|✈️🆓&💰|基于 OpenAI 的 Chat API 开发的 PDF 识别文章内容的阅读助手|
 |[chatpaper](https://chatpaper.org/)|🆓🔓|一款免费，开源的论文阅读 AI 辅助工具|
 |[myreader](https://www.myreader.io/)|✈️🆓&💰🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
-|LightPDF|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
+|[LightPDF](https://lightpdf.com/)|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
+|[小鲸鱼英文文献阅读](https://www.xljsci.com/)<br/><font size=1>**（贡献者：lixiaozhe.com）**</font>|🆓&💰|内置基于 AI 的文献全文翻译功能|
 
 ## 视频辅助
 
@@ -251,6 +271,8 @@
 |[GPT Academic](https://github.com/binary-husky/gpt_academic)|✈️🆓🔓|提供论文润色等功能|
 |[Kickresume](https://www.kickresume.com/en/pricing/)|✈️🆓&💰|一款利用 AI 来生成简历的简历生成器|
 |[Named by AI](https://www.namedbyai.com/)|✈️🆓|一款利用 AI 来生成英文名字的工具|
+|[SupaDoc.ai](https://supadoc.ai)<br><font size=1>**（贡献者：[xqliu](https://github.com/xqliu)）**</font>|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高|
+|[AI简历-求职帮手](https://ai-tools.cn/resume) <br/><font size=1>**（贡献者：[itLeeyw](https://github.com/itLeeyw)）**</font>|🆓&💰|新一代在线AI简历工具，制作高质量简历|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
