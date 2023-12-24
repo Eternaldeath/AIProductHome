@@ -38,9 +38,9 @@
  |____|\___/____|____/      |_|____|   |____|  |_|   
 
 # AI 工具
-- 小绿鲸英文文献阅读器【贡献者：lixiaozhe.com】：内置基于 AI 的文献全文翻译功能
-- supadoc.ai【贡献者：xqliu】：基于 GPT4 的文档生成工具，提供诸如产品需求文档、功能设计文档、市场推广方案等功能
-- AI简历-求职帮手【贡献者：itLeeyw】：新一代在线AI简历工具，制作高质量简历
+- 小绿鲸英文文献阅读器【分享者：lixiaozhe.com】：内置基于 AI 的文献全文翻译功能
+- supadoc.ai【分享者：xqliu】：基于 GPT4 的文档生成工具，提供诸如产品需求文档、功能设计文档、市场推广方案等功能
+- AI简历-求职帮手【分享者：itLeeyw】：新一代在线AI简历工具，制作高质量简历
 - FinGPT：面向金融领域的开源 GPT 模型，可以部署在自己的电脑上
 - 通义灵码：阿里推出的辅助编程的 AI 工具，以插件的方式出现在主流的开发工具上（如 Vscode 等）
 - GPT3Demo：提供大量 Demo 告诉你如何利用 GPT 进行商业变现
@@ -154,7 +154,7 @@
 
 # 代码辅助
 
-|产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
+|产品名称|相关信息&emsp;|备注|
 |-|-|-|
 |[Copilot](https://github.com/features/copilot)|✈️🆓&🔓|Github 提供的基于 Openai codex 的代码提示功能|
 |[Codeium](https://codeium.com/)|✈️🆓&🔓📥|一款开源的 AI 编程助手插件，用于替代 Github Copilot|
@@ -168,7 +168,7 @@
 |[Phind](https://www.phind.com/search?home=true)|✈️🆓|由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持|
 # 艺术创作
 ## 图像生成
-|产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[midjourney](https://www.midjourney.com)|✈️🆓&💰|Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
 |[chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓|基于 Midjourney API 的产品，无需注册 discord|
@@ -229,14 +229,14 @@
 |[chat excel](https://chatexcel.com/)|🆓|ChatExcel是通过文字聊天实现Excel交互控制的AI辅助工具|
 
 ## 阅读辅助
-|产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[chatdoc](https://chatdoc.com/)|✈️🆓|ChatDOC 是一个基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。此外它还支持 word 等格式|
 |[chat PDF](https://www.chatpdf.com/)|✈️🆓&💰|基于 OpenAI 的 Chat API 开发的 PDF 识别文章内容的阅读助手|
 |[chatpaper](https://chatpaper.org/)|🆓🔓|一款免费，开源的论文阅读 AI 辅助工具|
 |[myreader](https://www.myreader.io/)|✈️🆓&💰🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
 |[LightPDF](https://lightpdf.com/)|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
-|[小鲸鱼英文文献阅读](https://www.xljsci.com/)<br/>👨‍💼 lixiaozhe.com|🆓&💰|内置基于 AI 的文献全文翻译功能|
+|[小鲸鱼英文文献阅读](https://www.xljsci.com/)|🆓&💰|（@lixiaozhe.com 分享）内置基于 AI 的文献全文翻译功能|
 
 ## 视频辅助
 
@@ -253,7 +253,7 @@
 |[chat mind](https://www.chatmind.tech/)|🆓&💰|Chatmind是专注于AI生成思维导图的效率工具|
 
 ## 文本创作
-|产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
+|产品名称|相关信息|备注|
 |-|-|-|
 |[据意查句](https://wantquotes.net/)|🆓|据意查句是一款在线句子查询工具，以清朝官方用语为基础，收录了大量的古诗文、现代名人金句、俗语谚语以及网络用语电视电视剧台词等，并提供了相关的解释和翻译。使用者只需输入大概意思的描述，即可查找相关的句子，非常方便实用|
 |[反向词典](https://wantwords.net/)|🆓🔓|清华大学推出的根据描述找到适合的词语|
@@ -271,8 +271,8 @@
 |[GPT Academic](https://github.com/binary-husky/gpt_academic)|✈️🆓🔓|提供论文润色等功能|
 |[Kickresume](https://www.kickresume.com/en/pricing/)|✈️🆓&💰|一款利用 AI 来生成简历的简历生成器|
 |[Named by AI](https://www.namedbyai.com/)|✈️🆓|一款利用 AI 来生成英文名字的工具|
-|[SupaDoc.ai](https://supadoc.ai)<br>👨‍💼 [xqliu](https://github.com/xqliu)|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高|
-|[AI简历-求职帮手](https://ai-tools.cn/resume) <br/>👨‍💼 [itLeeyw](https://github.com/itLeeyw)|🆓&💰|新一代在线AI简历工具，制作高质量简历|
+|[SupaDoc.ai](https://supadoc.ai)|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高【[@xqliu](https://github.com/xqliu) 分享】|
+|[AI简历-求职帮手](https://ai-tools.cn/resume)|🆓&💰|新一代在线AI简历工具，制作高质量简历【 [@itLeeyw](https://github.com/itLeeyw) 分享】|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
