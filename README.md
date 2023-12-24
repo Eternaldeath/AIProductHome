@@ -236,7 +236,7 @@
 |[chatpaper](https://chatpaper.org/)|🆓🔓|一款免费，开源的论文阅读 AI 辅助工具|
 |[myreader](https://www.myreader.io/)|✈️🆓&💰🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
 |[LightPDF](https://lightpdf.com/)|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
-|[小鲸鱼英文文献阅读](https://www.xljsci.com/)<br/><font size=1>**（贡献者：lixiaozhe.com）**</font>|🆓&💰|内置基于 AI 的文献全文翻译功能|
+|[小鲸鱼英文文献阅读](https://www.xljsci.com/)<br/>👨‍💼 lixiaozhe.com|🆓&💰|内置基于 AI 的文献全文翻译功能|
 
 ## 视频辅助
 
@@ -271,8 +271,8 @@
 |[GPT Academic](https://github.com/binary-husky/gpt_academic)|✈️🆓🔓|提供论文润色等功能|
 |[Kickresume](https://www.kickresume.com/en/pricing/)|✈️🆓&💰|一款利用 AI 来生成简历的简历生成器|
 |[Named by AI](https://www.namedbyai.com/)|✈️🆓|一款利用 AI 来生成英文名字的工具|
-|[SupaDoc.ai](https://supadoc.ai)<br><font size=1>**（贡献者：[xqliu](https://github.com/xqliu)）**</font>|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高|
-|[AI简历-求职帮手](https://ai-tools.cn/resume) <br/><font size=1>**（贡献者：[itLeeyw](https://github.com/itLeeyw)）**</font>|🆓&💰|新一代在线AI简历工具，制作高质量简历|
+|[SupaDoc.ai](https://supadoc.ai)<br>👨‍💼 [xqliu](https://github.com/xqliu)|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高|
+|[AI简历-求职帮手](https://ai-tools.cn/resume) <br/>👨‍💼 [itLeeyw](https://github.com/itLeeyw)|🆓&💰|新一代在线AI简历工具，制作高质量简历|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
