@@ -63,6 +63,15 @@
 <div align=left>  
 <img src=".\img\wechat.jpg" width="300" />
 </div>
+# Star History
+
+<a href="https://star-history.com/#Eternaldeath/AIProductHome&Date">  
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Eternaldeath/AIProductHome&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Eternaldeath/AIProductHome&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Eternaldeath/AIProductHome&type=Date" />
+  </picture></a>
 
 # 其他资源
 

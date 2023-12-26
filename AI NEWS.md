@@ -70,6 +70,7 @@
 | 行业      | [Radio station gets part-time AI DJ based on its midday host](https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/) |                           AI 广播                            |         Techcrunch          |
 | 行业      | [The Future of SEO in a Post-ChatGPT World](https://www.animalz.co/blog/seo-and-chatgpt/) |                     有 ChatGPT 后的 SEO                      |           Animalz           |
 | 行业      | [AI新战场打响，硅谷五巨头瞄准智能眼镜](https://36kr.com/p/2566324359734659) |                       智能眼镜卷土重来                       |           智东西            |
+| 行业      | [专访Meta CTO：AI已是XR杀手应用，LLM开源社区竞争没有输家](https://36kr.com/p/2575929271772551) |                     Meta宣布开源LLaMA 2                      |           新智元            |
 
 # 产业报告
 
