@@ -30,21 +30,18 @@
 
 ```bash
 
-  ____   ___ ____  _  _          ___  _        ___ _____ 
- |___ \ / _ \___ \| || |        / _ \/ |      / _ \___  |
-   __) | | | |__) | || |_ _____| | | | |_____| | | | / / 
-  / __/| |_| / __/|__   _|_____| |_| | |_____| |_| |/ /  
- |_____|\___/_____|  |_|        \___/|_|      \___//_/    
-
+  ____   ___ ____  _  _          ___  _       _ _  _   
+ |___ \ / _ \___ \| || |        / _ \/ |     / | || |  
+   __) | | | |__) | || |_ _____| | | | |_____| | || |_ 
+  / __/| |_| / __/|__   _|_____| |_| | |_____| |__   _|
+ |_____|\___/_____|  |_|        \___/|_|     |_|  |_|  
+                                                       
 # AI 工具
-- ChatMart【分享者：kerrygao】：为网站和文档定制 AI 聊天机器人，并可集成在任何网站
-- Consensus：一款基于 AI 驱动的学术工具，通过提问的方式，该工具可检索其数据库中的 2 亿文献，并给出汇总的答案以及文献来源
-- Chatgot：让用户自由在多种 AI 聊天工具间切换的 AI 聊天平台，支持主流的 AI 聊天工具
-- AIbase：一个 AI 工具导航网站
-- GPTs 商店：OpenAI GPTs 的镜像商店，网站样式精美
-
-# AI 教程
-- ChatGPT explained to Kids：来自领英上的一位博主「Dirk Zee」，他非常简单的描述了 ChatGPT 的最基本工作原理，适合向孩子，老人和普通人讲解
+- ChatX：一款基于苹果系统的 AI 客户端（ios&mac），目前支持 chatGPT3.5/4
+- 01 AI：一款自研，开源的 AI 模型
+- Hysli.io AI：一款利用 ai 生成艺术二维码的工具
+- Roled：一款基于 ChatGPT 的角色聊天工具
+- Smary.Pro：一款 AI 驱动的文本摘要工具
 ```
 
 # 交流群
@@ -54,6 +51,8 @@
 <div align=left>  
 <img src=".\img\wechat.jpg" width="300" />
 </div>
+
+
 # Star History
 
 <a href="https://star-history.com/#Eternaldeath/AIProductHome&Date">  
@@ -94,59 +93,67 @@
 | [Aminer](https://www.aminer.cn/)                 | 🆓        | AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper |
 | [天工 AI 搜索](https://search.tiangong.cn/)      | 🆓        | 基于人工智能技术的搜索引擎产品                               |
 
+# AI 模型
 
+| 产品名称                                                     | 相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 备注                                                         |
+| ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------ |
+| [ChatGPT](https://openai.com/blog/chatgpt)                   | ✈️💰                                                 | Open AI<br>⚠️ Open AI 目前有地域限制                          |
+| [文心一言](https://yiyan.baidu.com/welcome)                  | 🧪 🆓                                                | 百度大模型                                                   |
+| [通义千问](https://tongyi.aliyun.com/)                       | 🧪 🆓                                                | 阿里巴巴达摩院推出的 AI 大模型                               |
+| [HuggingChat](https://huggingface.co/chat/)                  | ✈️🆓&🔓                                               | Hugging Face 推出的 ChatGPT 的开源替代品                     |
+| [Bard](https://bard.google.com/)                             | 🧪✈️🆓                                                | 谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型<br>⚠️ 请开启全局访问，并选择美国节点 |
+| [huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)           | 🧪🆓                                                 | 香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) |
+| [火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform) | 🆓&💰                                                | 字节跳动开发的云原生机器学习平台                             |
+| [Claude](https://claude.ai/)                                 | 🧪✈️🆓&💰                                              | Anthropic 公司开发的 AI 聊天工具<br/>⚠️ Claude 目前仅限美国和英国使用 |
+| [ChatLaw](https://www.chatlaw.cloud/)                        | 🆓🔓                                                 | 北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) |
+| [WormGPT](https://wormgpt.ai/)                               | ✈️💰                                                 | 一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品          |
+| [MiLM-6B](https://github.com/XiaoMi/MiLM-6B)                 | 🆓                                                  | 一款小米开发的大规模预训练语言模型                           |
+| [豆包](https://www.doubao.com/chat/2694826498)               | 🧪🆓                                                 | 一款字节跳动开发的聊天 AI                                    |
+| [百川智能](www.baichuan-ai.com)                              | 🆓                                                  | 人工智能大模型                                               |
+| [商量 SenseChat](https://chat.sensetime.com/)                | 🆓                                                  | 人工智能大模型                                               |
+| [讯飞星火认知大模型](https://passport.xfyun.cn/)             | 🆓                                                  | 人工智能大模型                                               |
+| [01 AI](https://www.01.ai/cn)                                | 🆓🔓                                                 | 一款自研，开源的 AI 模型                                     |
 
 # 聊天对话
 
-|产品名称|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
-|-|-|-|
-|[文心一言](https://yiyan.baidu.com/welcome)|🧪 🆓|百度大模型|
-|[通义千问](https://tongyi.aliyun.com/)|🧪 🆓|阿里巴巴达摩院推出的 AI 大模型|
-|[youchat](https://you.com/)|✈️🆓||
-|[chat gpt](https://openai.com/blog/chatgpt)|✈️💰|Open AI<br>⚠️ Open AI 目前有地域限制|
-|[HuggingChat](https://huggingface.co/chat/)|✈️🆓&🔓|Hugging Face 推出的 ChatGPT 的开源替代品|
-|[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|🆓|一个提供大量基于 ChatGPT API 工具的导航网站|
-|[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
-|[ChatGPT 在线体验网站收集列表](https://github.com/lzwme/chatgpt-sites)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
-|[免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
-|[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|✈️🆓&💰|基于 ChatGPT API 的工具|
-|[智联 AI](https://xaogpt.cn/)|🆓&💰|基于 chatGPT API 的工具，支持 3.5 和 4|
-|[stockai](https://stockai.trade/)|🆓|基于 ChatGPT API 的选股工具|
-|[Chat GPT Demo](https://chatgptdemo.net/zh-hans)|✈️🆓|基于 ChatGPT 4 API 的工具，允许用户免费使用，无需登录|
-|[文心AI](https://ai.okmiku.com/)|✈️🆓&💰|基于 ChatGPT API 的工具<br>⚠️ 与百度的文心工具没有关系|
-|[freegpt](https://freegpt.cc/)|✈️🆓|基于 ChatGPT 3.5 API 的工具|
-|[AIchatOS](https://c.binjie.fun/)|✈️🆓&💰|基于 ChatGPT 3.5 API 的工具|
-|[GPT-3.5 Chatbot](https://huggingface.co/spaces/yuntian-deng/ChatGPT)|✈️🆓|基于 ChatGPT 3.5 API 的工具，部署在 Hugging Face|
-|[igpt](https://igpt.one/)|✈️🆓|基于 ChatGPT 3 API 的工具|
-|[ZhuChat](https://chat2.geekgpt.site/#/chat/1002)|✈️🆓|基于 ChatGPT 3.5 API 的工具|
-|[白泽 ChatGPT](https://www.lifemindx.com/)|✈️🆓&💰|基于 ChatGPT 3.5 API 的工具|
-|[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|✈️🆓&💰|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
-|[ChatGPT 中文在线](https://codenews.cc/chatgpt)|🆓|基于 ChatGLM 模型的工具<br/>⚠️ 测试结果为 ChatGLM 模型而非 ChatGPT 模型|
-|[ShareGPT](https://sharegpt.com/)|✈️🆓📥|分享你的 GPT 对话，提供给他人如何与 GPT 聊天的模板|
-|[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|✈️🆓&💰|基于多种大模型的客户端|
-|[open-assistant](https://open-assistant.io/zh)|🆓&💰|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
-|[chatYuan](https://www.clueai.cn/)|🆓&💰|中英文对话的大型语言模型|
-|[freedom gpt](https://freedomgpt.com/)|✈️🆓&💰||
-|[Poe](https://poe.com/)|✈️🆓&💰|AI 产品聚合网站，包括 GPT4，chatgpt 等|
-|[chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|✈️🆓&💰📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
-|[Monica](https://monica.im/)|✈️🆓📥|支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）|
-|[chatgpt4google](https://chatgpt4google.com/)|✈️🆓&💰📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
-|[character.ai](https://beta.character.ai/)|✈️🆓&💰|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
-|[Bard](https://bard.google.com/)|🧪✈️🆓|谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型<br>⚠️ 请开启全局访问，并选择美国节点|
-|[huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)|🧪🆓|香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT)|
-|[GPT-2 Output Detector](https://openai-openai-detector--5smxg.hf.space/)|✈️🆓|反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率|
-|[火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform)|🆓&💰|字节跳动开发的云原生机器学习平台|
-|[Claude](https://claude.ai/)|🧪✈️🆓&💰|Anthropic 公司开发的 AI 聊天工具<br/>⚠️ Claude 目前仅限美国和英国使用|
-|[Claude2 中文](https://www.claudeai.ai/zh-CN/)|🆓|非官方镜像|
-|[ChatLaw](https://www.chatlaw.cloud/)|🆓🔓|北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|
-|[WormGPT](https://wormgpt.ai/)|✈️💰|一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品|
-|[MiLM-6B](https://github.com/XiaoMi/MiLM-6B)|🆓|一款小米开发的大规模预训练语言模型|
-|[豆包](https://www.doubao.com/chat/2694826498)|🧪🆓|一款字节跳动开发的聊天 AI|
-|[百川智能](www.baichuan-ai.com)|🆓|人工智能大模型|
-|[商量 SenseChat](https://chat.sensetime.com/)|🆓|人工智能大模型|
-|[讯飞星火认知大模型](https://passport.xfyun.cn/)|🆓|人工智能大模型|
-|[ChatMart](https://www.chatmart.co)|🆓&💰|为网站和文档定制 AI 聊天机器人，并可集成在任何网站【 [@kerrygao](https://github.com/kerrygao) 分享】|
-|[Chatgot](https://www.chatgot.io/)|✈️🆓|让用户自由在多种 AI 聊天工具间切换的 AI 聊天平台，支持主流的 AI 聊天工具|
+> 本板块提供基于各种 AI 模型的二次开发产品
+
+|产品名称|基础模型|相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|备注|
+|-|-|-|-|
+|[Poe](https://poe.com/)|模型聚合|✈️🆓&💰|AI 产品聚合网站，包括 GPT4，chatgpt 等|
+|[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|模型聚合|✈️🆓&💰|基于多种大模型的客户端|
+|[Chatgot](https://www.chatgot.io/)|模型聚合|✈️🆓|让用户自由在多种 AI 聊天工具间切换的 AI 聊天平台，支持主流的 AI 聊天工具|
+|[Monica](https://monica.im/)|模型聚合|✈️🆓📥|支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）|
+|[Youchat](https://you.com/)|自研&GPT4|✈️🆓||
+|[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|ChatGPT|🆓|一个提供大量基于 ChatGPT API 工具的导航网站|
+|[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)|ChatGPT|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
+|[ChatGPT 在线体验网站收集列表](https://github.com/lzwme/chatgpt-sites)|ChatGPT|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
+|[免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)|ChatGPT|✈️🆓&🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
+|[GPTalk](https://trychatgp.com/chat/new?t=1685067867)|ChatGPT|✈️🆓&💰|基于 ChatGPT API 的工具|
+|[智联 AI](https://xaogpt.cn/)|ChatGPT|🆓&💰|基于 chatGPT API 的工具，支持 3.5 和 4|
+|[Stockai](https://stockai.trade/)|ChatGPT|🆓|基于 ChatGPT API 的选股工具|
+|[Chat GPT Demo](https://chatgptdemo.net/zh-hans)|ChatGPT|✈️🆓|基于 ChatGPT 4 API 的工具，允许用户免费使用，无需登录|
+|[文心AI](https://ai.okmiku.com/)|ChatGPT|✈️🆓&💰|基于 ChatGPT API 的工具<br>⚠️ 与百度的文心工具没有关系|
+|[Freegpt](https://freegpt.cc/)|ChatGPT|✈️🆓|基于 ChatGPT 3.5 API 的工具|
+|[AIchatOS](https://c.binjie.fun/)|ChatGPT|✈️🆓&💰|基于 ChatGPT 3.5 API 的工具|
+|[GPT-3.5 Chatbot](https://huggingface.co/spaces/yuntian-deng/ChatGPT)|ChatGPT|✈️🆓|基于 ChatGPT 3.5 API 的工具，部署在 Hugging Face|
+|[Igpt](https://igpt.one/)|ChatGPT|✈️🆓|基于 ChatGPT 3 API 的工具|
+|[ZhuChat](https://chat2.geekgpt.site/#/chat/1002)|ChatGPT|✈️🆓|基于 ChatGPT 3.5 API 的工具|
+|[白泽 ChatGPT](https://www.lifemindx.com/)|ChatGPT|✈️🆓&💰|基于 ChatGPT 3.5 API 的工具|
+|[Flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)|ChatGPT|✈️🆓&💰|基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台|
+|[ChatGPT 中文在线](https://codenews.cc/chatgpt)|ChatGPT|🆓|基于 ChatGLM 模型的工具<br/>⚠️ 测试结果为 ChatGLM 模型而非 ChatGPT 模型|
+|[ShareGPT](https://sharegpt.com/)|ChatGPT|✈️🆓📥|分享你的 GPT 对话，提供给他人如何与 GPT 聊天的模板|
+|[GPT-2 Output Detector](https://openai-openai-detector--5smxg.hf.space/)|ChatGPT|✈️🆓|反 GPT-2 的工具，输入文本，判断该文本由 AI 生成的概率|
+|[Chatgpt4google](https://chatgpt4google.com/)|ChatGPT|✈️🆓&💰📥|在浏览器上同步展示 chatgpt 的搜索结果，目前支持谷歌和火狐|
+|[Chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|ChatGPT|✈️🆓&💰📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
+|[ChatX](https://apps.apple.com/us/app/chatx-ai-chat-client/id6446304087)|ChatGPT|🆓&💰|一款基于苹果系统的 AI 客户端（ios&mac），目前支持 chatGPT3.5/4|
+|[Roled](https://roled.lingj.net/login)|ChatGPT|🆓|一款基于 ChatGPT 的角色聊天工具|
+|[Claude2 中文](https://www.claudeai.ai/zh-CN/)|Claude|🆓|非官方镜像|
+|[Open-assistant](https://open-assistant.io/zh)|-|🆓&💰|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
+|[ChatYuan](https://www.clueai.cn/)|-|🆓&💰|中英文对话的大型语言模型|
+|[Freedom gpt](https://freedomgpt.com/)|-|✈️🆓&💰||
+|[Character.ai](https://beta.character.ai/)|-|✈️🆓&💰|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
+|[ChatMart](https://www.chatmart.co)|-|🆓&💰|为网站和文档定制 AI 聊天机器人，并可集成在任何网站【 [@kerrygao](https://github.com/kerrygao) 分享】|
 # AI 助手
 
 | 产品名称                                                  | 相关信息 | 备注                                                         |
@@ -174,9 +181,9 @@
 ## 图像生成
 |产品名称|相关信息|备注|
 |-|-|-|
-|[midjourney](https://www.midjourney.com)|✈️🆓&💰|Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
-|[chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓|基于 Midjourney API 的产品，无需注册 discord|
-|[midjourney 中文版](https://www.huashou.club/)|💰|⚠️非 midjourney 官方中文版|
+|[Midjourney](https://www.midjourney.com)|✈️🆓&💰|Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
+|[Chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓|基于 Midjourney API 的产品，无需注册 discord|
+|[Midjourney 中文版](https://www.huashou.club/)|💰|⚠️非 midjourney 官方中文版|
 |[意间 AI](http://yjai.ai-galaxy.com/)|🆓|一款在线 AI 绘画工具|
 |[无界 AI](https://www.wujieai.com/)|🆓&💰|一款在线 AI 绘画工具|
 |[AI 画室](https://www.aihuazuo.com/?stzhcdq20230620-587769810)|🆓&💰|一款在线 AI 绘画工具|
@@ -188,10 +195,11 @@
 |[Stable diffusion](https://stablediffusionweb.com/)|✈️🆓|Stable Diffusion 是一个文本到图像的潜在扩散模型|
 |[Stable diffusion XL](https://www.stablediffusionai.ai/zh-CN)|✈️🆓|最新版本的 Stable diffusion|
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰|DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
-|[viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
+|[Viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓|利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓|图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
-|[艺码](https://yima.me/)|🆓|一款利用 ai 生成艺术二维码的工具|
-|[quick qr art](https://quickqr.art/)|✈️🆓&💰|一款利用 ai 生成艺术二维码的工具|
+|[艺码](https://yima.me/)|🆓|一款利用 AI 生成艺术二维码的工具|
+|[Hysli.io AI](https://hysli.io/#/app)|🆓&💰|一款利用 AI 生成艺术二维码的工具|
+|[Quick qr art](https://quickqr.art/)|✈️🆓&💰|一款利用 AI 生成艺术二维码的工具|
 |[One-2-3-45](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)|🧪✈️🆓|一款通过 2D 图片生成 3D 图片的模型，部署在 huggingface 上|
 |[ChatAvatar](https://hyperhuman.deemos.com/)|🆓&💰|一款通过对话生成 3D 人像的产品|
 |[SDXL Turbo](https://sdxlturbo.ai/)|✈️🆓|输入提示词，快速生成对应的图画，**目前仅支持英文**|
@@ -278,6 +286,7 @@
 |[Named by AI](https://www.namedbyai.com/)|✈️🆓|一款利用 AI 来生成英文名字的工具|
 |[SupaDoc.ai](https://supadoc.ai)|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高【[@xqliu](https://github.com/xqliu) 分享】|
 |[AI简历-求职帮手](https://ai-tools.cn/resume)|🆓&💰|新一代在线AI简历工具，制作高质量简历【 [@itLeeyw](https://github.com/itLeeyw) 分享】|
+|[Smary.Pro](https://smary.pro/)|🆓|一款 AI 驱动的文本摘要工具|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
