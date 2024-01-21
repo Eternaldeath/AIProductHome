@@ -29,19 +29,27 @@
 3. 更新记录
 
 ```bash
-
-  ____   ___ ____  _  _          ___  _       _ _  _   
- |___ \ / _ \___ \| || |        / _ \/ |     / | || |  
-   __) | | | |__) | || |_ _____| | | | |_____| | || |_ 
-  / __/| |_| / __/|__   _|_____| |_| | |_____| |__   _|
- |_____|\___/_____|  |_|        \___/|_|     |_|  |_|  
+  ____   ___ ____  _  _          ___  _      ____  _ 
+ |___ \ / _ \___ \| || |        / _ \/ |    |___ \/ |
+   __) | | | |__) | || |_ _____| | | | |_____ __) | |
+  / __/| |_| / __/|__   _|_____| |_| | |_____/ __/| |
+ |_____|\___/_____|  |_|        \___/|_|    |_____|_|
                                                        
 # AI 工具
-- ChatX：一款基于苹果系统的 AI 客户端（ios&mac），目前支持 chatGPT3.5/4
-- 01 AI：一款自研，开源的 AI 模型
-- Hysli.io AI：一款利用 ai 生成艺术二维码的工具
-- Roled：一款基于 ChatGPT 的角色聊天工具
-- Smary.Pro：一款 AI 驱动的文本摘要工具
+- GPT_academic：面向学术领域的 AI 工具，以多种大语言模型作为基础，提供论文润色，写作等丰富的功能。支持本地部署与网络订阅服务
+- Humata.ai：AI 驱动的论文阅读工具
+- 星辰语义大模型（TeleChat）：由中电信人工智能科技有限公司研发训练的大语言模型，采用1.5万亿 Tokens中英文高质量语料进行训练
+- Scispace：论文阅读工具，提供了强大的功能，如论文总结，公式解析等
+
+# AI Tutorial
+- 极简 ChatGPT 原理：来自知乎问答，使用通俗易懂的语言来介绍ChatGPT的基本原理和使用方法
+
+# AI NEWS
+- OpenAI首席科学家Ilya：AGI的到来会是一场雪崩
+- 田丰：2024大模型产业十大趋势
+- 大模型时代的计算机系统革新：更大规模、更分布式、更智能化
+- What would you like openai to build/fix in 2024?：塞缪尔.奥特曼在推特上面向大众发布的 OpenAI 2024 路线图许愿清单，最终挑选出 12 条最具期待的演进功能
+- 一键实景转动画，清华系初创公司全球首发4D骨骼动画框架，还能生成个性化角色：2D 素材一键转换成动态立体模型，即 4D 动画（其中一维为时间序列），能够自动提取对象骨骼动作，并可通过文件输入进行个性化角色生成
 ```
 
 # 交流群
@@ -97,6 +105,7 @@
 
 | 产品名称                                                     | 相关信息&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 备注                                                         |
 | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------ |
+| [Scispace](https://typeset.io/)                              | 🆓                                                  | 论文阅读工具，提供了强大的功能，如论文总结，公式解析等       |
 | [ChatGPT](https://openai.com/blog/chatgpt)                   | ✈️💰                                                 | Open AI<br>⚠️ Open AI 目前有地域限制                          |
 | [文心一言](https://yiyan.baidu.com/welcome)                  | 🧪 🆓                                                | 百度大模型                                                   |
 | [通义千问](https://tongyi.aliyun.com/)                       | 🧪 🆓                                                | 阿里巴巴达摩院推出的 AI 大模型                               |
@@ -113,6 +122,7 @@
 | [商量 SenseChat](https://chat.sensetime.com/)                | 🆓                                                  | 人工智能大模型                                               |
 | [讯飞星火认知大模型](https://passport.xfyun.cn/)             | 🆓                                                  | 人工智能大模型                                               |
 | [01 AI](https://www.01.ai/cn)                                | 🆓🔓                                                 | 一款自研，开源的 AI 模型                                     |
+| 星辰语义大模型（TeleChat）                                   | 🆓🔓                                                 | 由中电信人工智能科技有限公司研发训练的大语言模型，采用1.5万亿 Tokens中英文高质量语料进行训练 |
 
 # 聊天对话
 
@@ -158,7 +168,7 @@
 
 | 产品名称                                                  | 相关信息 | 备注                                                         |
 | --------------------------------------------------------- | -------- | ------------------------------------------------------------ |
-| [智谱清言](https://chatglm.cn/detail)                     | 🆓        | 生成式 AI 助手                                               |
+| [智谱清言](https://chatglm.cn/detail)                     | 🆓        | 生成式 AI 助手，基于 GLM 模型                                |
 | [MetaGPT](https://www.deepwisdom.ai/)                     | ✈️🆓       | 给出你的需求，该 GPT 自动执行需求内容，需要提供 OpenAI 的 API 密钥 |
 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | ✈️🆓🔓      | 面向金融领域的开源 GPT 模型，可以部署在自己的电脑上          |
 | [FinChat](https://finchat.io/)                            | ✈️🆓       | 面向投资者的 ChatGPT                                         |
@@ -210,11 +220,11 @@
 |[khroma](https://www.khroma.co/)|✈️🆓||
 ## 视频生成
 
-| 产品名称                                                     | 相关信息 | 备注                       |
-| ------------------------------------------------------------ | -------- | -------------------------- |
-| [EBsynth](https://ebsynth.com/)                              | ✈️🆓       | 将原始视频通过 AI 转换风格 |
-| [Runway](https://runwayml.com/)                              | ✈️🆓&💰     | 视频生成视频，文本生成视频 |
-| [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) | ✈️🆓🔓      | 根据描述生成视频           |
+| 产品名称                                                     | 相关信息 | 备注                                     |
+| ------------------------------------------------------------ | -------- | ---------------------------------------- |
+| [EBsynth](https://ebsynth.com/)                              | ✈️🆓       | 将原始视频通过 AI 转换风格               |
+| [Runway](https://runwayml.com/)                              | ✈️🆓&💰     | 视频扩展视频，文本生成视频，图片生成视频 |
+| [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) | ✈️🆓🔓      | 根据描述生成视频                         |
 
 ## 游戏
 
@@ -242,14 +252,16 @@
 
 ## 阅读辅助
 |产品名称|相关信息|备注|
-|-|-|-|
+|:--|:--|---|
 |[chatdoc](https://chatdoc.com/)|✈️🆓|ChatDOC 是一个基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。此外它还支持 word 等格式|
 |[chat PDF](https://www.chatpdf.com/)|✈️🆓&💰|基于 OpenAI 的 Chat API 开发的 PDF 识别文章内容的阅读助手|
 |[chatpaper](https://chatpaper.org/)|🆓🔓|一款免费，开源的论文阅读 AI 辅助工具|
+|[Humata.ai](https://www.humata.ai/)|🆓&💰|AI 驱动的论文阅读工具|
 |[myreader](https://www.myreader.io/)|✈️🆓&💰🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
 |[LightPDF](https://lightpdf.com/)|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
 |[小鲸鱼英文文献阅读](https://www.xljsci.com/)|🆓&💰|内置基于 AI 的文献全文翻译功能【@lixiaozhe.com 分享】|
 |[Consensus](https://consensus.app/search/)|✈️🆓&💰|一款基于 AI 驱动的学术工具，通过提问的方式，该工具可检索其数据库中的 2 亿文献，并给出汇总的答案以及文献来源|
+|[GPT_academic](https://github.com/binary-husky/gpt_academic)|🆓&💰|面向学术领域的 AI 工具，以多种大语言模型作为基础，提供论文润色，写作等丰富的功能。支持本地部署与网络订阅服务|
 
 ## 视频辅助
 

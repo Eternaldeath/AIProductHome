@@ -8,6 +8,7 @@
 | [不会还有人不会用AI做毕设吧？！](https://www.bilibili.com/video/BV1iM411D7SE/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) | 使用 AI 工具来制作毕业设计                                   | B 站     | ChatGPT，通义灵码        |
 | [24小时300%回报？5个ChatGPT搞钱成功案例鉴定汇总](https://www.bilibili.com/video/BV1pY4y197qQ/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) | 利用 ChatGPT 进行商业变现                                    | B 站     | ChatGPT                  |
 | [ChatGPT explained to Kids](https://www.linkedin.com/posts/dirk-zee_chatgpt-explained-to-kids-explanations-for-activity-7067259962862772224-O4ZT) | 来自领英上的一位博主「Dirk Zee」，他非常简单的描述了 ChatGPT 的最基本工作原理，适合向孩子，老人和普通人讲解 | Linkedin |                          |
+| [极简 ChatGPT 原理](https://www.zhihu.com/question/598243591/answer/3016818013) | 使用通俗易懂的语言来介绍ChatGPT的基本原理和使用方法          | 知乎     | ChatGPT                  |
 
 
 

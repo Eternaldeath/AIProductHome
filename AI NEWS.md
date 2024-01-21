@@ -40,6 +40,7 @@
 | 技术      | [B站第一套系统的AI绘画课](https://www.bilibili.com/video/BV1As4y127HW/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) |                                                              |            B 站             |
 | 技术      | [谷歌 DeepMind 打破十年算法封印，AlphaDev 惊世登场](https://www.ithome.com/0/698/425.htm) |                                                              |           IT 之家           |
 | 技术      | [Nature重磅：击败人类数学家，AI首次攻破经典数学难题](https://mp.weixin.qq.com/s/cAYvtR4fmWicwjhT5s2YAQ) | 介绍了一种名为FunSearch的方法，利用人工智能大模型与自动评估器配对，搜索数学和计算机科学的新解决方案 |          学术头条           |
+| 技术      | [OpenAI首席科学家Ilya：AGI的到来会是一场雪崩](https://www.bilibili.com/video/BV14b4y1u7o3/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) |                视频描述了 IIya 对 AGI 的隐忧                 |            卫报             |
 | 行业      | [AI的“iPhone时刻”之后，英伟达新“核弹”为ChatGPT提速10倍](https://www.thepaper.cn/newsDetail_forward_22396667) |                                                              |          澎湃新闻           |
 | 行业      | [超级个体：探索 AIGC 与人类合作的无限可能](https://www.8btc.com/article/6813510) |                                                              |                             |
 | 行业      | [联合国贸发组织官员谈ChatGPT：如何影响就业？谁是赢家输家？](https://www.stcn.com/article/detail/787346.html) |                                                              |          证券时报           |
@@ -71,6 +72,17 @@
 | 行业      | [The Future of SEO in a Post-ChatGPT World](https://www.animalz.co/blog/seo-and-chatgpt/) |                     有 ChatGPT 后的 SEO                      |           Animalz           |
 | 行业      | [AI新战场打响，硅谷五巨头瞄准智能眼镜](https://36kr.com/p/2566324359734659) |                       智能眼镜卷土重来                       |           智东西            |
 | 行业      | [专访Meta CTO：AI已是XR杀手应用，LLM开源社区竞争没有输家](https://36kr.com/p/2575929271772551) |                     Meta宣布开源LLaMA 2                      |           新智元            |
+| 行业      | [What would you like openai to build/fix in 2024?](https://twitter.com/sama/status/1738673279085457661) | 塞缪尔.奥特曼在推特上面向大众发布的 OpenAI 2024 路线图许愿清单，最终挑选出 12 条最具期待的演进功能 |              X              |
+
+## 2024
+
+| 主题 | 标题                                                         | 内容                                                         | 来源               |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
+| 技术 | [一键实景转动画，清华系初创公司全球首发4D骨骼动画框架，还能生成个性化角色](https://mp.weixin.qq.com/s/FMl8S8hgoLco_9Unhlxd_g) | 2D 素材一键转换成动态立体模型，即 4D 动画（其中一维为时间序列），能够自动提取对象骨骼动作，并可通过文件输入进行个性化角色生成 | 机器之心           |
+| 行业 | [田丰：2024大模型产业十大趋势](https://mp.weixin.qq.com/s/KBaae7mlVvfH7K5xiHdCwQ) |                                                              | 商汤智能产业研究院 |
+| 行业 | [大模型时代的计算机系统革新：更大规模、更分布式、更智能化](https://mp.weixin.qq.com/s/7nK3fERGj7a6pcwNMKFdSQ) |                                                              | 微软亚洲研究院     |
+
+
 
 # 产业报告
 
