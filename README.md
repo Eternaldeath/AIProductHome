@@ -29,19 +29,21 @@
 3. 更新记录
 
 ```bash
-  ____   ___ ____  _  _          ___ ____        ___ _____ 
- |___ \ / _ \___ \| || |        / _ \___ \      / _ \___ / 
-   __) | | | |__) | || |_ _____| | | |__) |____| | | ||_ \ 
-  / __/| |_| / __/|__   _|_____| |_| / __/_____| |_| |__) |
- |_____|\___/_____|  |_|        \___/_____|     \___/____/                                                           
-🎇🎇🎇 新春快乐!!!本仓库将于春节期间放假，于节后重新恢复更新。
-
-🧰 AI 工具
+  ____   ___ ____  _  _          ___ ____      ____  ____  
+ |___ \ / _ \___ \| || |        / _ \___ \    |___ \| ___| 
+   __) | | | |__) | || |_ _____| | | |__) |____ __) |___ \ 
+  / __/| |_| / __/|__   _|_____| |_| / __/_____/ __/ ___) |
+ |_____|\___/_____|  |_|        \___/_____|   |_____|____/                                                          
+# 🧰 AI 工具
+- Sora：OpenAI 推出的文生视频 AI 产品，可以根据文本指令创建现实且富有想象力的场景
 - Huntsbot：聚合了大量 ChatGPT，OpenAI CLIP，OpenAI Codex，Stable Diffusion，DALL·E 2 和 GPT 等 AI 技术应用场景与产品案例
 - Craiyon：AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级
 - Photoshot：AI 头像生成器
 - GPTsApp.io：GPTs 应用商店
 - AI字体模型市场：由 AI 生成的字体样式
+- Noi：Noi 是一个聚合类的 AI 客户端工具，支持 mac，win 和 Linux
+# 📢 暂停周更新通知
+因个人原因，近期仓库从每周更新转为随机更新，待手中任务完成后，重启每周更新
 ```
 
 # 交流群
@@ -112,6 +114,7 @@
 | [讯飞星火认知大模型](https://passport.xfyun.cn/)             |             🆓             | 人工智能大模型                                               |
 | [01 AI](https://www.01.ai/cn)                                |            🆓🔓             | 一款自研，开源的 AI 模型                                     |
 | [星辰语义大模型（TeleChat）](https://github.com/Tele-AI/Telechat) |            🆓🔓             | 由中电信人工智能科技有限公司研发训练的大语言模型，采用1.5万亿 Tokens中英文高质量语料进行训练 |
+| [Latte](https://maxin-cn.github.io/latte_project/)           |            🆓🔓             | 用于视频生成的 Latent Diffusion Transformer 模型             |
 
 # 聊天对话
 
@@ -123,6 +126,7 @@
 |[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|模型聚合|✈️🆓&💰|基于多种大模型的客户端|
 |[Chatgot](https://www.chatgot.io/)|模型聚合|✈️🆓|让用户自由在多种 AI 聊天工具间切换的 AI 聊天平台，支持主流的 AI 聊天工具|
 |[Monica](https://monica.im/)|模型聚合|✈️🆓📥|支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）|
+|[Noi](https://github.com/lencx/Noi?tab=readme-ov-file)|模型聚合|✈️🆓🔓|Noi 是一个聚合类的 AI 客户端工具，支持 mac，win 和 Linux 平台|
 |[Youchat](https://you.com/)|自研&GPT4|✈️🆓||
 |[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|ChatGPT|🆓|一个提供大量基于 ChatGPT API 工具的导航网站|
 |[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)|ChatGPT|✈️🆓🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|
@@ -147,6 +151,7 @@
 |[Chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|ChatGPT|✈️🆓&💰📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
 |[ChatX](https://apps.apple.com/us/app/chatx-ai-chat-client/id6446304087)|ChatGPT|🆓&💰|一款基于苹果系统的 AI 客户端（ios&mac），目前支持 chatGPT3.5/4|
 |[Roled](https://roled.lingj.net/login)|ChatGPT|🆓|一款基于 ChatGPT 的角色聊天工具|
+|[Chat With RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)|GPT|✈️🆓|Chat with RTX 是 NVIDIA 开发的一个本地运行的 AI 聊天机器人应用程序|
 |[Claude2 中文](https://www.claudeai.ai/zh-CN/)|Claude|🆓|非官方镜像|
 |[Open-assistant](https://open-assistant.io/zh)|-|🆓&💰|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
 |[ChatYuan](https://www.clueai.cn/)|-|🆓&💰|中英文对话的大型语言模型|
@@ -213,11 +218,12 @@
 |[khroma](https://www.khroma.co/)|✈️🆓||
 ## 视频生成
 
-| 产品名称                                                     | 相关信息 | 备注                                     |
-| ------------------------------------------------------------ | :------: | ---------------------------------------- |
-| [EBsynth](https://ebsynth.com/)                              |    ✈️🆓    | 将原始视频通过 AI 转换风格               |
-| [Runway](https://runwayml.com/)                              |   ✈️🆓&💰   | 视频扩展视频，文本生成视频，图片生成视频 |
-| [Atable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) |   ✈️🆓🔓    | 根据描述生成视频                         |
+| 产品名称                                                     | 相关信息 | 备注                                                         |
+| ------------------------------------------------------------ | :------: | ------------------------------------------------------------ |
+| [Sora](https://openai.com/sora)                              |    ✈️💰    | OpenAI 推出的文生视频 AI 产品，可以根据文本指令创建现实且富有想象力的场景 |
+| [EBsynth](https://ebsynth.com/)                              |    ✈️🆓    | 将原始视频通过 AI 转换风格                                   |
+| [Runway](https://runwayml.com/)                              |   ✈️🆓&💰   | 视频扩展视频，文本生成视频，图片生成视频                     |
+| [Atable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) |   ✈️🆓🔓    | 根据描述生成视频                                             |
 
 ## 游戏
 
