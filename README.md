@@ -29,19 +29,27 @@
 3. 更新记录
 
 ```bash
-  ____   ___ ____  _  _          ___ ____      ____  ____  
- |___ \ / _ \___ \| || |        / _ \___ \    |___ \| ___| 
-   __) | | | |__) | || |_ _____| | | |__) |____ __) |___ \ 
-  / __/| |_| / __/|__   _|_____| |_| / __/_____/ __/ ___) |
- |_____|\___/_____|  |_|        \___/_____|   |_____|____/                                                          
-# 🧰 AI 工具
-- Sora：OpenAI 推出的文生视频 AI 产品，可以根据文本指令创建现实且富有想象力的场景
-- Huntsbot：聚合了大量 ChatGPT，OpenAI CLIP，OpenAI Codex，Stable Diffusion，DALL·E 2 和 GPT 等 AI 技术应用场景与产品案例
-- Craiyon：AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级
-- Photoshot：AI 头像生成器
-- GPTsApp.io：GPTs 应用商店
-- AI字体模型市场：由 AI 生成的字体样式
-- Noi：Noi 是一个聚合类的 AI 客户端工具，支持 mac，win 和 Linux
+
+  ____   ___ ____  _  _          ___ _____      _____ _ 
+ |___ \ / _ \___ \| || |        / _ \___ /     |___ // |
+   __) | | | |__) | || |_ _____| | | ||_ \ _____ |_ \| |
+  / __/| |_| / __/|__   _|_____| |_| |__) |_____|__) | |
+ |_____|\___/_____|  |_|        \___/____/     |____/|_|         
+ 
+# AI 工具
+- Elegantresume：一款在线制作简历的网站，提供非常专业化的简历模板，且集成了 OpenAI
+- CodeFormer📃：由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现
+- Dora AI：基于 AI 的网站原型设计网站
+- AI Comic Factory：利用 AI 生成漫画
+- Shap-E📃：使用文本或 2D 图像生成 3D 图像
+
+# AI NEWS
+- 2024年中国AI大模型产业发展报告：人民网财经研究院，至顶科技
+
+# AI Tutorial
+- 在家用电脑上选择哪种 LLM 大模型
+- 动手实战人工智能 AI By Doing：面向机器学习爱好者的电子书籍
+
 # 📢 暂停周更新通知
 因个人原因，近期仓库从每周更新转为随机更新，待手中任务完成后，重启每周更新
 ```
@@ -81,6 +89,7 @@
 |🆓&💰|免费，付费，两种机制并存|
 |🔓|开源|
 |📥|插件|
+|📃|基于论文|
 # 搜索引擎
 
 | 产品名称                                         | 相关信息 | 备注                                                         |
@@ -211,6 +220,9 @@
 |[Craiyon](https://www.craiyon.com/)|✈️🆓&💰|AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级|
 |[Photoshot](https://photoshot.app/)|✈️🆓|AI 头像生成器|
 |[AI字体模型市场](https://www.ai.zitijia.com/list/1)|🆓&💰|由 AI 生成的字体样式|
+|[CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer)|✈️🆓📃|由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract)|
+|[AI Comic Factory](https://aicomicfactory.com/)|🆓&💰|利用 AI 生成漫画|
+|[Shap-E](https://github.com/openai/shap-e)|✈️🆓🔓📃|使用文本或 2D 图像生成 3D 图像<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -299,6 +311,7 @@
 |[SupaDoc.ai](https://supadoc.ai)|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高【[@xqliu](https://github.com/xqliu) 分享】|
 |[AI简历-求职帮手](https://ai-tools.cn/resume)|🆓&💰|新一代在线AI简历工具，制作高质量简历【 [@itLeeyw](https://github.com/itLeeyw) 分享】|
 |[Smary.Pro](https://smary.pro/)|🆓|一款 AI 驱动的文本摘要工具|
+|[Elegantresume](https://www.elegantresume.pro/)|🆓|一款在线制作简历的网站，提供非常专业化的简历模板，且集成了 OpenAI|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -314,6 +327,7 @@
 | [即时 AI](https://js.design/ai-upcoming) |    🧪🆓    | 由文本描述生成可编辑 的原型设计稿                            |
 | [美图设计室](https://design.meitu.com/)  |   🧪🆓&💰   | 提供大量基于设计领域的 AI 功能，如，AI 试衣，AI 海报 ...     |
 | [NameBeta](https://namebeta.com/)        |   🆓&💰    | 利用 AI 为你的网站选择合适的域名，该网站提供检测所选域名的当前状态（已售，可用）等信息进行分析，以及额外的域名管理服务 |
+| [Dora AI](https://www.dora.run/ai)       |   ✈️🆓&💰   | 基于 AI 的网站原型设计网站                                   |
 
 ## 翻译 AI
 

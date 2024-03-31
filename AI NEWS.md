@@ -91,4 +91,5 @@
 | [全球生成式AI产业图谱及报告](https://www.isc.org.cn/article/16678731927646208.html) | 中国互联网协会                       | 2023 | 内附下载链接             |
 | [The economic potential of generative AI: The next productivity frontier](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction) | 麦肯锡                               | 2023 | 生成式人工智能的经济潜力 |
 | [中国文化元宇宙AIGC发展研究报告](https://www.8btc.com/article/6822588) | 中国文化产业协会文化元宇宙专业委员会 | 2023 | 内附下载链接             |
+| [2024年中国AI大模型产业发展报告](http://download.people.com.cn/jiankang/nineteen17114578641.pdf) | 人民网财经研究院，至顶科技           | 2024 |                          |
 
