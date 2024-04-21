@@ -37,21 +37,8 @@
  |_____|\___/_____|  |_|        \___/____/     |____/|_|         
  
 # AI 工具
-- Elegantresume：一款在线制作简历的网站，提供非常专业化的简历模板，且集成了 OpenAI
-- CodeFormer📃：由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现
-- Dora AI：基于 AI 的网站原型设计网站
-- AI Comic Factory：利用 AI 生成漫画
-- Shap-E📃：使用文本或 2D 图像生成 3D 图像
-
-# AI NEWS
-- 2024年中国AI大模型产业发展报告：人民网财经研究院，至顶科技
-
-# AI Tutorial
-- 在家用电脑上选择哪种 LLM 大模型
-- 动手实战人工智能 AI By Doing：面向机器学习爱好者的电子书籍
-
-# 📢 暂停周更新通知
-因个人原因，近期仓库从每周更新转为随机更新，待手中任务完成后，重启每周更新
+- Devin：由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域
+- PopAi.pro：AI 驱动的文献阅读工具。提供文献阅读，PPT 制作，AI 图片等功能
 ```
 
 # 交流群
@@ -160,6 +147,7 @@
 |[Chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|ChatGPT|✈️🆓&💰📥|一款支持 chatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
 |[ChatX](https://apps.apple.com/us/app/chatx-ai-chat-client/id6446304087)|ChatGPT|🆓&💰|一款基于苹果系统的 AI 客户端（ios&mac），目前支持 chatGPT3.5/4|
 |[Roled](https://roled.lingj.net/login)|ChatGPT|🆓|一款基于 ChatGPT 的角色聊天工具|
+|[Helper](https://helper.im/#/)|ChatGPT|💰|基于 ChatGPT 的客户端工具|
 |[Chat With RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)|GPT|✈️🆓|Chat with RTX 是 NVIDIA 开发的一个本地运行的 AI 聊天机器人应用程序|
 |[Claude2 中文](https://www.claudeai.ai/zh-CN/)|Claude|🆓|非官方镜像|
 |[Open-assistant](https://open-assistant.io/zh)|-|🆓&💰|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
@@ -176,6 +164,7 @@
 | [MetaGPT](https://www.deepwisdom.ai/)                     |    ✈️🆓    | 给出你的需求，该 GPT 自动执行需求内容，需要提供 OpenAI 的 API 密钥 |
 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) |   ✈️🆓🔓    | 面向金融领域的开源 GPT 模型，可以部署在自己的电脑上          |
 | [FinChat](https://finchat.io/)                            |    ✈️🆓    | 面向投资者的 ChatGPT                                         |
+| Arc                                                       |          |                                                              |
 
 # 代码辅助
 
@@ -191,6 +180,7 @@
 |[Durable](https://durable.co/)|✈️🆓|一款人工智能网站构建器|
 |[V0.dev](https://v0.dev/)|✈️🆓|一款用来进行设计和编程的 AI 辅助工具|
 |[Phind](https://www.phind.com/search?home=true)|✈️🆓|由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持|
+|[Devin](https://www.cognition-labs.com/introducing-devin)|🧪✈️🆓|由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域|
 # 艺术创作
 ## 图像生成
 |产品名称|相关信息|备注|
@@ -274,6 +264,7 @@
 |[小鲸鱼英文文献阅读](https://www.xljsci.com/)|🆓&💰|内置基于 AI 的文献全文翻译功能【@lixiaozhe.com 分享】|
 |[Consensus](https://consensus.app/search/)|✈️🆓&💰|一款基于 AI 驱动的学术工具，通过提问的方式，该工具可检索其数据库中的 2 亿文献，并给出汇总的答案以及文献来源|
 |[GPT_academic](https://github.com/binary-husky/gpt_academic)|🆓&💰|面向学术领域的 AI 工具，以多种大语言模型作为基础，提供论文润色，写作等丰富的功能。支持本地部署与网络订阅服务|
+|[PopAi](https://www.popai.pro/)|🆓&💰|AI 驱动的文献阅读工具。提供文献阅读，PPT 制作，AI 图片等功能|
 
 ## 视频辅助
 
