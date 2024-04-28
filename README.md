@@ -29,22 +29,19 @@
 3. 更新记录
 
 ```bash
-
-  ____   ___ ____  _  _          ___  _  _        ____  _ 
- |___ \ / _ \___ \| || |        / _ \| || |      |___ \/ |
-   __) | | | |__) | || |_ _____| | | | || |_ _____ __) | |
-  / __/| |_| / __/|__   _|_____| |_| |__   _|_____/ __/| |
- |_____|\___/_____|  |_|        \___/   |_|      |_____|_|        
- 
+  ____   ___ ____  _  _          ___  _  _        ____  ___  
+ |___ \ / _ \___ \| || |        / _ \| || |      |___ \( _ ) 
+   __) | | | |__) | || |_ _____| | | | || |_ _____ __) / _ \ 
+  / __/| |_| / __/|__   _|_____| |_| |__   _|_____/ __/ (_) |
+ |_____|\___/_____|  |_|        \___/   |_|      |_____\___/ 
+                                                                    
 # AI 工具
-- Devin：由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域
-- PopAi.pro：AI 驱动的文献阅读工具。提供文献阅读，PPT 制作，AI 图片等功能
-
-# AI 新闻
-- 2024 年人工智能指数报告：斯坦福大学 HAI 实验室，李飞飞
+- Meta AI：由 Meta 公司发布的，基于 Llama 3 模型，提供文生文和文生图功能
+- DuckDuckGo AI Chat：由著名的匿名搜索引擎 DuckDuckGo 提供的 AI 聊天对话工具，目前提供 ChatGPT3.5 和 Claude 两种对话模型
+- LLM Pricing：比较主流大语言模型（LLM） API 接口的使用价格
 
 # AI 教程
-- AI For Math 学习清单_陶哲轩：AI For Math 是指数学领域的人工智能，即使用 AI 来辅助解决数学问题
+- 大语言模型：由中国人民大学高瓴人工智能学院撰写的介绍大语言模型的开源书籍
 ```
 
 # 交流群
@@ -117,6 +114,7 @@
 | [01 AI](https://www.01.ai/cn)                                |            🆓🔓             | 一款自研，开源的 AI 模型                                     |
 | [星辰语义大模型（TeleChat）](https://github.com/Tele-AI/Telechat) |            🆓🔓             | 由中电信人工智能科技有限公司研发训练的大语言模型，采用1.5万亿 Tokens中英文高质量语料进行训练 |
 | [Latte](https://maxin-cn.github.io/latte_project/)           |            🆓🔓             | 用于视频生成的 Latent Diffusion Transformer 模型             |
+| [LLM Pricing](https://llmpricecheck.com/)                    |             🆓             | 比较主流大语言模型（LLM） API 接口的使用价格                 |
 
 # 聊天对话
 
@@ -156,6 +154,8 @@
 |[Helper](https://helper.im/#/)|ChatGPT|💰|基于 ChatGPT 的客户端工具|
 |[Chat With RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)|GPT|✈️🆓|Chat with RTX 是 NVIDIA 开发的一个本地运行的 AI 聊天机器人应用程序|
 |[Claude2 中文](https://www.claudeai.ai/zh-CN/)|Claude|🆓|非官方镜像|
+|[Meta AI](https://www.meta.ai/)|Llama 3|✈️🆓|由 Meta 公司发布的，基于 Llama 3 模型，提供文生文和文生图功能|
+|[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)|ChatGPT&Claude|🧪✈️🆓|由著名的匿名搜索引擎 DuckDuckGo 提供的 AI 聊天对话工具，目前提供 ChatGPT3.5 和 Claude 两种对话模型|
 |[Open-assistant](https://open-assistant.io/zh)|-|🆓&💰|一款开源，大家都可以参与提升其质量的聊天类 ai，支持中文|
 |[ChatYuan](https://www.clueai.cn/)|-|🆓&💰|中英文对话的大型语言模型|
 |[Freedom gpt](https://freedomgpt.com/)|-|✈️🆓&💰||
