@@ -29,19 +29,18 @@
 3. 更新记录
 
 ```bash
-  ____   ___ ____  _  _          ___  _  _        ____  ___  
- |___ \ / _ \___ \| || |        / _ \| || |      |___ \( _ ) 
-   __) | | | |__) | || |_ _____| | | | || |_ _____ __) / _ \ 
-  / __/| |_| / __/|__   _|_____| |_| |__   _|_____/ __/ (_) |
- |_____|\___/_____|  |_|        \___/   |_|      |_____\___/ 
-                                                                    
+  ____   ___ ____  _  _          ___  ____        _ ____  
+ |___ \ / _ \___ \| || |        / _ \| ___|      / |___ \ 
+   __) | | | |__) | || |_ _____| | | |___ \ _____| | __) |
+  / __/| |_| / __/|__   _|_____| |_| |___) |_____| |/ __/ 
+ |_____|\___/_____|  |_|        \___/|____/      |_|_____|
+                                                                                             
 # AI 工具
-- Meta AI：由 Meta 公司发布的，基于 Llama 3 模型，提供文生文和文生图功能
-- DuckDuckGo AI Chat：由著名的匿名搜索引擎 DuckDuckGo 提供的 AI 聊天对话工具，目前提供 ChatGPT3.5 和 Claude 两种对话模型
-- LLM Pricing：比较主流大语言模型（LLM） API 接口的使用价格
-
-# AI 教程
-- 大语言模型：由中国人民大学高瓴人工智能学院撰写的介绍大语言模型的开源书籍
+- Build Naidia：英伟达提供的各种免费模型
+- Autopod：AI 驱动的视频剪辑工具
+- Rytr：AI 驱动的写作工具
+- Mubert：AI 驱动的音乐生成工具，除了生成功能外，还提供了收听 AI 音乐，AI 音乐制作软件等功能
+- 虚拟小镇：由 AI 驱动的虚拟小镇，上面生活了 25 个智能体
 ```
 
 # 交流群
@@ -162,6 +161,7 @@
 |[Character.ai](https://beta.character.ai/)|-|✈️🆓&💰|基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话|
 |[ChatMart](https://www.chatmart.co)|-|🆓&💰|为网站和文档定制 AI 聊天机器人，并可集成在任何网站【 [@kerrygao](https://github.com/kerrygao) 分享】|
 |[Realchar.ai](https://realchar.ai/)|-|🆓🔓|一款端到端开源人工智能伴侣，其中的特色功能是可以获取实时的背景信息|
+|[Build Naidia](https://build.nvidia.com/explore/discover)|-|✈️🆓|英伟达提供的各种免费模型|
 # AI 助手
 
 | 产品名称                                                  | 相关信息 | 备注                                                         |
@@ -232,6 +232,7 @@
 | [EBsynth](https://ebsynth.com/)                              |    ✈️🆓    | 将原始视频通过 AI 转换风格                                   |
 | [Runway](https://runwayml.com/)                              |   ✈️🆓&💰   | 视频扩展视频，文本生成视频，图片生成视频                     |
 | [Atable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) |   ✈️🆓🔓    | 根据描述生成视频                                             |
+| [Autopod](https://www.autopod.fm/)                           |    ✈️💰    | AI 驱动的视频剪辑工具                                        |
 
 ## 游戏
 
@@ -309,6 +310,7 @@
 |[AI简历-求职帮手](https://ai-tools.cn/resume)|🆓&💰|新一代在线AI简历工具，制作高质量简历【 [@itLeeyw](https://github.com/itLeeyw) 分享】|
 |[Smary.Pro](https://smary.pro/)|🆓|一款 AI 驱动的文本摘要工具|
 |[Elegantresume](https://www.elegantresume.pro/)|🆓|一款在线制作简历的网站，提供非常专业化的简历模板，且集成了 OpenAI|
+|Rytr|✈️🆓&💰|AI 驱动的写作工具|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -352,6 +354,7 @@
 |[musico](https://www.musi-co.com/listen/streams)|✈️🆓|生成音乐的 AI 模型|
 |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)|✈️🆓|Facebook 推出的文本音乐生成模型 MusicGen|
 |[LOVO](https://lovo.ai/)|✈️🆓&💰|一款 AI 语音生成，文本转语音，创建自己的语音，自定义语音的工具|
+|[Mubert](https://mubert.com/)|✈️🆓&💰|AI 驱动的音乐生成工具，除了生成功能外，还提供了收听 AI 音乐，AI 音乐制作软件等功能|
 ## 换脸
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -394,6 +397,7 @@
 |[GPT3DEMO](https://gpt3demo.com/)|✈️🆓|提供大量 AI 技术的应用场景和技术案例|
 |[Huntsbot](https://www.huntsbot.com/topic/ai.html#)|🆓|聚合了大量 ChatGPT，OpenAI CLIP，OpenAI Codex，Stable Diffusion，DALL·E 2 和 GPT 等 AI 技术应用场景与产品案例|
 |[Chatgpt Server](https://xiaoxuan6.github.io/chatgpt-server/free-accounts.html)|✈️🆓🔓|该网站收集一些免费的 chatgpt 账号提供用户使用，但是并不稳定|
+|[虚拟小镇](https://reverie.herokuapp.com/arXiv_Demo/)|✈️🆓|由 AI 驱动的虚拟小镇，上面生活了 25 个智能体<br>📃[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442v1)|
 
 # 教程
 
