@@ -29,18 +29,18 @@
 3. 更新记录
 
 ```bash
-  ____   ___ ____  _  _          ___  ____        _ ____  
- |___ \ / _ \___ \| || |        / _ \| ___|      / |___ \ 
-   __) | | | |__) | || |_ _____| | | |___ \ _____| | __) |
-  / __/| |_| / __/|__   _|_____| |_| |___) |_____| |/ __/ 
- |_____|\___/_____|  |_|        \___/|____/      |_|_____|
-                                                                                             
-# AI 工具
-- Build Naidia：英伟达提供的各种免费模型
-- Autopod：AI 驱动的视频剪辑工具
-- Rytr：AI 驱动的写作工具
-- Mubert：AI 驱动的音乐生成工具，除了生成功能外，还提供了收听 AI 音乐，AI 音乐制作软件等功能
-- 虚拟小镇：由 AI 驱动的虚拟小镇，上面生活了 25 个智能体
+  ____   ___ ____  _  _          ___   __        ____  _  _   
+ |___ \ / _ \___ \| || |        / _ \ / /_      |___ \| || |  
+   __) | | | |__) | || |_ _____| | | | '_ \ _____ __) | || |_ 
+  / __/| |_| / __/|__   _|_____| |_| | (_) |_____/ __/|__   _|
+ |_____|\___/_____|  |_|        \___/ \___/     |_____|  |_|  
+
+💡  AIProducthome 网站（https://eternaldeath.github.io/AIProductHome/）上线，正在全力完善中 ing。点击 Github 仓库右侧（About）中链接即可访问。
+
+🛠 AI 工具
+- Lepton AI：帮助开发人员和企业快速部署 AI 产品的平台
+- HeyGen：AI 驱动的高质量数字人平台（存在 VPN 检测和地域限制）
+- 一非 AI 壁纸：利用 AI 生成壁纸的小程序【@delltom2000 分享】
 ```
 
 # 交流群
@@ -187,6 +187,7 @@
 |[V0.dev](https://v0.dev/)|✈️🆓|一款用来进行设计和编程的 AI 辅助工具|
 |[Phind](https://www.phind.com/search?home=true)|✈️🆓|由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持|
 |[Devin](https://www.cognition-labs.com/introducing-devin)|🧪✈️🆓|由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域|
+|[Lepton AI](https://www.lepton.ai/)|🆓&💰|帮助开发人员和企业快速部署 AI 产品的平台|
 # 艺术创作
 ## 图像生成
 |产品名称|相关信息|备注|
@@ -219,6 +220,7 @@
 |[CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer)|✈️🆓📃|由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract)|
 |[AI Comic Factory](https://aicomicfactory.com/)|🆓&💰|利用 AI 生成漫画|
 |[Shap-E](https://github.com/openai/shap-e)|✈️🆓🔓📃|使用文本或 2D 图像生成 3D 图像<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
+|一非 AI 壁纸|🆓|利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -345,6 +347,7 @@
 |[synthesia](https://www.synthesia.io)|💰||
 |[腾讯智影](https://zenvideo.qq.com/)|🆓&💰|集数字人，文本生成音频，AI 绘画等功能的产品|
 |[DID](https://www.d-id.com/)|🆓&💰|虚拟数字人制作工具|
+|[HeyGen](https://www.heygen.com/)|✈️🆓&💰|AI 驱动的高质量数字人平台（存在 VPN 检测和地域限制）|
 ## 语音&音乐
 |产品名称|相关信息&emsp;|备注|
 |-|:-:|-|
