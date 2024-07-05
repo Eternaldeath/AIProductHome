@@ -29,18 +29,17 @@
 3. 更新记录
 
 ```bash
-  ____   ___ ____  _  _          ___   __        ____  _  _   
- |___ \ / _ \___ \| || |        / _ \ / /_      |___ \| || |  
-   __) | | | |__) | || |_ _____| | | | '_ \ _____ __) | || |_ 
-  / __/| |_| / __/|__   _|_____| |_| | (_) |_____/ __/|__   _|
- |_____|\___/_____|  |_|        \___/ \___/     |_____|  |_|  
+  ____   ___ ____  _  _          ___ _____      ___  ____  
+ |___ \ / _ \___ \| || |        / _ \___  |    / _ \| ___| 
+   __) | | | |__) | || |_ _____| | | | / /____| | | |___ \ 
+  / __/| |_| / __/|__   _|_____| |_| |/ /_____| |_| |___) |
+ |_____|\___/_____|  |_|        \___//_/       \___/|____/ 
 
-💡  AIProducthome 网站（https://eternaldeath.github.io/AIProductHome/）上线，正在全力完善中 ing。点击 Github 仓库右侧（About）中链接即可访问。
+💡 AIProducthome 网站（https://eternaldeath.github.io/AIProductHome/）上线，正在全力完善中 ing。
+   点击 Github 仓库右侧（About）中链接即可访问。
 
 🛠 AI 工具
-- Lepton AI：帮助开发人员和企业快速部署 AI 产品的平台
-- HeyGen：AI 驱动的高质量数字人平台（存在 VPN 检测和地域限制）
-- 一非 AI 壁纸：利用 AI 生成壁纸的小程序【@delltom2000 分享】
+- 🔥🔥 免费ChatGPT中文版： AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等
 ```
 
 # 交流群
@@ -51,8 +50,6 @@
 <img src=".\img\wechat.jpg" width="300" />
 </div>
 # Star History
-
-
 
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Eternaldeath/AIProductHome&type=Date&theme=dark" />
@@ -121,6 +118,7 @@
 
 |产品名称|基础模型|相关信息|备注|
 |-|-|:-:|-|
+|🔥🔥[免费ChatGPT中文版](https://chatgai.lovepor.cn/)|模型聚合|✈️🆓&💰|AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等|
 |[Poe](https://poe.com/)|模型聚合|✈️🆓&💰|AI 产品聚合网站，包括 GPT4，chatgpt 等|
 |[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|模型聚合|✈️🆓&💰|基于多种大模型的客户端|
 |[Chatgot](https://www.chatgot.io/)|模型聚合|✈️🆓|让用户自由在多种 AI 聊天工具间切换的 AI 聊天平台，支持主流的 AI 聊天工具|
