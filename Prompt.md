@@ -95,6 +95,7 @@
 | [FLOWGPT](https://flowgpt.com/)                              | 帮助提高 Prompt 质量                                         |         |
 | [Prompt Hunt](https://www.prompthunt.com/)                   | 面向绘画领域的提示工程网站                                   |         |
 | [<月球的阴影> - ChatGPT编写的科幻小说](https://1link.fun/blog/fiction-novel-by-chat-gpt/) | 作者通过和 chatGPT 对话，目前完成了小说的梗概                |         |
+| [文心一言这31个润色指令](https://www.xiaohongshu.com/explore/666aafe2000000001c0346a7?xsec_token=AB_5wLAJ34TorgcQv6uIc5QNgP9qID0Cjy8kYU9lYzU58=&xsec_source=pc_user) |                                                              | 小红书  |
 
 
 

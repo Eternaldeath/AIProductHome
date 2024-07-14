@@ -35,11 +35,20 @@
   / __/| |_| / __/|__   _|_____| |_| |/ /_____| |_| |___) |
  |_____|\___/_____|  |_|        \___//_/       \___/|____/ 
 
-💡 AIProducthome 网站（https://eternaldeath.github.io/AIProductHome/）上线，正在全力完善中 ing。
-   点击 Github 仓库右侧（About）中链接即可访问。
+💡 AI Product Home
+- 在线网站：aiproducthome.top
+- 国外仓库：https://github.com/Eternaldeath/AIProductHome
+- 国内仓库：https://gitcode.com/qq_34902437/AIProductHome/overview
 
-🛠 AI 工具
+AI 工具
 - 🔥🔥 免费ChatGPT中文版： AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等
+- SmallAI：支持一键使用GPT全系列、Claude全系列、微软必应全系列、谷歌Gemini全系列、国内全系列主流模型、向量模型（Embedding）、文生音频模型（Suno）、AI绘画模型（DallE3、Midjourney）、文生视频模型（luma-video）等超过140款AI模型
+
+AI Tutorial
+- 利用 Kimi 和 Drawio 绘制各种流程图
+
+Prompt
+- 文心一言这31个润色指令
 ```
 
 # 交流群
@@ -124,6 +133,7 @@
 |[Chatgot](https://www.chatgot.io/)|模型聚合|✈️🆓|让用户自由在多种 AI 聊天工具间切换的 AI 聊天平台，支持主流的 AI 聊天工具|
 |[Monica](https://monica.im/)|模型聚合|✈️🆓📥|支持 GPT4，Claude 和 Bard 的浏览器插件（谷歌，Edge）|
 |[Noi](https://github.com/lencx/Noi?tab=readme-ov-file)|模型聚合|✈️🆓🔓|Noi 是一个聚合类的 AI 客户端工具，支持 mac，win 和 Linux 平台|
+|[SmallAI](www.smallai.asia)|模型聚合|💰|支持一键使用GPT全系列、Claude全系列、微软必应全系列、谷歌Gemini全系列、国内全系列主流模型、向量模型（Embedding）、文生音频模型（Suno）、AI绘画模型（DallE3、Midjourney）、文生视频模型（luma-video）等超过140款AI模型|
 |[Youchat](https://you.com/)|自研&GPT4|✈️🆓||
 |[ChatGPT 镜像网站](https://c.aalib.net/tool/chatgpt/)|ChatGPT|🆓|一个提供大量基于 ChatGPT API 工具的导航网站|
 |[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)|ChatGPT|✈️🆓🔓|一个提供大量基于 ChatGPT API 工具的开源仓库|

@@ -13,6 +13,4 @@
 | [动手实战人工智能 AI By Doing](https://aibydoing.com/intro#id2) | 面向机器学习爱好者的电子书籍                                 |          |                          |
 | [AI For Math 学习清单](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/edit) | AI For Math 是指数学领域的人工智能，即使用 AI 来辅助解决数学问题 | 陶哲轩   |                          |
 | [大语言模型](https://llmbook-zh.github.io/)                  | 由中国人民大学高瓴人工智能学院撰写的介绍大语言模型的开源书籍 | 赵鑫等   |                          |
-
-
-
+| [Kimi + Drawio](https://www.xiaohongshu.com/explore/662631820000000001033ddc?xsec_token=ABv1AtAxmrz498m_Jp45-kJ7L7968uOVTKgwbqyGgC9N8=&xsec_source=pc_user) | 利用 Kimi 和 Drawio 绘制各种流程图                           |          | Kimi，Drawio             |
