@@ -29,27 +29,19 @@
 3. 更新记录
 
 ```bash
-
-  ____   ___ ____  _  _          ___ _____     _ _  _   
- |___ \ / _ \___ \| || |        / _ \___  |   / | || |  
-   __) | | | |__) | || |_ _____| | | | / /____| | || |_ 
-  / __/| |_| / __/|__   _|_____| |_| |/ /_____| |__   _|
- |_____|\___/_____|  |_|        \___//_/      |_|  |_|  
+ ____   ___ ____  _  _          ___ _____    ____  _ 
+ |___ \ / _ \___ \| || |        / _ \___  |  |___ \/ |
+   __) | | | |__) | || |_ _____| | | | / /____ __) | |
+  / __/| |_| / __/|__   _|_____| |_| |/ /_____/ __/| |
+ |_____|\___/_____|  |_|        \___//_/     |_____|_| 
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
 - 国内仓库：https://gitcode.com/qq_34902437/AIProductHome/overview
 
-AI 工具
-- 🔥🔥 免费ChatGPT中文版： AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等
-- SmallAI：支持一键使用GPT全系列、Claude全系列、微软必应全系列、谷歌Gemini全系列、国内全系列主流模型、向量模型（Embedding）、文生音频模型（Suno）、AI绘画模型（DallE3、Midjourney）、文生视频模型（luma-video）等超过140款AI模型
-
-AI Tutorial
-- 利用 Kimi 和 Drawio 绘制各种流程图
-
-Prompt
-- 文心一言这31个润色指令
+🛠️ AI TOOLS
+- LangChain：LangChain 是一个开源框架，旨在帮助开发者构建和部署基于大型语言模型 (LLM) 的应用程序。它提供了一套工具和组件，可以将 LLM 与其他数据源和计算资源集成，从而创建更强大、更实用的 AI 应用程序
 ```
 
 # 交流群
@@ -102,7 +94,7 @@ Prompt
 
 | 产品名称                                                     | 相关信息<img width=200 /> | 备注                                                         |
 | ------------------------------------------------------------ | :-----------------------: | ------------------------------------------------------------ |
-| [ChatGPT](https://openai.com/blog/chatgpt)                   |            ✈️💰             | Open AI<br>⚠️ Open AI 目前有地域限制                          |
+| [GPT](https://openai.com/blog/chatgpt)                       |                           | OpenAI 公司开发的自然语言处理模型，基于 Pre-trained Transformer 架构，可应用于生成文本，回答问题，对话交互等领域。ChatGPT 就是其中的一个具体应用 |
 | [文心一言](https://yiyan.baidu.com/welcome)                  |            🧪 🆓            | 百度大模型                                                   |
 | [通义千问](https://tongyi.aliyun.com/)                       |            🧪 🆓            | 阿里巴巴达摩院推出的 AI 大模型                               |
 | [HuggingChat](https://huggingface.co/chat/)                  |           ✈️🆓&🔓            | Hugging Face 推出的 ChatGPT 的开源替代品                     |
@@ -121,6 +113,7 @@ Prompt
 | [星辰语义大模型（TeleChat）](https://github.com/Tele-AI/Telechat) |            🆓🔓             | 由中电信人工智能科技有限公司研发训练的大语言模型，采用1.5万亿 Tokens中英文高质量语料进行训练 |
 | [Latte](https://maxin-cn.github.io/latte_project/)           |            🆓🔓             | 用于视频生成的 Latent Diffusion Transformer 模型             |
 | [LLM Pricing](https://llmpricecheck.com/)                    |             🆓             | 比较主流大语言模型（LLM） API 接口的使用价格                 |
+| OpenAgents                                                   |            🆓🔓📃            | 开源的智能体框架及工具，基于 LLMs                            |
 
 # 聊天对话
 
@@ -129,6 +122,7 @@ Prompt
 |产品名称|基础模型|相关信息|备注|
 |-|-|:-:|-|
 |🔥🔥[免费ChatGPT中文版](https://chatgai.lovepor.cn/)|模型聚合|✈️🆓&💰|AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等|
+|[ChatGPT](https://openai.com/blog/chatgpt)|GPT 系列|✈️💰|Open AI 推出的基于 GPT 系列的自然语言处理工具<br/>⚠️ Open AI 目前有地域限制|
 |[Poe](https://poe.com/)|模型聚合|✈️🆓&💰|AI 产品聚合网站，包括 GPT4，chatgpt 等|
 |[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|模型聚合|✈️🆓&💰|基于多种大模型的客户端|
 |[Chatgot](https://www.chatgot.io/)|模型聚合|✈️🆓|让用户自由在多种 AI 聊天工具间切换的 AI 聊天平台，支持主流的 AI 聊天工具|
@@ -197,6 +191,7 @@ Prompt
 |[Phind](https://www.phind.com/search?home=true)|✈️🆓|由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持|
 |[Devin](https://www.cognition-labs.com/introducing-devin)|🧪✈️🆓|由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域|
 |[Lepton AI](https://www.lepton.ai/)|🆓&💰|帮助开发人员和企业快速部署 AI 产品的平台|
+|[LangChain](https://www.langchain.com/)|✈️🆓&💰|LangChain 是一个开源框架，旨在帮助开发者构建和部署基于大型语言模型 (LLM) 的应用程序。它提供了一套工具和组件，可以将 LLM 与其他数据源和计算资源集成，从而创建更强大、更实用的 AI 应用程序|
 # 艺术创作
 ## 图像生成
 |产品名称|相关信息|备注|
