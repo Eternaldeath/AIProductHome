@@ -82,6 +82,8 @@
 | 技术 | [玻璃芯片要火，多亏了AI](https://36kr.com/p/2794310157998976) | 玻璃芯片是将有机基板替换为玻璃基板，具备具有更好的电气性能，耐高温和更大的封装尺寸的特性 | 雷科技             |
 | 行业 | [田丰：2024大模型产业十大趋势](https://mp.weixin.qq.com/s/KBaae7mlVvfH7K5xiHdCwQ) |                                                              | 商汤智能产业研究院 |
 | 行业 | [大模型时代的计算机系统革新：更大规模、更分布式、更智能化](https://mp.weixin.qq.com/s/7nK3fERGj7a6pcwNMKFdSQ) |                                                              | 微软亚洲研究院     |
+| 行业 | [How to use generative AI for historical research](https://resobscura.substack.com/p/generative-ai-for-historical-research) | 如何使用生成式人工智能进行历史研究                           |                    |
+| 行业 | [苹果发文质疑：大语言模型根本无法进行逻辑推理](https://mp.weixin.qq.com/s/oSaWfp2x2xwp5bPghlpH2A) | [原始论文](https://arxiv.org/abs/2410.05229)                 | 苹果               |
 
 
 

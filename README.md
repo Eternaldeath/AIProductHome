@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2024-09-08
+2024-10-13
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -40,17 +40,12 @@
 ⚠️ 针对免费收录的产品和工具，我们会进行有门槛的筛选，优先选用成熟可靠的产品，同时删除已经失效的工具。
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
-有一段时间没有更新，本次更新主要完成了如下工作（网站更新稍晚于仓库）：优化仓库结构；清除部分失效网站和低质量网站；规范化新增资源标准。本次更新最大的感受就是，大量以前基于二次开发的网站，或者基于套壳的网站失效或停止维护。AI 应用产品在当前进入了以大企业为主的时代，并且有 GPT 带动的这一次 AI 浪潮，本身就依靠高算力这样资本密集，技术密集的能力，对于普通人来说要从中分一杯羹，可能只有先发制人这样的方式（例如早期的套壳网站）。
+# AI Tool
+- 若干
+- GPTsurl：GPTs 应用商店
 
-在本群中有不少 AI 创业的独立开发者，尤其是中后期参与到其中的朋友，之后如何通过 AI 产品持续性盈利可能会变成头等大事，如何和企业级产品以及头部二次开发产品（如 POE）做出差异化优势，可能是首要解决的问题。
-
-# AI TOOLS
-- 支小宝：支付宝发布的 AI 生活管家 APP，各大应用商店均有下载
-- Lobehub：LobeHub 是一个提供个人 AI 助手和多种智能工具的网站，旨在通过先进的人工智能技术提升用户的生产力和创造力，底层套壳了多个模型
-- 302.ai：302.AI是一个汇集全球顶级品牌的AI超市，汇集全球各类顶尖AI模型，提供多种AI机器人，各种AI工具的使用和AI API接入
-
-# AI 教程
-- Build a Large Language Model (From Scratch）：开发、预训练和微调类似 GPT 的LLM的代码，并且是《构建大型语言模型（从头开始）》一书的官方代码存储库
+# AI NEWS
+- 苹果发文质疑：大语言模型根本无法进行逻辑推理
 ```
 
 # 交流群
@@ -124,6 +119,7 @@
 | [LLM Pricing](https://llmpricecheck.com/)                    |             🆓             | 比较主流大语言模型（LLM） API 接口的使用价格                 |
 | OpenAgents                                                   |            🆓🔓📃            | 开源的智能体框架及工具，基于 LLMs                            |
 | [CogVideoX](https://github.com/THUDM/CogVideo)               |             📃             | 清华大学 KEG 实验室推出的，基于 CogVideo 的新一代视频生成模型 |
+| 知海图 AI                                                    |                           | 由知乎与面壁智能联合打造的大型语言模型                       |
 
 # 单模型聊天对话应用
 
@@ -144,7 +140,7 @@
 | [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt) | GPT 系列 |   ✈️🆓🔓    | 一个提供大量基于 ChatGPT API 工具的开源仓库                  |
 | [免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md) | GPT 系列 |   ✈️🆓🔓    | 一个提供大量基于 ChatGPT API 工具的开源仓库                  |
 | [Meta AI](https://www.meta.ai/)                              | Llama 3  |    ✈️🆓    | 由 Meta 公司发布的，基于 Llama 3 模型，提供文生文和文生图功能 |
-|                                                              |          |          |                                                              |
+| [知乎直答](https://zhida.zhihu.com/)                         | 知海图   |    🆓     | 知乎直答是基于知海图大模型开发的产品                         |
 
 # 多模型聊天对话应用
 
@@ -166,6 +162,7 @@
 |[Chatgpt4google](https://chatgpt4google.com/)|模型聚合|✈️🆓&💰📥|在浏览器上同步展示 GPT4 和 Claude2 的搜索结果|
 |[Chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|模型聚合|✈️🆓&💰📥|一款支持 ChatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
 |[Freedom gpt](https://freedomgpt.com/)|模型聚合|✈️🆓&💰|提供无审查的各种模型应用|
+|[Yeschat](https://www.yeschat.ai)|模型聚合|🆓&💰|通过一站式访问高级AI：GPT-4o、DALL·E 3 以及200,000+ GPT，将您的效率提升10倍|
 # 模型开发框架
 
 > 开源的 UI，接口等框架（非模型本身开源），利用框架方便地开发出基于模型的商业应用
@@ -173,7 +170,8 @@
 | 产品名称                                                     | 应用场景 | 相关信息 | 备注                                                         |
 | ------------------------------------------------------------ | -------- | :------: | ------------------------------------------------------------ |
 | [Flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box) | APP      |   ✈️🆓&💰   | 基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台 |
-| [OpenAgents](https://github.com/xlang-ai/OpenAgents)         | 插件     |    🆓🔓    | 来自香港大学、XLang实验室、Sea AI实验室和Salesforce的研究者联合打造了一款用于真实世界生产力工具的*开源智能体框架* |
+| [OpenAgents](https://github.com/xlang-ai/OpenAgents)         | 插件     |    🆓🔓    | 来自香港大学、XLang实验室、Sea AI实验室和Salesforce的研究者联合打造了一款用于真实世界生产力工具的开源智能体框架 |
+| [NextChat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | 跨平台   |   🆓&💰    | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型 |
 
 # AI 助手
 
@@ -207,6 +205,8 @@
 |[Devin](https://www.cognition-labs.com/introducing-devin)|🧪✈️🆓|由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域|
 |[Lepton AI](https://www.lepton.ai/)|🆓&💰|帮助开发人员和企业快速部署 AI 产品的平台|
 |[LangChain](https://www.langchain.com/)|✈️🆓&💰|LangChain 是一个开源框架，旨在帮助开发者构建和部署基于大型语言模型 (LLM) 的应用程序。它提供了一套工具和组件，可以将 LLM 与其他数据源和计算资源集成，从而创建更强大、更实用的 AI 应用程序|
+|[Screenshot to code](https://github.com/abi/screenshot-to-code)|🆓|一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。**现在支持 Claude Sonnet 3.5 和 GPT-4O！**|
+|[AI SEO](https://aitdk.com/zh)|🆓|探索一系列免费的AI SEO工具和AI生成器，旨在提升您的搜索引擎优化策略。利用人工智能技术，提升您网站的可见性和排名|
 # 模型开发
 
 | 产品名称                         | 相关信息&emsp; | 备注                           |
@@ -220,6 +220,7 @@
 |-|:-:|-|-|
 |[Midjourney](https://www.midjourney.com)|✈️🆓&💰||Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
 |[Chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓||基于 Midjourney API 的产品，无需注册 discord|
+|[必应图像创建器](https://cn.bing.com/images/create)|🆓||微软必应推出的 AI 图像生成工具|
 |[Midjourney 中文版](https://www.huashou.club/)|💰||⚠️非 midjourney 官方中文版|
 |[意间 AI](http://yjai.ai-galaxy.com/)|🆓||一款在线 AI 绘画工具|
 |[无界 AI](https://www.wujieai.com/)|🆓&💰||一款在线 AI 绘画工具|
@@ -245,9 +246,10 @@
 |[AI字体模型市场](https://www.ai.zitijia.com/list/1)|🆓&💰||由 AI 生成的字体样式|
 |[CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer)|✈️🆓📃||由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract)|
 |[AI Comic Factory](https://aicomicfactory.com/)|🆓&💰||利用 AI 生成漫画|
+|[Shortbread](https://shortbread.ai/)|🆓|-|利用 AI 生成漫画|
 |[Shap-E](https://github.com/openai/shap-e)|✈️🆓🔓📃||使用文本或 2D 图像生成 3D 图像<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
-|一非 AI 壁纸|🆓||利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
-|[Flux AI](https://fluximagegenerator.ai/)|💰|未知|AI 图片生成工具|
+|一非 AI 壁纸|🆓|-|利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
+|[Flux AI](https://fluximagegenerator.ai/)|💰|-|AI 图片生成工具|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -282,6 +284,7 @@
 |[美图 AI PPT](https://design.meitu.com/ppt/)|🆓|用户输入提示，AI 生成 PPT|
 |[Mindshow](https://mindshow.fun/#/home)|🆓&💰|用户输入提示，AI 生成 PPT|
 |[MotionGo](http://motion.yoo-ai.com/)|🆓&💰|用户输入提示，AI 生成 PPT|
+|[博思 AI PPT](https://pptgo.cn/)|🆓&💰|博思AIPPT，是新一代的在线AI生成PPT软件，提供多种快速制作PPT的方式，包括主题生成PPT、文本生成PPT、导入Word/PDF/TXT/Markdown文件生成PPT等，内置海量精美PPT模板，涵盖商务、教育、科技等不同风格，随心使用不重样，同时针对每个页面提供多种版式，一键自适应切换，完美适配各种办公场景|
 
 ## Excel
 |产品名称|相关信息|备注|
@@ -400,11 +403,12 @@
 |[ShareGPT](https://sharegpt.com/)|✈️🆓📥|一键分享您最疯狂的 ChatGPT 对话|
 # GPTs
 
-| 产品名称                                 | 相关信息 | 备注          |
-| ---------------------------------------- | :------: | ------------- |
-| [Gptstore](https://gptstore.ai/)         |    ✈️🆓    | GPT 插件商店  |
-| [GPTs 商店](https://ai.gptstores.store/) |    ✈️🆓    | GPTs 应用商店 |
-| [GPTsApp.io](https://www.gptsapp.io/)    |    ✈️🆓    | GPTs 应用商店 |
+| 产品名称                                      | 相关信息 | 备注          |
+| --------------------------------------------- | :------: | ------------- |
+| [Gptstore](https://gptstore.ai/)              |    ✈️🆓    | GPT 插件商店  |
+| [GPTsurl](https://www.gptsurl.com/)           |    ✈️🆓    | GPTs 应用商店 |
+| [GPTsApp.io](https://www.gptsapp.io/)         |    ✈️🆓    | GPTs 应用商店 |
+| [Third-party GPTs store](https://gpts.works/) |    ✈️🆓    | GPTs 应用商店 |
 
 # 其他
 
@@ -431,6 +435,7 @@
 |[Huntsbot](https://www.huntsbot.com/topic/ai.html#)|🆓|聚合了大量 ChatGPT，OpenAI CLIP，OpenAI Codex，Stable Diffusion，DALL·E 2 和 GPT 等 AI 技术应用场景与产品案例|
 |[Chatgpt Server](https://xiaoxuan6.github.io/chatgpt-server/free-accounts.html)|✈️🆓🔓|该网站收集一些免费的 chatgpt 账号提供用户使用，但是并不稳定|
 |[虚拟小镇](https://reverie.herokuapp.com/arXiv_Demo/)|✈️🆓|由 AI 驱动的虚拟小镇，上面生活了 25 个智能体<br>📃[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442v1)|
+|[MORE RIZZ AI](https://more-rizzai.com/)|🆓|在现代社交中，每句话都可能影响约会对象的心态和行为，同时也关系到他们对我们的好感与信任。因此，我们推出了“More Rizz AI”，一款专为约会高手设计的AI工具。希望它能帮助您更好地与约会对象沟通，营造美好的约会体验|
 
 # 教程
 
