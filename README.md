@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2024-10-13
+2024-10-20
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,11 +41,9 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- 若干
-- GPTsurl：GPTs 应用商店
-
-# AI NEWS
-- 苹果发文质疑：大语言模型根本无法进行逻辑推理
+- CareGPT：CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展
+- MiniMax：MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用
+- 写畅猴：写畅猴由名校博士团队联合研发！国内首创生成低AI重复率的论文！
 ```
 
 # 交流群
@@ -163,6 +161,12 @@
 |[Chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|模型聚合|✈️🆓&💰📥|一款支持 ChatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
 |[Freedom gpt](https://freedomgpt.com/)|模型聚合|✈️🆓&💰|提供无审查的各种模型应用|
 |[Yeschat](https://www.yeschat.ai)|模型聚合|🆓&💰|通过一站式访问高级AI：GPT-4o、DALL·E 3 以及200,000+ GPT，将您的效率提升10倍|
+# 行业大模型
+
+| 产品名称                                            | 行业 | 相关信息 | 备注                                                         |
+| --------------------------------------------------- | ---- | :------: | ------------------------------------------------------------ |
+| [CareGPT](https://github.com/WangRongsheng/CareGPT) | 医疗 |    🆓🔓    | CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展 |
+
 # 模型开发框架
 
 > 开源的 UI，接口等框架（非模型本身开源），利用框架方便地开发出基于模型的商业应用
@@ -187,6 +191,7 @@
 | [RoleD](https://roled.lingj.net/login)                    |    🆓     | 一款基于 ChatGPT 的角色聊天工具                              |
 | [Character.ai](https://beta.character.ai/)                |   ✈️🆓&💰   | 基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话 |
 | [Realchar.ai](https://realchar.ai/)                       |    🆓🔓    | 一款端到端开源人工智能伴侣，其中的特色功能是可以获取实时的背景信息 |
+| [Minimaxi](https://minimaxi.com/)                         |          | MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用 |
 
 # 代码辅助
 
@@ -345,6 +350,7 @@
 |[Smary.Pro](https://smary.pro/)|🆓|一款 AI 驱动的文本摘要工具|
 |[Elegantresume](https://www.elegantresume.pro/)|🆓|一款在线制作简历的网站，提供非常专业化的简历模板，且集成了 OpenAI|
 |Rytr|✈️🆓&💰|AI 驱动的写作工具|
+|[写畅猴](https://www.aimmc.cn/new/#/home)|🆓&💰|写畅猴由名校博士团队联合研发！国内首创生成低AI重复率的论文！|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
