@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2024-10-20
+2024-11-10
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,9 +41,8 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- CareGPT：CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展
-- MiniMax：MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用
-- 写畅猴：写畅猴由名校博士团队联合研发！国内首创生成低AI重复率的论文！
+- News mini malist：使用 AI 对新闻进行排名聚合
+- 策引：基于 ChatGPT 的投资助手
 ```
 
 # 交流群
@@ -396,6 +395,7 @@
 |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)|✈️🆓|Facebook 推出的文本音乐生成模型 MusicGen|
 |[LOVO](https://lovo.ai/)|✈️🆓&💰|一款 AI 语音生成，文本转语音，创建自己的语音，自定义语音的工具|
 |[Mubert](https://mubert.com/)|✈️🆓&💰|AI 驱动的音乐生成工具，除了生成功能外，还提供了收听 AI 音乐，AI 音乐制作软件等功能|
+|[AI Music Generator](https://xaaimusic.com/)|🆓&💰|AI 音乐生成器|
 ## 换脸
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -442,6 +442,8 @@
 |[Chatgpt Server](https://xiaoxuan6.github.io/chatgpt-server/free-accounts.html)|✈️🆓🔓|该网站收集一些免费的 chatgpt 账号提供用户使用，但是并不稳定|
 |[虚拟小镇](https://reverie.herokuapp.com/arXiv_Demo/)|✈️🆓|由 AI 驱动的虚拟小镇，上面生活了 25 个智能体<br>📃[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442v1)|
 |[MORE RIZZ AI](https://more-rizzai.com/)|🆓|在现代社交中，每句话都可能影响约会对象的心态和行为，同时也关系到他们对我们的好感与信任。因此，我们推出了“More Rizz AI”，一款专为约会高手设计的AI工具。希望它能帮助您更好地与约会对象沟通，营造美好的约会体验|
+|[策引](https://www.myinvestpilot.com/pricing)|💰|基于 ChatGPT 的投资助手|
+|[News mini malist](https://www.newsminimalist.com/)|🆓|使用 AI 对新闻进行排名聚合|
 
 # 教程
 
