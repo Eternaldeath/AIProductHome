@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2024-11-10
+2024-11-24
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,8 +41,8 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- News mini malist：使用 AI 对新闻进行排名聚合
-- 策引：基于 ChatGPT 的投资助手
+- 可灵大模型：可灵大模型是快手开发的视频生成底层大模型
+- 可灵 AI：可灵 AI 是快手基于可灵大模型开发的视频生成 AI 工具
 ```
 
 # 交流群
@@ -117,6 +117,7 @@
 | OpenAgents                                                   |            🆓🔓📃            | 开源的智能体框架及工具，基于 LLMs                            |
 | [CogVideoX](https://github.com/THUDM/CogVideo)               |             📃             | 清华大学 KEG 实验室推出的，基于 CogVideo 的新一代视频生成模型 |
 | 知海图 AI                                                    |                           | 由知乎与面壁智能联合打造的大型语言模型                       |
+| [可灵大模型](https://kling.kuaishou.com/)                    |                           | 可灵大模型是快手开发的视频生成底层大模型                     |
 
 # 单模型聊天对话应用
 
@@ -269,6 +270,7 @@
 | [Atable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) |   ✈️🆓🔓    | 根据描述生成视频                                             |
 | [Autopod](https://www.autopod.fm/)                           |    ✈️💰    | AI 驱动的视频剪辑工具                                        |
 | [清影](https://chatglm.cn/video)                             |    🆓     | 智谱清言推出的文生视频，图像生成视频工具                     |
+| [可灵 AI](https://klingai.kuaishou.com/)                     |   🆓&💰    | 可灵 AI 是快手基于可灵大模型开发的视频生成 AI 工具           |
 
 ## 游戏
 
