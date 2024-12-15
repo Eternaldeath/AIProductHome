@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2024-11-30
+2024-12-15
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,7 +41,10 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- 豆包 MarsCode：豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力
+- 更新部分链接，删除部分失效 AI 工具和产品
+- 腾讯混元 AI：由腾讯公司全链路自研，在高质量内容创作、数理逻辑、 代码生成和多轮对话上性能表现卓越，处于业界领先水平。 混元API支持AI搜索联网插件，通过整合腾讯优质的内容生态 （如微信公众号、视频号等），提供强大的时新、深度内容 获取和AI问答能力
+- 纳米搜索：纳米搜索是360公司推出的一个多模态内容创作引擎
+- Grok：Grok 是基于 Grok-n 语言模型的产品，具有最先进的推理能力。有推特（X）推出
 ```
 
 # 交流群
@@ -85,6 +88,7 @@
 | [new bing](https://www.bing.com/)                |   🧪✈️🆓    | 必应搜索中集成的 chat gpt4                                   |
 | [Perplexity AI](https://www.perplexity.ai/)      |   ✈️🆓&💰   | 提供类似 new bing 的 AI 检索功能，对检索结果提供数据来源标注 |
 | [360 智脑](https://ai.360.cn/)                   |    🧪🆓    | 360 智脑是一款基于人工智能技术的搜索引擎产品                 |
+| [纳米搜索](https://www.n.cn/)                    |    🆓     | 纳米搜索是360公司推出的一个多模态内容创作引擎                |
 | [consensus](https://consensus.app/search/)       |   ✈️🆓&💰   | 学术方向的 AI 搜索引擎，根据检索内容，提供相关的论文，并总结 |
 | [学术版GPT](https://academic.chatwithpaper.org/) |    🧪🆓    | 由 chatPaper 团队开发的学术版 GPT                            |
 | [Aminer](https://www.aminer.cn/)                 |    🆓     | AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper |
@@ -98,7 +102,7 @@
 | [文心一言](https://yiyan.baidu.com/welcome)                  |            🧪 🆓            | 百度大模型                                                   |
 | [通义千问](https://tongyi.aliyun.com/)                       |            🧪 🆓            | 阿里巴巴达摩院推出的 AI 大模型                               |
 | [HuggingChat](https://huggingface.co/chat/)                  |           ✈️🆓&🔓            | Hugging Face 推出的 ChatGPT 的开源替代品                     |
-| [Bard](https://bard.google.com/)                             |            🧪✈️🆓            | 谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型<br>⚠️ 请开启全局访问，并选择美国节点 |
+| [Genie](https://gemini.google.com/app)                       |           🧪✈️🆓&💰           | 谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型        |
 | [huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)           |            🧪🆓             | 香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) |
 | [火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform) |            🆓&💰            | 字节跳动开发的云原生机器学习平台                             |
 | [Claude](https://claude.ai/)                                 |           🧪✈️🆓&💰           | Anthropic 公司开发的 AI 聊天工具<br/>⚠️ Claude 目前仅限美国和英国使用 |
@@ -117,6 +121,7 @@
 | [CogVideoX](https://github.com/THUDM/CogVideo)               |             📃             | 清华大学 KEG 实验室推出的，基于 CogVideo 的新一代视频生成模型 |
 | 知海图 AI                                                    |                           | 由知乎与面壁智能联合打造的大型语言模型                       |
 | [可灵大模型](https://kling.kuaishou.com/)                    |                           | 可灵大模型是快手开发的视频生成底层大模型                     |
+| [腾讯混元 AI](https://hunyuan.tencent.com/)                  |            🆓🔓             | 由腾讯公司全链路自研，在高质量内容创作、数理逻辑、 代码生成和多轮对话上性能表现卓越，处于业界领先水平。 混元API支持AI搜索联网插件，通过整合腾讯优质的内容生态 （如微信公众号、视频号等），提供强大的时新、深度内容 获取和AI问答能力 |
 
 # 单模型聊天对话应用
 
@@ -138,6 +143,7 @@
 | [免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md) | GPT 系列 |   ✈️🆓🔓    | 一个提供大量基于 ChatGPT API 工具的开源仓库                  |
 | [Meta AI](https://www.meta.ai/)                              | Llama 3  |    ✈️🆓    | 由 Meta 公司发布的，基于 Llama 3 模型，提供文生文和文生图功能 |
 | [知乎直答](https://zhida.zhihu.com/)                         | 知海图   |    🆓     | 知乎直答是基于知海图大模型开发的产品                         |
+| [Grok](https://x.com/i/grok)                                 | Grok     |          | Grok 是基于 Grok-n 语言模型的产品，具有最先进的推理能力。有推特（X）推出 |
 
 # 多模型聊天对话应用
 
