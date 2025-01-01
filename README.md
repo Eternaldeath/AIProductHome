@@ -41,7 +41,8 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- 百川智能金融大模型：金融领域垂直大模型
+- C 知道：CSDN 旗下面向开发者的 AI 搜索引擎
+- CodeGPT：CSDN 旗下面向开发者的代码编写辅助插件
 ```
 
 # 交流群
@@ -216,6 +217,8 @@
 |[Screenshot to code](https://github.com/abi/screenshot-to-code)|🆓|一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。**现在支持 Claude Sonnet 3.5 和 GPT-4O！**|
 |[AI SEO](https://aitdk.com/zh)|🆓|探索一系列免费的AI SEO工具和AI生成器，旨在提升您的搜索引擎优化策略。利用人工智能技术，提升您网站的可见性和排名|
 |[豆包 MarsCode](https://www.marscode.cn/)|🆓|豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力|
+|[C 知道](https://so.csdn.net/chat?utm_source=vip_chatgpt_common_pc_toolbar&spm=1010.2135.3001.10025)|🆓|CSDN 旗下面向开发者的 AI 搜索引擎|
+|[CodeGPT](https://marketplace.visualstudio.com/items?itemName=CSDN.csdn-codegpt&spm=1018.2226.3001.9836&extra%5Butm_source%5D=vip_chatgpt_common_pc_toolbar&extra%5Butm_medium%5D=)|🆓📥|CSDN 旗下面向开发者的代码编写辅助插件|
 # 模型开发
 
 | 产品名称                         | 相关信息&emsp; | 备注                           |
