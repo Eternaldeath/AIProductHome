@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2024-12-29
+2025-01-08
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,8 +41,7 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- C 知道：CSDN 旗下面向开发者的 AI 搜索引擎
-- CodeGPT：CSDN 旗下面向开发者的代码编写辅助插件
+- DeepSeek：知名私募巨头幻方量化旗下的人工智能公司深度求索（DeepSeek）自主研发的大语言模型开发的智能助手
 ```
 
 # 交流群
@@ -143,6 +142,7 @@
 | [Meta AI](https://www.meta.ai/)                              | Llama 3  |    ✈️🆓    | 由 Meta 公司发布的，基于 Llama 3 模型，提供文生文和文生图功能 |
 | [知乎直答](https://zhida.zhihu.com/)                         | 知海图   |    🆓     | 知乎直答是基于知海图大模型开发的产品                         |
 | [Grok](https://x.com/i/grok)                                 | Grok     |          | Grok 是基于 Grok-n 语言模型的产品，具有最先进的推理能力。有推特（X）推出 |
+| [DeepSeek](https://www.deepseek.com/)                        | DeepSeek |    🆓     | 知名私募巨头幻方量化旗下的人工智能公司深度求索（DeepSeek）自主研发的大语言模型开发的智能助手 |
 
 # 多模型聊天对话应用
 
