@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2025-01-08
+2025-02-09
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,7 +41,12 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- DeepSeek：知名私募巨头幻方量化旗下的人工智能公司深度求索（DeepSeek）自主研发的大语言模型开发的智能助手
+- SuperCLUE：中文通用大模型综合性基准
+- AGI-Eval：由上海交通大学、同济大学等高校联合推出，评测模型在人类认知和问题解决能力上的表现
+- Open LLM Leaderboard：Hugging Face旗下的基准测试平台
+- LiveBench：针对 LLMs 的基准测试集
+- Chatbot Arena
+- Raphael：完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制
 ```
 
 # 交流群
@@ -262,6 +267,7 @@
 |[Shap-E](https://github.com/openai/shap-e)|✈️🆓🔓📃||使用文本或 2D 图像生成 3D 图像<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
 |一非 AI 壁纸|🆓|-|利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
 |[Flux AI](https://fluximagegenerator.ai/)|💰|-|AI 图片生成工具|
+|[Raphael](https://raphael.app/)|🆓||完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -410,6 +416,18 @@
 |-|:-:|-|
 |[deepswap](https://www.deepswap.ai/)|💰||
 |[faceswap](https://faceswap.dev/)|🆓||
+# AI 竞技场
+
+| 产品名称                                                     | 相关信息 | 备注                                                         |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| [SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE)      | 🆓        | 通用大模型评分网站，主要针对中文语料                         |
+| [AGI-Eval](https://agi-eval.cn/mvp/home)                     | 🆓        | 由上海交通大学、同济大学等高校联合推出，评测模型在人类认知和问题解决能力上的表现 |
+| [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) | 🆓        | Hugging Face旗下的基准测试平台                               |
+| [LiveBench](https://livebench.ai/#/)                         | 🆓        | 针对 LLMs 的基准测试集                                       |
+| [Chatbot Arena](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard) | 🆓        |                                                              |
+
+
+
 # 提示工程
 
 |产品名称|相关信息|备注|
