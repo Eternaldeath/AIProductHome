@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2025-02-09
+2025-03-01
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,12 +41,9 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- SuperCLUE：中文通用大模型综合性基准
-- AGI-Eval：由上海交通大学、同济大学等高校联合推出，评测模型在人类认知和问题解决能力上的表现
-- Open LLM Leaderboard：Hugging Face旗下的基准测试平台
-- LiveBench：针对 LLMs 的基准测试集
-- Chatbot Arena
-- Raphael：完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制
+- 通义万相：通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力
+- PPT.AI：在几分钟内创建专业的 PPT
+- 留白记事：一个能在微信对话框里同时召唤3个大模型的应用（目前改装了9款大模型）。内置了搜索、创建蓝牙、读取待办、画图等一系列工具供大模型调用；在APP内，本地优先、支持离线使用，并且改装全平台，让用户随时随地均可记录
 ```
 
 # 交流群
@@ -146,7 +143,7 @@
 | [免费ChatGPT网站列表](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md) | GPT 系列 |   ✈️🆓🔓    | 一个提供大量基于 ChatGPT API 工具的开源仓库                  |
 | [Meta AI](https://www.meta.ai/)                              | Llama 3  |    ✈️🆓    | 由 Meta 公司发布的，基于 Llama 3 模型，提供文生文和文生图功能 |
 | [知乎直答](https://zhida.zhihu.com/)                         | 知海图   |    🆓     | 知乎直答是基于知海图大模型开发的产品                         |
-| [Grok](https://x.com/i/grok)                                 | Grok     |          | Grok 是基于 Grok-n 语言模型的产品，具有最先进的推理能力。有推特（X）推出 |
+| [Grok](https://x.com/i/grok)                                 | Grok     |          | Grok 是基于 Grok-n 语言模型的产品，具有最先进的推理能力。由推特（X）推出 |
 | [DeepSeek](https://www.deepseek.com/)                        | DeepSeek |    🆓     | 知名私募巨头幻方量化旗下的人工智能公司深度求索（DeepSeek）自主研发的大语言模型开发的智能助手 |
 
 # 多模型聊天对话应用
@@ -284,6 +281,7 @@
 | [Autopod](https://www.autopod.fm/)                           |    ✈️💰    | AI 驱动的视频剪辑工具                                        |
 | [清影](https://chatglm.cn/video)                             |    🆓     | 智谱清言推出的文生视频，图像生成视频工具                     |
 | [可灵 AI](https://klingai.kuaishou.com/)                     |   🆓&💰    | 可灵 AI 是快手基于可灵大模型开发的视频生成 AI 工具           |
+| [通义万相](https://tongyi.aliyun.com/wanxiang/)              |    🆓     | 通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力 |
 
 ## 游戏
 
@@ -304,6 +302,7 @@
 |[Mindshow](https://mindshow.fun/#/home)|🆓&💰|用户输入提示，AI 生成 PPT|
 |[MotionGo](http://motion.yoo-ai.com/)|🆓&💰|用户输入提示，AI 生成 PPT|
 |[博思 AI PPT](https://pptgo.cn/)|🆓&💰|博思AIPPT，是新一代的在线AI生成PPT软件，提供多种快速制作PPT的方式，包括主题生成PPT、文本生成PPT、导入Word/PDF/TXT/Markdown文件生成PPT等，内置海量精美PPT模板，涵盖商务、教育、科技等不同风格，随心使用不重样，同时针对每个页面提供多种版式，一键自适应切换，完美适配各种办公场景|
+|[PPT.AI](https://ppt.ai/)|🆓&💰|在几分钟内创建专业的 PPT|
 
 ## Excel
 |产品名称|相关信息|备注|
@@ -468,9 +467,10 @@
 |[Huntsbot](https://www.huntsbot.com/topic/ai.html#)|🆓|聚合了大量 ChatGPT，OpenAI CLIP，OpenAI Codex，Stable Diffusion，DALL·E 2 和 GPT 等 AI 技术应用场景与产品案例|
 |[Chatgpt Server](https://xiaoxuan6.github.io/chatgpt-server/free-accounts.html)|✈️🆓🔓|该网站收集一些免费的 chatgpt 账号提供用户使用，但是并不稳定|
 |[虚拟小镇](https://reverie.herokuapp.com/arXiv_Demo/)|✈️🆓|由 AI 驱动的虚拟小镇，上面生活了 25 个智能体<br>📃[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442v1)|
-|[MORE RIZZ AI](https://more-rizzai.com/)|🆓|在现代社交中，每句话都可能影响约会对象的心态和行为，同时也关系到他们对我们的好感与信任。因此，我们推出了“More Rizz AI”，一款专为约会高手设计的AI工具。希望它能帮助您更好地与约会对象沟通，营造美好的约会体验|
+|[留白记事](https://more-rizzai.com/)|🆓|一个能在微信对话框里同时召唤3个大模型的应用（目前改装了9款大模型）。内置了搜索、创建蓝牙、读取待办、画图等一系列工具供大模型调用；在APP内，本地优先、支持离线使用，并且改装全平台，让用户随时随地均可记录|
 |[策引](https://www.myinvestpilot.com/pricing)|💰|基于 ChatGPT 的投资助手|
 |[News mini malist](https://www.newsminimalist.com/)|🆓|使用 AI 对新闻进行排名聚合|
+|[JoinMC智能客服](https://panda.joinmc.cn/)|💰|JoinMC（Join Marketing Copilot）智能客服，专为跨境营销定制打造，采用1+2+4+10的模式，即1个大语言模型、2大核心逻辑、4种对接渠道、10大优质功能|
 
 # 教程
 
