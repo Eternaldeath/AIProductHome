@@ -41,9 +41,9 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- 通义万相：通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力
-- PPT.AI：在几分钟内创建专业的 PPT
-- 留白记事：一个能在微信对话框里同时召唤3个大模型的应用（目前改装了9款大模型）。内置了搜索、创建蓝牙、读取待办、画图等一系列工具供大模型调用；在APP内，本地优先、支持离线使用，并且改装全平台，让用户随时随地均可记录
+- GamingAgent：此 repo 的目标是提供一种简单的解决方案，用于部署在 PC 和笔记本电脑上运行的计算机使用代理 (CUA)。作为 LMGames 的一部分，我们目前的重点是构建本地游戏代理
+- Manus：Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成
+- GAIA benchmark：由Meta、Hugging Face和AutoGPT等机构于2023年联合推出的一个权威基准测试系统，旨在评估通用AI助手在解决现实世界问题中的综合能力
 ```
 
 # 交流群
@@ -198,6 +198,7 @@
 | [Character.ai](https://beta.character.ai/)                |   ✈️🆓&💰   | 基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话 |
 | [Realchar.ai](https://realchar.ai/)                       |    🆓🔓    | 一款端到端开源人工智能伴侣，其中的特色功能是可以获取实时的背景信息 |
 | [Minimaxi](https://minimaxi.com/)                         |          | MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用 |
+| [Manus](https://manus.im/)                                |    🆓     | Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成 |
 
 # 代码辅助
 
@@ -424,6 +425,8 @@
 | [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) | 🆓        | Hugging Face旗下的基准测试平台                               |
 | [LiveBench](https://livebench.ai/#/)                         | 🆓        | 针对 LLMs 的基准测试集                                       |
 | [Chatbot Arena](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard) | 🆓        |                                                              |
+| [GamingAgent](https://github.com/lmgame-org/GamingAgent)     | 🆓🔓       | 此 repo 的目标是提供一种简单的解决方案，用于部署在 PC 和笔记本电脑上运行的计算机使用代理 (CUA)。作为 LMGames 的一部分，我们目前的重点是构建本地游戏代理 |
+| [GAIA benchmark](https://huggingface.co/gaia-benchmark)      | 🆓        | 由 Meta、Hugging Face 和 AutoGPT 等机构于 2023 年联合推出的一个权威基准测试系统，旨在评估通用 **AI 助手**在解决现实世界问题中的综合能力 |
 
 
 
