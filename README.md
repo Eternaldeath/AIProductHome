@@ -208,11 +208,12 @@
 |[Codeium](https://codeium.com/)|✈️🆓&💰📥|一款开源的 AI 编程助手插件，用于替代 Github Copilot|
 |[Tabby](https://tabbyml.github.io/tabby/)|✈️🆓🔓|一款开源的 AI 编程助手，用于替代 Github Copilot|
 |[Codium ai](https://www.codium.ai/)|💰|一款面向测试使用的人工智能插件，基于 TestGpt，chatGpt|
-|[Cursor](https://www.cursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
+|[](https://www.cCursorursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
 |[1024Code](https://1024code.com/)|🧪🆓|带有 AI 辅助的在线 IDE|
 |[Codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
 |[Durable](https://durable.co/)|✈️🆓|一款人工智能网站构建器|
 |[V0.dev](https://v0.dev/)|✈️🆓|一款用来进行设计和编程的 AI 辅助工具|
+|[Fynix](https://www.fynix.ai/)| 🆓 | 基于AI的编码助手，提供实时建议和自动化代码审查，帮助您编写更智能、更快速、更清洁的代码。
 |[Phind](https://www.phind.com/search?home=true)|✈️🆓|由 AI 驱动的免费编程辅助助手，提供 Phind 模型和有限次数的 GPT4 模型支持|
 |[Devin](https://www.cognition-labs.com/introducing-devin)|🧪✈️🆓|由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域|
 |[Lepton AI](https://www.lepton.ai/)|🆓&💰|帮助开发人员和企业快速部署 AI 产品的平台|
