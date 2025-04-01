@@ -462,6 +462,7 @@
 |[91wink](https://www.91wink.com/)|🆓|一个 AI 工具导航网站|
 |[AI 导航](https://ai.dreamthere.cn/)|🆓|一个 AI 工具导航网站|
 |[ToolAI](https://toolai.io/zh/)|🆓|一个 AI 工具导航网站|
+|[Vibe Coding Directory](https://vibecodingcase.com/)|🆓|一个 Vibe coding 工具导航网站|
 |[AIbase](https://top.aibase.com/)|🆓|一个 AI 工具导航网站，网站精美|
 |[AI 研究所](https://www.aiyjs.com/)|🆓|一个提供 AI 资讯，AI 工具等内容的聚合网站|
 |[Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)|🆓|一个动态更新的 LLM 模型排行榜|
