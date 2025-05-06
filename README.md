@@ -41,9 +41,8 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- GamingAgent：此 repo 的目标是提供一种简单的解决方案，用于部署在 PC 和笔记本电脑上运行的计算机使用代理 (CUA)。作为 LMGames 的一部分，我们目前的重点是构建本地游戏代理
-- Manus：Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成
-- GAIA benchmark：由Meta、Hugging Face和AutoGPT等机构于2023年联合推出的一个权威基准测试系统，旨在评估通用AI助手在解决现实世界问题中的综合能力
+- ACI.DEV：ACI.dev 是一款用于 AI 智能体工具使用的开源基础架构层。它能为智能体提供意图感知型访问权限（intent-aware access），并且可访问的工具数量超过 600，并具备多租户身份验证、精细权限和动态工具发现等功能
+- Notebooklm：基于 Gemini 2.0 打造的一款出色的工具，支持 50 种语言生成播客
 ```
 
 # 交流群
@@ -182,6 +181,12 @@
 | [Flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box) | APP      |   ✈️🆓&💰   | 基于 ChatGPT API 和 Flutter 开发的 ChatGPT 聊天客户端，支持全平台 |
 | [OpenAgents](https://github.com/xlang-ai/OpenAgents)         | 插件     |    🆓🔓    | 来自香港大学、XLang实验室、Sea AI实验室和Salesforce的研究者联合打造了一款用于真实世界生产力工具的开源智能体框架 |
 | [NextChat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | 跨平台   |   🆓&💰    | 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型 |
+
+# MCP
+
+| 产品名称 | 相关信息 | 备注                                                         |
+| -------- | :------: | ------------------------------------------------------------ |
+| ACI.DEV  |    🆓     | ACI.dev 是一款用于 AI 智能体工具使用的开源基础架构层。它能为智能体提供意图感知型访问权限（intent-aware access），并且可访问的工具数量超过 600，并具备多租户身份验证、精细权限和动态工具发现等功能 |
 
 # AI 助手
 
@@ -403,6 +408,7 @@
 ## 语音&音乐
 |产品名称|相关信息&emsp;|备注|
 |-|:-:|-|
+|[Notebooklm](https://notebooklm.google/?location=unsupported)|🆓|基于 Gemini 2.0 打造的一款出色的工具，支持 50 种语言生成播客|
 |[murf](https://murf.ai/)|🆓🔓||
 |[resemble ai](https://www.resemble.ai/)|💰||
 |[adobe podcast](https://podcast.adobe.com/)|🧪🆓|语音增强功能使录音听起来就像是在专业录音室中录制的一样|
