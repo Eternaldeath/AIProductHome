@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2025-03-09
+2025-06-21
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,8 +41,11 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- ACI.DEV：ACI.dev 是一款用于 AI 智能体工具使用的开源基础架构层。它能为智能体提供意图感知型访问权限（intent-aware access），并且可访问的工具数量超过 600，并具备多租户身份验证、精细权限和动态工具发现等功能
-- Notebooklm：基于 Gemini 2.0 打造的一款出色的工具，支持 50 种语言生成播客
+- wechat-bot：结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等.
+- prompt 越狱手册
+- NovelBox：NovelBox 是一款专为小说创作者设计的桌面应用程序，集成了多种AI模型（OpenAI、Anthropic、Google Gemini、DeepSeek），帮助作家更高效地进行创作。应用提供了直观的章节管理、大纲编辑、AI辅助续写等功能，让您的创作过程更加流畅和高效
+- PandaWiki：一款 AI 大模型驱动的开源知识库搭建系统
+- AI Image BG：利用AI技术增强照片、生成精美艺术作品并专业移除背景
 ```
 
 # 交流群
@@ -166,6 +169,7 @@
 |[Chathub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md)|模型聚合|✈️🆓&💰📥|一款支持 ChatGPT，Bing 等多个聊天模型的谷歌，Edge 插件|
 |[Freedom gpt](https://freedomgpt.com/)|模型聚合|✈️🆓&💰|提供无审查的各种模型应用|
 |[Yeschat](https://www.yeschat.ai)|模型聚合|🆓&💰|通过一站式访问高级AI：GPT-4o、DALL·E 3 以及200,000+ GPT，将您的效率提升10倍|
+|[wechat-bot](https://github.com/wangrongding/wechat-bot)|模型聚合|🆓🔓|结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等|
 # 行业大模型
 
 | 产品名称                                            | 行业 | 相关信息 | 备注                                                         |
@@ -271,6 +275,7 @@
 |一非 AI 壁纸|🆓|-|利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
 |[Flux AI](https://fluximagegenerator.ai/)|💰|-|AI 图片生成工具|
 |[Raphael](https://raphael.app/)|🆓||完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制|
+|[AI Image BG](https://aiimagebg.com/zh)|💰||利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -370,6 +375,7 @@
 |[Elegantresume](https://www.elegantresume.pro/)|🆓|一款在线制作简历的网站，提供非常专业化的简历模板，且集成了 OpenAI|
 |Rytr|✈️🆓&💰|AI 驱动的写作工具|
 |[写畅猴](https://www.aimmc.cn/new/#/home)|🆓&💰|写畅猴由名校博士团队联合研发！国内首创生成低AI重复率的论文！|
+|[NovelBox](https://github.com/Rain-31/novelbox)|🆓🔓|NovelBox是一款专为小说创作者设计的桌面应用程序，集成了多种AI模型（OpenAI、Anthropic、Google Gemini、DeepSeek），帮助作家更高效地进行创作。应用提供了直观的章节管理、大纲编辑、AI辅助续写等功能，让您的创作过程更加流畅和高效【[@Rain-31](https://github.com/Rain-31) 分享】|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -442,6 +448,7 @@
 |-|:-:|-|
 |[promptperfect](https://promptperfect.jina.ai/)|✈️🆓|优化你的提示词|
 |[ShareGPT](https://sharegpt.com/)|✈️🆓📥|一键分享您最疯狂的 ChatGPT 对话|
+|[Prompt 越狱手册](https://github.com/Acmesec/PromptJailbreakManual?tab=readme-ov-file#Prompt%E8%B6%8A%E7%8B%B1%E6%89%8B%E5%86%8C)|🆓||
 # GPTs
 
 | 产品名称                                      | 相关信息 | 备注          |
@@ -480,6 +487,7 @@
 |[策引](https://www.myinvestpilot.com/pricing)|💰|基于 ChatGPT 的投资助手|
 |[News mini malist](https://www.newsminimalist.com/)|🆓|使用 AI 对新闻进行排名聚合|
 |[JoinMC智能客服](https://panda.joinmc.cn/)|💰|JoinMC（Join Marketing Copilot）智能客服，专为跨境营销定制打造，采用1+2+4+10的模式，即1个大语言模型、2大核心逻辑、4种对接渠道、10大优质功能|
+|[PandaWiki](https://github.com/chaitin/PandaWiki)|🆓|一款 AI 大模型驱动的开源知识库搭建系统【[@safe1ine](https://github.com/safe1ine) 分享】|
 
 # 教程
 
