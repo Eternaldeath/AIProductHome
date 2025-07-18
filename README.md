@@ -50,12 +50,13 @@
 
 # 赞助商
 
-<center>
+<div align="center">
 <a href = "https://www.compshare.cn/?ytag=GPU_YY-gh_aihome" ><img src="img/uccloud.png" style="width: 80%; height: auto"></a>
-</center>
-<center>
+</div>
+<div align="center">
 <a href=https://www.compshare.cn/?ytag=GPU_YY-gh_aihome>优云智算</a>：万卡 RTX40 系 GPU+ 海内外主流模型 API 服务，秒级响应，按量计费，新客免费用
-</center>
+</div>
+
 # 交流群
 
 添加微信，备注【AI 工具】，邀您入群
