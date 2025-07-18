@@ -48,6 +48,12 @@
 - AI Image BG：利用AI技术增强照片、生成精美艺术作品并专业移除背景
 ```
 
+# 赞助商
+
+[优云智算](https://www.compshare.cn/?ytag=GPU_YY-gh_aihome)：万卡RTX40系GPU+海内外主流模型API服务，秒级响应，按量计费，新客免费用
+
+<a href = "https://www.compshare.cn/?ytag=GPU_YY-gh_aihome" ><img src="img/uccloud.png"></a>
+
 # 交流群
 
 添加微信，备注【AI 工具】，邀您入群
