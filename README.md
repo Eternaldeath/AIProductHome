@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2025-06-21
+2025-08-24
 
 💡 AI Product Home
 - 在线网站：aiproducthome.top
@@ -41,11 +41,8 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- wechat-bot：结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等.
-- prompt 越狱手册
-- NovelBox：NovelBox 是一款专为小说创作者设计的桌面应用程序，集成了多种AI模型（OpenAI、Anthropic、Google Gemini、DeepSeek），帮助作家更高效地进行创作。应用提供了直观的章节管理、大纲编辑、AI辅助续写等功能，让您的创作过程更加流畅和高效
-- PandaWiki：一款 AI 大模型驱动的开源知识库搭建系统
-- AI Image BG：利用AI技术增强照片、生成精美艺术作品并专业移除背景
+- Imagen 4 模型是谷歌最新的"文生图"模型，可以在官网免费使用
+- Learning About 是谷歌研发的基于 ai 的学习平台，使用 ai 生成学习教程。例如输入想要学习 c++，则推荐 c++ 的学习路径
 ```
 
 # 赞助商
@@ -133,6 +130,7 @@
 | 知海图 AI                                                    |                           | 由知乎与面壁智能联合打造的大型语言模型                       |
 | [可灵大模型](https://kling.kuaishou.com/)                    |                           | 可灵大模型是快手开发的视频生成底层大模型                     |
 | [腾讯混元 AI](https://hunyuan.tencent.com/)                  |            🆓🔓             | 由腾讯公司全链路自研，在高质量内容创作、数理逻辑、 代码生成和多轮对话上性能表现卓越，处于业界领先水平。 混元API支持AI搜索联网插件，通过整合腾讯优质的内容生态 （如微信公众号、视频号等），提供强大的时新、深度内容 获取和AI问答能力 |
+| [Imagen 4 模型](https://aistudio.google.com/prompts/new_image) |            🆓✈️             | Imagen 4 模型是谷歌最新的"文生图"模型，可以在官网[免费使用](https://aistudio.google.com/prompts/new_image) |
 
 # 单模型聊天对话应用
 
@@ -181,9 +179,10 @@
 |[wechat-bot](https://github.com/wangrongding/wechat-bot)|模型聚合|🆓🔓|结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等|
 # 行业大模型
 
-| 产品名称                                            | 行业 | 相关信息 | 备注                                                         |
-| --------------------------------------------------- | ---- | :------: | ------------------------------------------------------------ |
-| [CareGPT](https://github.com/WangRongsheng/CareGPT) | 医疗 |    🆓🔓    | CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展 |
+| 产品名称                                                     | 行业 | 相关信息 | 备注                                                         |
+| ------------------------------------------------------------ | ---- | :------: | ------------------------------------------------------------ |
+| [CareGPT](https://github.com/WangRongsheng/CareGPT)          | 医疗 |    🆓🔓    | CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展 |
+| [Learning About](https://learning.google.com/experiments/learn-about?src=signup) | 教育 |    🆓     | Learning About 是谷歌研发的基于 ai 的学习平台，使用 ai 生成学习教程。例如输入想要学习 c++，则推荐 c++ 的学习路径 |
 
 # 模型开发框架
 
