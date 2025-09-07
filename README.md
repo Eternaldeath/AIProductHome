@@ -29,10 +29,9 @@
 3. 更新记录
 
 ```bash
-2025-08-24
+2025-09-07
 
 💡 AI Product Home
-- 在线网站：aiproducthome.top
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
 - 国内仓库：https://gitcode.com/qq_34902437/AIProductHome/overview
 
@@ -41,8 +40,8 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- Imagen 4 模型是谷歌最新的"文生图"模型，可以在官网免费使用
-- Learning About 是谷歌研发的基于 ai 的学习平台，使用 ai 生成学习教程。例如输入想要学习 c++，则推荐 c++ 的学习路径
+- 清理部分失效 AI 工具和产品
+- landppt 是一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
 ```
 
 # 赞助商
@@ -51,8 +50,13 @@
 <a href = "https://www.compshare.cn/?ytag=GPU_YY-gh_aihome" ><img src="img/uccloud.png" style="width: 80%; height: auto"></a>
 </div>
 <div align="center">
-<a href=https://www.compshare.cn/?ytag=GPU_YY-gh_aihome>优云智算</a>：万卡 RTX40 系 GPU+ 海内外主流模型 API 服务，秒级响应，按量计费，新客免费用
+<a href=https://www.compshare.cn/?ytag=GPU_YY-gh_aihome>优云智算</a>：优刻得旗下的算力资源平台
+<p>🌎 专业的GPU算力租用服务平台，主要面向项目开发与科研场景提供计算资源支持<br>
+   🤖 万卡 RTX40 系 GPU+ 海内外主流模型 API 服务，秒级响应，按量计费，新客免费用<br>
+   新客免费白嫖
+</p> 
 </div>
+
 
 # 交流群
 
@@ -316,7 +320,7 @@
 |[Beautiful ai](https://www.beautiful.ai/)|💰|用户输入提示，AI 生成 PPT|
 |[Tome](https://beta.tome.app/)|🆓&💰|用户输入提示，AI 生成 PPT|
 |[Chat ppt](https://chat-ppt.com/)|🧪🆓|用户输入提示，AI 生成 PPT|
-|[Gamma](https://gamma.app/)|✈️🆓|用户输入提示，AI 生成 PPT|
+|[landppt](https://landppt.pages.dev/)|🆓🔓|一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿|
 |[美图 AI PPT](https://design.meitu.com/ppt/)|🆓|用户输入提示，AI 生成 PPT|
 |[Mindshow](https://mindshow.fun/#/home)|🆓&💰|用户输入提示，AI 生成 PPT|
 |[MotionGo](http://motion.yoo-ai.com/)|🆓&💰|用户输入提示，AI 生成 PPT|
