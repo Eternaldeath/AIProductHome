@@ -96,4 +96,5 @@
 | [中国文化元宇宙AIGC发展研究报告](https://www.8btc.com/article/6822588) | 中国文化产业协会文化元宇宙专业委员会 | 2023 | 内附下载链接             |
 | [2024年中国AI大模型产业发展报告](http://download.people.com.cn/jiankang/nineteen17114578641.pdf) | 人民网财经研究院，至顶科技           | 2024 |                          |
 | [2024 年人工智能指数报告](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf) | 斯坦福大学 HAI 实验室，李飞飞        | 2024 |                          |
+| [Staying ahead in the age of AI（ai 时代保持领先 - 领导力指南）](https://cdn.openai.com/pdf/ae250928-4029-4f26-9e23-afac1fcee14c/staying-ahead-in-the-age-of-ai.pdf) | openai                               | 2025 |                          |
 

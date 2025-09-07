@@ -4,6 +4,7 @@
 
 | 名字                                                         | 描述                                                         | 来源              | 涉及工具                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------------------ |
+| [AI 入门课](https://mp.weixin.qq.com/s/rDsIlUtd02YrKILCPWOZEQ) | -                                                            | 机器之心          |                          |
 | [效果拉满，效率惊人❗用AI工具3分钟整理并制作出一本书的思维导图](https://www.bilibili.com/video/BV17h4y1A7Re/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) | 使用 AI 工具来制作思维导图                                   | B 站              | ChatGPT，Markdown，Xmind |
 | [不会还有人不会用AI做毕设吧？！](https://www.bilibili.com/video/BV1iM411D7SE/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) | 使用 AI 工具来制作毕业设计                                   | B 站              | ChatGPT，通义灵码        |
 | [24小时300%回报？5个ChatGPT搞钱成功案例鉴定汇总](https://www.bilibili.com/video/BV1pY4y197qQ/?spm_id_from=333.999.0.0&vd_source=fc31b4f33de669564b3e17f5585f1253) | 利用 ChatGPT 进行商业变现                                    | B 站              | ChatGPT                  |

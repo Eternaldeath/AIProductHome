@@ -41,7 +41,14 @@
 
 # AI Tool
 - 清理部分失效 AI 工具和产品
+- LongChat 是来自美团的 LongCat-Flash 系列的 LLM 模型
 - landppt 是一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
+
+# AI News
+- Staying ahead in the age of AI（ai 时代保持领先 - 领导力指南 - openai
+
+# AI Tutorial
+- AI 入门课
 ```
 
 # 赞助商
@@ -158,6 +165,7 @@
 | [知乎直答](https://zhida.zhihu.com/)                         | 知海图   |    🆓     | 知乎直答是基于知海图大模型开发的产品                         |
 | [Grok](https://x.com/i/grok)                                 | Grok     |          | Grok 是基于 Grok-n 语言模型的产品，具有最先进的推理能力。由推特（X）推出 |
 | [DeepSeek](https://www.deepseek.com/)                        | DeepSeek |    🆓     | 知名私募巨头幻方量化旗下的人工智能公司深度求索（DeepSeek）自主研发的大语言模型开发的智能助手 |
+| [LongChat](https://longcat.chat/t)                           | 美团     |    🆓     | 来自美团的 LongCat-Flash 系列的 LLM 模型                     |
 
 # 多模型聊天对话应用
 
