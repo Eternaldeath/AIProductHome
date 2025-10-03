@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2025-09-07
+2025-10-03
 
 💡 AI Product Home
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
@@ -40,20 +40,16 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- 清理部分失效 AI 工具和产品
-- LongChat 是来自美团的 LongCat-Flash 系列的 LLM 模型
-- landppt 是一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
+- Humanity's Last Exam：人类的最终考试 (HLE) 是一项面向人类知识前沿的多模态基准测试，旨在成为同类中覆盖广泛学科的终极封闭式学术基准。HLE 包含 2500 道题，涵盖数学、人文科学和自然科学等数十个学科。HLE 由全球学科专家开发，包含适合自动评分的选择题和简答题
+- Trae：字节跳动推出的 AI 原生集成开发环境（AI IDE）
+- CodeBuddy IDE：腾讯云自研的一款面向开发者的 AI 驱动集成开发环境（IDE）
 
 # AI News
-- Staying ahead in the age of AI（ai 时代保持领先 - 领导力指南 - openai
 
 # AI Tutorial
-- AI 入门课
 ```
 
-# 赞助商
-
-<div align="center">
+<div align="center" style="display: none;">
 <a href = "https://www.compshare.cn/?ytag=GPU_YY-gh_aihome" ><img src="img/uccloud.png" style="width: 80%; height: auto"></a>
 </div>
 <div align="center">
@@ -63,7 +59,6 @@
    新客免费白嫖
 </p> 
 </div>
-
 
 # 交流群
 
@@ -173,7 +168,6 @@
 
 |产品名称|基础模型|相关信息|备注|
 |-|-|:-:|-|
-|🔥🔥[免费ChatGPT中文版](https://chatgai.lovepor.cn/)|模型聚合|✈️🆓&💰|AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等|
 |[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)|ChatGPT&Claude|🧪✈️🆓|由著名的匿名搜索引擎 DuckDuckGo 提供的 AI 聊天对话工具，目前提供 GPT4 和 Claude3 等模型|
 |[Poe](https://poe.com/)|模型聚合|✈️🆓&💰|AI 产品聚合网站，包括 GPT4，chatgpt 等|
 |[Build Naidia](https://build.nvidia.com/explore/discover)|模型聚合|✈️🆓|英伟达提供的各种免费模型|
@@ -251,6 +245,15 @@
 |[豆包 MarsCode](https://www.marscode.cn/)|🆓|豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力|
 |[C 知道](https://so.csdn.net/chat?utm_source=vip_chatgpt_common_pc_toolbar&spm=1010.2135.3001.10025)|🆓|CSDN 旗下面向开发者的 AI 搜索引擎|
 |[CodeGPT](https://marketplace.visualstudio.com/items?itemName=CSDN.csdn-codegpt&spm=1018.2226.3001.9836&extra%5Butm_source%5D=vip_chatgpt_common_pc_toolbar&extra%5Butm_medium%5D=)|🆓📥|CSDN 旗下面向开发者的代码编写辅助插件|
+# AI IDE
+
+| 产品名称                               | 相关信息&emsp; | 备注                                                    |
+| -------------------------------------- | -------------- | ------------------------------------------------------- |
+| [Trae](https://www.trae.ai/)           | 🆓&💰            | 字节跳动推出的 AI 原生集成开发环境（AI IDE）            |
+| [CodeBuddy](https://www.codebuddy.ai/) | 🆓&💰            | 腾讯云自研的一款面向开发者的 AI 驱动集成开发环境（IDE） |
+
+
+
 # 模型开发
 
 | 产品名称                         | 相关信息&emsp; | 备注                           |
@@ -459,6 +462,7 @@
 | [Chatbot Arena](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard) | 🆓        |                                                              |
 | [GamingAgent](https://github.com/lmgame-org/GamingAgent)     | 🆓🔓       | 此 repo 的目标是提供一种简单的解决方案，用于部署在 PC 和笔记本电脑上运行的计算机使用代理 (CUA)。作为 LMGames 的一部分，我们目前的重点是构建本地游戏代理 |
 | [GAIA benchmark](https://huggingface.co/gaia-benchmark)      | 🆓        | 由 Meta、Hugging Face 和 AutoGPT 等机构于 2023 年联合推出的一个权威基准测试系统，旨在评估通用 **AI 助手**在解决现实世界问题中的综合能力 |
+| [Humanity's Last Exam](https://agi.safe.ai/)                 | 🆓        | 人类的最终考试 (HLE) 是一项面向人类知识前沿的多模态基准测试，旨在成为同类中覆盖广泛学科的终极封闭式学术基准。HLE 包含 2500 道题，涵盖数学、人文科学和自然科学等数十个学科。HLE 由全球学科专家开发，包含适合自动评分的选择题和简答题 |
 
 
 
