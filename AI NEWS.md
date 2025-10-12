@@ -97,4 +97,6 @@
 | [2024年中国AI大模型产业发展报告](http://download.people.com.cn/jiankang/nineteen17114578641.pdf) | 人民网财经研究院，至顶科技           | 2024 |                          |
 | [2024 年人工智能指数报告](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf) | 斯坦福大学 HAI 实验室，李飞飞        | 2024 |                          |
 | [Staying ahead in the age of AI（ai 时代保持领先 - 领导力指南）](https://cdn.openai.com/pdf/ae250928-4029-4f26-9e23-afac1fcee14c/staying-ahead-in-the-age-of-ai.pdf) | openai                               | 2025 |                          |
+| [智能世界 2035](https://www-file.huawei.com/admin/asset/v1/pro/view/39056d5bf2c5412f93d58026c146308c.pdf) | 华为                                 | 2025 |                          |
+| [全球数智化指数（GDII）2025](https://www-file.huawei.com/admin/asset/v1/pro/view/943ee786096346ad933928e526db3f31.pdf) | 华为                                 | 2025 |                          |
 

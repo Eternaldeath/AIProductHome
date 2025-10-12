@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2025-10-03
+2025-10-12
 
 💡 AI Product Home
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
@@ -40,11 +40,10 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- Humanity's Last Exam：人类的最终考试 (HLE) 是一项面向人类知识前沿的多模态基准测试，旨在成为同类中覆盖广泛学科的终极封闭式学术基准。HLE 包含 2500 道题，涵盖数学、人文科学和自然科学等数十个学科。HLE 由全球学科专家开发，包含适合自动评分的选择题和简答题
-- Trae：字节跳动推出的 AI 原生集成开发环境（AI IDE）
-- CodeBuddy IDE：腾讯云自研的一款面向开发者的 AI 驱动集成开发环境（IDE）
 
 # AI News
+- 智能世界 2035 by 华为
+- 全球数智化指数（GDII）2025 by 华为
 
 # AI Tutorial
 ```
