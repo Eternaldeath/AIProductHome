@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2025-10-12
+2025-12-21
 
 💡 AI Product Home
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
@@ -40,24 +40,12 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-
+- disco：谷歌构建的实验性的新型浏览器（需申请白名单）
 # AI News
-- 智能世界 2035 by 华为
-- 全球数智化指数（GDII）2025 by 华为
 
 # AI Tutorial
 ```
 
-<div align="center" style="display: none;">
-<a href = "https://www.compshare.cn/?ytag=GPU_YY-gh_aihome" ><img src="img/uccloud.png" style="width: 80%; height: auto"></a>
-</div>
-<div align="center">
-<a href=https://www.compshare.cn/?ytag=GPU_YY-gh_aihome>优云智算</a>：优刻得旗下的算力资源平台
-<p>🌎 专业的GPU算力租用服务平台，主要面向项目开发与科研场景提供计算资源支持<br>
-   🤖 万卡 RTX40 系 GPU+ 海内外主流模型 API 服务，秒级响应，按量计费，新客免费用<br>
-   新客免费白嫖
-</p> 
-</div>
 
 # 交流群
 
@@ -251,7 +239,13 @@
 | [Trae](https://www.trae.ai/)           | 🆓&💰            | 字节跳动推出的 AI 原生集成开发环境（AI IDE）            |
 | [CodeBuddy](https://www.codebuddy.ai/) | 🆓&💰            | 腾讯云自研的一款面向开发者的 AI 驱动集成开发环境（IDE） |
 
+# AI 浏览器
 
+disco：谷歌构建的实验性的新型浏览器（需申请白名单）
+
+| 产品名称                           | 相关信息&emsp; | 备注                                         |
+| ---------------------------------- | -------------- | -------------------------------------------- |
+| [disco](https://labs.google/disco) | 🧪🆓             | 谷歌构建的实验性的新型浏览器（需申请白名单） |
 
 # 模型开发
 
