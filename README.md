@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2026-01-11
+2026-01-25
 
 💡 AI Product Home
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
@@ -40,7 +40,11 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- Nano Banana Pro：gemini 图像生成和编辑 ai
+- 百小应：百川智能发布的面向医疗领域的 AI 应用
+- Banana Pro：一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材
+- sara2.io：AI图像视频一站式生成平台，告别多工具切换
+- PostForgeHub：一款人工智能驱动的工具，可在几秒钟内将博客文章、视频或播客转换为 50 多个针对 Instagram、LinkedIn、Twitter 和 Facebook 等平台优化的社交媒体帖子
+- KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，覆盖售后客服、产品答疑、需求反馈、资料查询等智能社区场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标
 # AI News
 
 # AI Tutorial
@@ -96,34 +100,34 @@
 
 # 底层模型
 
-| 产品名称                                                     | 相关信息<img width=200 /> | 备注                                                         |
-| ------------------------------------------------------------ | :-----------------------: | ------------------------------------------------------------ |
-| [GPT](https://openai.com/blog/chatgpt)                       |                           | OpenAI 公司开发的自然语言处理模型，基于 Pre-trained Transformer 架构，可应用于生成文本，回答问题，对话交互等领域。ChatGPT 就是其中的一个具体应用 |
-| [文心一言](https://yiyan.baidu.com/welcome)                  |            🧪 🆓            | 百度大模型                                                   |
-| [通义千问](https://tongyi.aliyun.com/)                       |            🧪 🆓            | 阿里巴巴达摩院推出的 AI 大模型                               |
-| [HuggingChat](https://huggingface.co/chat/)                  |           ✈️🆓&🔓            | Hugging Face 推出的 ChatGPT 的开源替代品                     |
-| [Genie](https://gemini.google.com/app)                       |           🧪✈️🆓&💰           | 谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型        |
-| [huatuoGPT（华佗 GPT）](https://www.huatuogpt.cn/)           |            🧪🆓             | 香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) |
-| [火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform) |            🆓&💰            | 字节跳动开发的云原生机器学习平台                             |
-| [Claude](https://claude.ai/)                                 |           🧪✈️🆓&💰           | Anthropic 公司开发的 AI 聊天工具<br/>⚠️ Claude 目前仅限美国和英国使用 |
-| [ChatLaw](https://www.chatlaw.cloud/)                        |            🆓🔓             | 北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) |
-| [WormGPT](https://wormgpt.ai/)                               |            ✈️💰             | 一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品          |
-| [MiLM-6B](https://github.com/XiaoMi/MiLM-6B)                 |             🆓             | 一款小米开发的大规模预训练语言模型                           |
-| [豆包](https://www.doubao.com/chat/2694826498)               |            🧪🆓             | 一款字节跳动开发的聊天 AI                                    |
-| [百川智能](www.baichuan-ai.com)                              |             🆓             | 人工智能大模型                                               |
-| [百川智能金融大模型](https://platform.baichuan-ai.com/homePage) |             🆓             | 金融垂直领域大模型                                           |
-| [商量 SenseChat](https://chat.sensetime.com/)                |             🆓             | 人工智能大模型                                               |
-| [讯飞星火认知大模型](https://passport.xfyun.cn/)             |             🆓             | 人工智能大模型                                               |
-| [01 AI](https://www.01.ai/cn)                                |            🆓🔓             | 一款自研，开源的 AI 模型                                     |
-| [星辰语义大模型（TeleChat）](https://github.com/Tele-AI/Telechat) |            🆓🔓             | 由中电信人工智能科技有限公司研发训练的大语言模型，采用1.5万亿 Tokens中英文高质量语料进行训练 |
-| [Latte](https://maxin-cn.github.io/latte_project/)           |            🆓🔓             | 用于视频生成的 Latent Diffusion Transformer 模型             |
-| [LLM Pricing](https://llmpricecheck.com/)                    |             🆓             | 比较主流大语言模型（LLM） API 接口的使用价格                 |
-| OpenAgents                                                   |            🆓🔓📃            | 开源的智能体框架及工具，基于 LLMs                            |
-| [CogVideoX](https://github.com/THUDM/CogVideo)               |             📃             | 清华大学 KEG 实验室推出的，基于 CogVideo 的新一代视频生成模型 |
-| 知海图 AI                                                    |                           | 由知乎与面壁智能联合打造的大型语言模型                       |
-| [可灵大模型](https://kling.kuaishou.com/)                    |                           | 可灵大模型是快手开发的视频生成底层大模型                     |
-| [腾讯混元 AI](https://hunyuan.tencent.com/)                  |            🆓🔓             | 由腾讯公司全链路自研，在高质量内容创作、数理逻辑、 代码生成和多轮对话上性能表现卓越，处于业界领先水平。 混元API支持AI搜索联网插件，通过整合腾讯优质的内容生态 （如微信公众号、视频号等），提供强大的时新、深度内容 获取和AI问答能力 |
-| [Imagen 4 模型](https://aistudio.google.com/prompts/new_image) |            🆓✈️             | Imagen 4 模型是谷歌最新的"文生图"模型，可以在官网[免费使用](https://aistudio.google.com/prompts/new_image) |
+| 产品名称                                                     | 相关信息 | 备注                                                         |
+| ------------------------------------------------------------ | :------: | ------------------------------------------------------------ |
+| [GPT](https://openai.com/blog/chatgpt)                       |          | OpenAI 公司开发的自然语言处理模型，基于 Pre-trained Transformer 架构，可应用于生成文本，回答问题，对话交互等领域。ChatGPT 就是其中的一个具体应用 |
+| [文心一言](https://yiyan.baidu.com/welcome)                  |   🧪 🆓    | 百度大模型                                                   |
+| [通义千问](https://tongyi.aliyun.com/)                       |   🧪 🆓    | 阿里巴巴达摩院推出的 AI 大模型                               |
+| [HuggingChat](https://huggingface.co/chat/)                  |   ✈️🆓&🔓   | Hugging Face 推出的 ChatGPT 的开源替代品                     |
+| [Genie](https://gemini.google.com/app)                       |  🧪✈️🆓&💰   | 谷歌在其大语言模型上推出的聊天机器人，基于 PaLM 2模型        |
+| [huatuoGPT](https://www.huatuogpt.cn/)                       |    🧪🆓    | 香港中文大学（深圳）和深圳市大数据研究院所在的王本友教授团队训练并开源了一个新的医疗大模型 <br>🏭 [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) |
+| [火山引擎 - 机器学习平台](https://www.volcengine.com/product/ml-platform) |   🆓&💰    | 字节跳动开发的云原生机器学习平台                             |
+| [Claude](https://claude.ai/)                                 |  🧪✈️🆓&💰   | Anthropic 公司开发的 AI 聊天工具<br/>⚠️ Claude 目前仅限美国和英国使用 |
+| [ChatLaw](https://www.chatlaw.cloud/)                        |    🆓🔓    | 北大团队发布的中文法律大模型落地产品ChatLaw，为大众提供普惠法律服务<br/>🏭 [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) |
+| [WormGPT](https://wormgpt.ai/)                               |    ✈️💰    | 一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品          |
+| [MiLM-6B](https://github.com/XiaoMi/MiLM-6B)                 |    🆓     | 一款小米开发的大规模预训练语言模型                           |
+| [豆包](https://www.doubao.com/chat/2694826498)               |    🧪🆓    | 一款字节跳动开发的聊天 AI                                    |
+| [百川智能](www.baichuan-ai.com)                              |    🆓     | 人工智能大模型                                               |
+| [百川智能金融大模型](https://platform.baichuan-ai.com/homePage) |    🆓     | 金融垂直领域大模型                                           |
+| [商量 SenseChat](https://chat.sensetime.com/)                |    🆓     | 人工智能大模型                                               |
+| [讯飞星火认知大模型](https://passport.xfyun.cn/)             |    🆓     | 人工智能大模型                                               |
+| [01 AI](https://www.01.ai/cn)                                |    🆓🔓    | 一款自研，开源的 AI 模型                                     |
+| [星辰语义大模型（TeleChat）](https://github.com/Tele-AI/Telechat) |    🆓🔓    | 由中电信人工智能科技有限公司研发训练的大语言模型，采用1.5万亿 Tokens中英文高质量语料进行训练 |
+| [Latte](https://maxin-cn.github.io/latte_project/)           |    🆓🔓    | 用于视频生成的 Latent Diffusion Transformer 模型             |
+| [LLM Pricing](https://llmpricecheck.com/)                    |    🆓     | 比较主流大语言模型（LLM） API 接口的使用价格                 |
+| OpenAgents                                                   |   🆓🔓📃    | 开源的智能体框架及工具，基于 LLMs                            |
+| [CogVideoX](https://github.com/THUDM/CogVideo)               |    📃     | 清华大学 KEG 实验室推出的，基于 CogVideo 的新一代视频生成模型 |
+| 知海图 AI                                                    |          | 由知乎与面壁智能联合打造的大型语言模型                       |
+| [可灵大模型](https://kling.kuaishou.com/)                    |          | 可灵大模型是快手开发的视频生成底层大模型                     |
+| [腾讯混元 AI](https://hunyuan.tencent.com/)                  |    🆓🔓    | 由腾讯公司全链路自研，在高质量内容创作、数理逻辑、 代码生成和多轮对话上性能表现卓越，处于业界领先水平。 混元API支持AI搜索联网插件，通过整合腾讯优质的内容生态 （如微信公众号、视频号等），提供强大的时新、深度内容 获取和AI问答能力 |
+| [Imagen 4 模型](https://aistudio.google.com/prompts/new_image) |    🆓✈️    | Imagen 4 模型是谷歌最新的"文生图"模型，可以在官网[免费使用](https://aistudio.google.com/prompts/new_image) |
 
 # 单模型聊天对话应用
 
@@ -175,6 +179,7 @@
 | 产品名称                                                     | 行业 | 相关信息 | 备注                                                         |
 | ------------------------------------------------------------ | ---- | :------: | ------------------------------------------------------------ |
 | [CareGPT](https://github.com/WangRongsheng/CareGPT)          | 医疗 |    🆓🔓    | CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展 |
+| [百小应](https://ying.baichuan-ai.com/chat)                  | 医疗 |    🆓     | 百川智能发布的面向医疗领域的 AI 应用                         |
 | [Learning About](https://learning.google.com/experiments/learn-about?src=signup) | 教育 |    🆓     | Learning About 是谷歌研发的基于 ai 的学习平台，使用 ai 生成学习教程。例如输入想要学习 c++，则推荐 c++ 的学习路径 |
 
 # 模型开发框架
@@ -212,7 +217,7 @@
 
 # 代码辅助
 
-|产品名称|相关信息&emsp;|备注|
+|产品名称|相关信息|备注|
 |-|:-:|-|
 |[Copilot](https://github.com/features/copilot)|✈️🆓&💰|Github 提供的基于 Openai codex 的代码提示功能|
 |[Codeium](https://codeium.com/)|✈️🆓&💰📥|一款开源的 AI 编程助手插件，用于替代 Github Copilot|
@@ -234,22 +239,20 @@
 |[CodeGPT](https://marketplace.visualstudio.com/items?itemName=CSDN.csdn-codegpt&spm=1018.2226.3001.9836&extra%5Butm_source%5D=vip_chatgpt_common_pc_toolbar&extra%5Butm_medium%5D=)|🆓📥|CSDN 旗下面向开发者的代码编写辅助插件|
 # AI IDE
 
-| 产品名称                               | 相关信息&emsp; | 备注                                                    |
+| 产品名称                               | 相关信息| 备注                                                    |
 | -------------------------------------- | -------------- | ------------------------------------------------------- |
 | [Trae](https://www.trae.ai/)           | 🆓&💰            | 字节跳动推出的 AI 原生集成开发环境（AI IDE）            |
 | [CodeBuddy](https://www.codebuddy.ai/) | 🆓&💰            | 腾讯云自研的一款面向开发者的 AI 驱动集成开发环境（IDE） |
 
 # AI 浏览器
 
-disco：谷歌构建的实验性的新型浏览器（需申请白名单）
-
-| 产品名称                           | 相关信息&emsp; | 备注                                         |
+| 产品名称                           | 相关信息| 备注                                         |
 | ---------------------------------- | -------------- | -------------------------------------------- |
 | [disco](https://labs.google/disco) | 🧪🆓             | 谷歌构建的实验性的新型浏览器（需申请白名单） |
 
 # 模型开发
 
-| 产品名称                         | 相关信息&emsp; | 备注                           |
+| 产品名称                         | 相关信息| 备注                           |
 | -------------------------------- | :------------: | ------------------------------ |
 | [Bigmodel](https://bigmodel.cn/) |       💰        | 智谱清言大模型开放（开发）平台 |
 
@@ -286,13 +289,14 @@ disco：谷歌构建的实验性的新型浏览器（需申请白名单）
 |[Photoshot](https://photoshot.app/)|✈️🆓||AI 头像生成器|
 |[AI字体模型市场](https://www.ai.zitijia.com/list/1)|🆓&💰||由 AI 生成的字体样式|
 |[CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer)|✈️🆓📃||由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract)|
-|[AI Comic Factory](https://aicomicfactory.com/)|🆓&💰||利用 AI 生成漫画|
-|[Shortbread](https://shortbread.ai/)|🆓|-|利用 AI 生成漫画|
-|[Shap-E](https://github.com/openai/shap-e)|✈️🆓🔓📃||使用文本或 2D 图像生成 3D 图像<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
-|一非 AI 壁纸|🆓|-|利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
-|[Flux AI](https://fluximagegenerator.ai/)|💰|-|AI 图片生成工具|
-|[Raphael](https://raphael.app/)|🆓||完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制|
-|[AI Image BG](https://aiimagebg.com/zh)|💰||利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】|
+|[ai comic factory](https://aicomicfactory.com/)|🆓&💰||利用 AI 生成漫画|
+|[shortbread](https://shortbread.ai/)|🆓|-|利用 AI 生成漫画|
+|[shap-e](https://github.com/openai/shap-e)|✈️🆓🔓📃||使用文本或 2D 图像生成 3D 图像<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
+|一非 ai 壁纸|🆓|-|利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
+|[flux ai](https://fluximagegenerator.ai/)|💰|-|AI 图片生成工具|
+|[aphael](https://raphael.app/)|🆓|-|完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制|
+|[ai image bg](https://aiimagebg.com/zh)|💰|-|利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】|
+|[banana pro](https://www.banana-pro.com/)|💰|-|一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -310,6 +314,7 @@ disco：谷歌构建的实验性的新型浏览器（需申请白名单）
 | [清影](https://chatglm.cn/video)                             |    🆓     | 智谱清言推出的文生视频，图像生成视频工具                     |
 | [可灵 AI](https://klingai.kuaishou.com/)                     |   🆓&💰    | 可灵 AI 是快手基于可灵大模型开发的视频生成 AI 工具           |
 | [通义万相](https://tongyi.aliyun.com/wanxiang/)              |    🆓     | 通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力 |
+| [sara2.io](https://www.sara2.io/)                            |    💰     | 一个AI 图像和视频一站式生成平台，内置了目前最强大的图片、视频生成AI模型，如Nano Banana、sora2等。 使用无需 Sora2 邀请码，生成视频无水印 |
 
 ## 游戏
 
@@ -393,6 +398,7 @@ disco：谷歌构建的实验性的新型浏览器（需申请白名单）
 |Rytr|✈️🆓&💰|AI 驱动的写作工具|
 |[写畅猴](https://www.aimmc.cn/new/#/home)|🆓&💰|写畅猴由名校博士团队联合研发！国内首创生成低AI重复率的论文！|
 |[NovelBox](https://github.com/Rain-31/novelbox)|🆓🔓|NovelBox是一款专为小说创作者设计的桌面应用程序，集成了多种AI模型（OpenAI、Anthropic、Google Gemini、DeepSeek），帮助作家更高效地进行创作。应用提供了直观的章节管理、大纲编辑、AI辅助续写等功能，让您的创作过程更加流畅和高效【[@Rain-31](https://github.com/Rain-31) 分享】|
+|[PostForgeHub](https://postforgehub.com/)|🆓&💰|一款人工智能驱动的工具，可在几秒钟内将博客文章、视频或播客转换为 50 多个针对 Instagram、LinkedIn、Twitter 和 Facebook 等平台优化的社交媒体帖子【[@PostForgeHub](https://postforgehub.com/) 分享】|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -506,6 +512,7 @@ disco：谷歌构建的实验性的新型浏览器（需申请白名单）
 |[News mini malist](https://www.newsminimalist.com/)|🆓|使用 AI 对新闻进行排名聚合|
 |[JoinMC智能客服](https://panda.joinmc.cn/)|💰|JoinMC（Join Marketing Copilot）智能客服，专为跨境营销定制打造，采用1+2+4+10的模式，即1个大语言模型、2大核心逻辑、4种对接渠道、10大优质功能|
 |[PandaWiki](https://github.com/chaitin/PandaWiki)|🆓|一款 AI 大模型驱动的开源知识库搭建系统【[@safe1ine](https://github.com/safe1ine) 分享】|
+|[KoalaQA](https://baizhi.cloud/landing/koaloa)|💰|一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，覆盖售后客服、产品答疑、需求反馈、资料查询等智能社区场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标【@[Trc0g](https://github.com/Trc0g) 分享】|
 
 # 教程
 
