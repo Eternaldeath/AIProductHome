@@ -267,6 +267,7 @@
 |[无界 AI](https://www.wujieai.com/)|🆓&💰||一款在线 AI 绘画工具|
 |[AI 画室](https://www.aihuazuo.com/?stzhcdq20230620-587769810)|🆓&💰||一款在线 AI 绘画工具|
 |[Draft](https://draft.art/home)|🆓||一款在线 AI 绘画工具|
+|[AI Image Lab](https://aiimagelab.art/)|✈️🆓||免费AI图片生成器，提供8大分类提示词库，支持4K高质量输出|
 |[6 open](https://6pen.art/)|🆓||一款在线 AI 绘画工具|
 |[文心一格](https://yige.baidu.com/)|🆓&💰||一款百度推出的在线 AI 绘画工具|
 |[稿定 AI](https://www.gaoding.com/ai)|🆓&💰||稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果|
