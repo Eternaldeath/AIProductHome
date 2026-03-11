@@ -405,6 +405,7 @@
 |[experte](https://www.experte.com/background-remover)|🆓||
 |[boolv](https://toolkit.boolv.tech/background-remover)|🆓||
 |[booltool](https://booltool.boolv.tech/home)|🆓&💰|由 OpenAI 支持|
+|[Pilio 去水印](https://pilio.ai/zh/remove-watermark)|🆓&💰|支持 AI 图片去水印、PDF 去水印与 Gemini 水印去除；图片专页：https://pilio.ai/zh/image-watermark-remover ，Gemini 专页：https://pilio.ai/zh/gemini-watermark-remover ，开源仓库：https://github.com/GargantuaX/gemini-watermark-remover|
 ## 原型设计
 
 | 产品名称                                 | 相关信息 | 备注                                                         |
