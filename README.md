@@ -40,8 +40,9 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- Chatgpt Prism：openai 原生支持 LaTeX 的免费工作空间，将 GPT‑5.2 无缝融入你的科研写作与协作流程
-- boardmix 博思白板：一个基于无限画布的多模态AI创作空间，集思维表达，灵感梳理，流程整理，任务管理，素材收集，笔记文档多种创意表达能力于一体。白板独特的AI优势，更可视化地驱动用户进行多模态的Prompt输入，包括文本、图像、网页、音频、视频、代码块等。结合预定义的丰富模板和大模型能力，极大提升团队工作及协作效率
+- 清理部分失效产品，劣质产品
+- GPT Images 2.0：OpenAI 推出的最新图像模型，可在 ChatGPT 中使用
+- AutoFigure：AutoFigure 是一个开源的智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表
 # AI News
 # AI Tutorial
 ```
@@ -260,15 +261,6 @@
 |-|:-:|-|-|
 |[Nano Banana Pro](https://gemini.google/overview/image-generation/)|✈️🆓&💰|gemini|gemini 图像生成和图片编辑 ai 模型|
 |[Midjourney](https://www.midjourney.com)|✈️🆓&💰||Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
-|[Chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓||基于 Midjourney API 的产品，无需注册 discord|
-|[必应图像创建器](https://cn.bing.com/images/create)|🆓||微软必应推出的 AI 图像生成工具|
-|[Midjourney 中文版](https://www.huashou.club/)|💰||⚠️非 midjourney 官方中文版|
-|[意间 AI](http://yjai.ai-galaxy.com/)|🆓||一款在线 AI 绘画工具|
-|[无界 AI](https://www.wujieai.com/)|🆓&💰||一款在线 AI 绘画工具|
-|[AI 画室](https://www.aihuazuo.com/?stzhcdq20230620-587769810)|🆓&💰||一款在线 AI 绘画工具|
-|[Draft](https://draft.art/home)|🆓||一款在线 AI 绘画工具|
-|[6 open](https://6pen.art/)|🆓||一款在线 AI 绘画工具|
-|[文心一格](https://yige.baidu.com/)|🆓&💰||一款百度推出的在线 AI 绘画工具|
 |[稿定 AI](https://www.gaoding.com/ai)|🆓&💰||稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果|
 |[迅捷办公 - 一键 AI 绘画](https://www.xunjiepdf.com/aihuihuapc?stzhcjx230721-589056030)|🆓||一款本地 AI 绘画工具|
 |[Stable diffusion](https://stablediffusionweb.com/)|✈️🆓||Stable Diffusion 是一个文本到图像的潜在扩散模型|
@@ -276,8 +268,6 @@
 |[Dell.E2](https://openai.com/product/dall-e-2)|✈️💰||DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型|
 |[Viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓||利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓||图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
-|[艺码](https://yima.me/)|🆓||一款利用 AI 生成艺术二维码的工具|
-|[Hysli.io AI](https://hysli.io/#/app)|🆓&💰||一款利用 AI 生成艺术二维码的工具|
 |[Quick qr art](https://quickqr.art/)|✈️🆓&💰||一款利用 AI 生成艺术二维码的工具|
 |[One-2-3-45](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)|🧪✈️🆓||一款通过 2D 图片生成 3D 图片的模型，部署在 huggingface 上|
 |[ChatAvatar](https://hyperhuman.deemos.com/)|🆓&💰||一款通过对话生成 3D 人像的产品|
@@ -286,14 +276,15 @@
 |[Photoshot](https://photoshot.app/)|✈️🆓||AI 头像生成器|
 |[AI字体模型市场](https://www.ai.zitijia.com/list/1)|🆓&💰||由 AI 生成的字体样式|
 |[CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer)|✈️🆓📃||由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract)|
-|[ai comic factory](https://aicomicfactory.com/)|🆓&💰||利用 AI 生成漫画|
-|[shortbread](https://shortbread.ai/)|🆓|-|利用 AI 生成漫画|
-|[shap-e](https://github.com/openai/shap-e)|✈️🆓🔓📃||使用文本或 2D 图像生成 3D 图像<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
+|[AI Comic Factory](https://aicomicfactory.com/)|🆓&💰||利用 AI 生成漫画|
+|[Shortbread](https://shortbread.ai/)|🆓|-|利用 AI 生成漫画|
+|[Shap-e](https://github.com/openai/shap-e)|✈️🆓🔓📃||一款开源的使用文本或 2D 图像生成 3D 图像工具<br/>[论文链接](https://arxiv.org/abs/2305.02463)|
 |一非 ai 壁纸|🆓|-|利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】|
-|[flux ai](https://fluximagegenerator.ai/)|💰|-|AI 图片生成工具|
-|[aphael](https://raphael.app/)|🆓|-|完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制|
-|[ai image bg](https://aiimagebg.com/zh)|💰|-|利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】|
-|[banana pro](https://www.banana-pro.com/)|💰|-|一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材|
+|[Flux ai](https://fluximagegenerator.ai/)|💰|-|AI 图片生成工具|
+|[Aphael](https://raphael.app/)|🆓|-|完全免费、无限的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。它允许您从文本描述创建高质量图像，而无需任何注册或使用限制|
+|[AI Image Bg](https://aiimagebg.com/zh)|💰|-|利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】|
+|[Banana Pro](https://www.banana-pro.com/)|💰|-|一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材|
+|[AutoFigure](https://github.com/ResearAI/AutoFigure)|🆓🔓||AutoFigure 是一个智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -312,6 +303,7 @@
 | [可灵 AI](https://klingai.kuaishou.com/)                     |   🆓&💰    | 可灵 AI 是快手基于可灵大模型开发的视频生成 AI 工具           |
 | [通义万相](https://tongyi.aliyun.com/wanxiang/)              |    🆓     | 通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力 |
 | [sara2.io](https://www.sara2.io/)                            |    💰     | 一个AI 图像和视频一站式生成平台，内置了目前最强大的图片、视频生成AI模型，如Nano Banana、sora2等。 使用无需 Sora2 邀请码，生成视频无水印 |
+| [ArcReel](https://github.com/ArcReel/ArcReel)                |    🆓🔓    | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 |
 
 ## 游戏
 
@@ -449,6 +441,12 @@
 |-|:-:|-|
 |[deepswap](https://www.deepswap.ai/)|💰||
 |[faceswap](https://faceswap.dev/)|🆓||
+# 金融理财
+
+| 产品名称                                                     | 相关信息 | 备注                              |
+| ------------------------------------------------------------ | :------: | --------------------------------- |
+| [TradingAgents](https://github.com/tauricresearch/tradingagents) |    🆓🔓    | 一款开源的多智能体LLM金融交易框架 |
+
 # AI 竞技场
 
 | 产品名称                                                     | 相关信息 | 备注                                                         |
