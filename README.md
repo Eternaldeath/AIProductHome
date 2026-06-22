@@ -29,7 +29,7 @@
 3. 更新记录
 
 ```bash
-2026-02-23
+2026-06-22
 💡 AI Product Home
 - 在线网站：https://eternaldeath.github.io/AIProductHome/
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
@@ -40,11 +40,15 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- 清理部分失效产品，劣质产品
-- GPT Images 2.0：OpenAI 推出的最新图像模型，可在 ChatGPT 中使用
-- AutoFigure：AutoFigure 是一个开源的智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表
-# AI News
-# AI Tutorial
+- Tabbit：一款美团研发的**永久免费的AI浏览器**，主打AI原生体验，内置大模型能力，能主动帮助用户理解网页、整理信息并完成操作，而非像传统浏览器那样被动展示内容
+- JadeAI：AI 驱动的智能简历生成器。拖拽编辑、实时 AI 优化、50 套专业模板、多格式导出，轻松打造高质量简历。【@LingyiChen-AI 分享】
+- Mira：Mira 是一个面向移动应用防护端的 Android/iOS 运行时防护分析工具，可集成到第三方待测 App 中，支持 AI 直接调用宿主 App 侧分析能力，进入第三方 App 权限范围内的真实运行时环境，分析业务运行中的风险环境与防护特征，检测环境风险并验证防护策略。【@vwww-droid 分享】
+- Suppr：一款面向研究生、研究人员、教师、行业分析师和学习者的 AI 研究工作流程产品。它支持自然语言文献检索、基于 OpenAlex 的跨学科文献发现、PDF/研究文档翻译、Zotero 插件和深度研究报告【@zjg678分享】
+- ZOOOP：一个AI原生的影视创作工作站与创作平台，集图像／视频／音频生成、配方模板、用于分镜的生成式无限画布、对口型于一体，并聚合多家主流AI 模型，覆盖从分镜到成片的创作流程【@dayinji分享】
+- CoderPlan：一款兼容 OpenAl 的 APl 中继服务，提供对 Claude、GPT-5.5、Gemini 3.1 Pro、DeepSeek V3+R1和 Grok 模型的统一访问。专为需要在国内直接访问全球 AI 模型而无需VPN的中国开发者而设计【@onepaperbox 分享】
+- Al Image Lab：免费AI图片生成器，提供8大分类提示词库，支持4K高质量输出【@Lautitia 分享】
+- Pilio：Al 模型搞定图片生成、视频创作和后期处理【@GargantuaX 分享】
+- 清理失效产品 / 工具
 ```
 
 
@@ -82,14 +86,18 @@
 |🔓|开源|
 |📥|插件|
 |📃|基于论文|
+# 中转站
+
+| 产品名称                           | 相关信息 | 备注                                                         |
+| ---------------------------------- | :------: | ------------------------------------------------------------ |
+| [CoderPlan](https://coderplan.ai/) |    💰     | 一款兼容 OpenAI 的 API 中继服务，提供对 Claude、GPT-5.5、Gemini 3.1 Pro、DeepSeek V3+R1 和 Grok 模型的统一访问。专为需要在国内直接访问全球 AI 模型而无需 VPN 的中国开发者而设计【@[onepaperbox](https://github.com/onepaperbox) 分享】 |
+
 # 搜索引擎
 
 | 产品名称                                         | 相关信息 | 备注                                                         |
 | ------------------------------------------------ | :------: | ------------------------------------------------------------ |
 | [new bing](https://www.bing.com/)                |   🧪✈️🆓    | 必应搜索中集成的 chat gpt4                                   |
 | [Perplexity AI](https://www.perplexity.ai/)      |   ✈️🆓&💰   | 提供类似 new bing 的 AI 检索功能，对检索结果提供数据来源标注 |
-| [360 智脑](https://ai.360.cn/)                   |    🧪🆓    | 360 智脑是一款基于人工智能技术的搜索引擎产品                 |
-| [纳米搜索](https://www.n.cn/)                    |    🆓     | 纳米搜索是360公司推出的一个多模态内容创作引擎                |
 | [consensus](https://consensus.app/search/)       |   ✈️🆓&💰   | 学术方向的 AI 搜索引擎，根据检索内容，提供相关的论文，并总结 |
 | [学术版GPT](https://academic.chatwithpaper.org/) |    🧪🆓    | 由 chatPaper 团队开发的学术版 GPT                            |
 | [Aminer](https://www.aminer.cn/)                 |    🆓     | AI 驱动的学术研究网站，例如，文献搜索，文献库形成，内置 chatPaper |
@@ -247,6 +255,7 @@
 | 产品名称                           | 相关信息| 备注                                         |
 | ---------------------------------- | -------------- | -------------------------------------------- |
 | [disco](https://labs.google/disco) | 🧪🆓             | 谷歌构建的实验性的新型浏览器（需申请白名单） |
+| [Tabbit](https://www.tabbit.com/?lang=zh) | 🆓 | 一款美团研发的**永久免费的AI浏览器**，主打AI原生体验，内置大模型能力，能主动帮助用户理解网页、整理信息并完成操作，而非像传统浏览器那样被动展示内容 |
 
 # 模型开发
 
@@ -269,7 +278,6 @@
 |[Viz-gpt](https://www.vizgpt.ai/)|✈️🆓🔓||利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验|
 |[DragGAN](https://github.com/XingangPan/DragGAN)|✈️🆓🔓||图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上|
 |[Quick qr art](https://quickqr.art/)|✈️🆓&💰||一款利用 AI 生成艺术二维码的工具|
-|[One-2-3-45](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)|🧪✈️🆓||一款通过 2D 图片生成 3D 图片的模型，部署在 huggingface 上|
 |[ChatAvatar](https://hyperhuman.deemos.com/)|🆓&💰||一款通过对话生成 3D 人像的产品|
 |[SDXL Turbo](https://sdxlturbo.ai/)|✈️🆓||输入提示词，快速生成对应的图画，**目前仅支持英文**|
 |[Craiyon](https://www.craiyon.com/)|✈️🆓&💰||AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级|
@@ -285,6 +293,7 @@
 |[AI Image Bg](https://aiimagebg.com/zh)|💰|-|利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】|
 |[Banana Pro](https://www.banana-pro.com/)|💰|-|一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材|
 |[AutoFigure](https://github.com/ResearAI/AutoFigure)|🆓🔓||AutoFigure 是一个智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表|
+|[AI Image Lab](https://aiimagelab.art/)|🆓&💰||免费AI图片生成器，提供8大分类提示词库，支持4K高质量输出【@[Lautitia](https://github.com/Lautitia) 分享】|
 ## 色彩搭配
 |产品名称|相关信息|备注|
 |-|:-:|-|
@@ -294,7 +303,6 @@
 
 | 产品名称                                                     | 相关信息 | 备注                                                         |
 | ------------------------------------------------------------ | :------: | ------------------------------------------------------------ |
-| [Sora](https://openai.com/sora)                              |    ✈️💰    | OpenAI 推出的文生视频 AI 产品，可以根据文本指令创建现实且富有想象力的场景 |
 | [EBsynth](https://ebsynth.com/)                              |    ✈️🆓    | 将原始视频通过 AI 转换风格                                   |
 | [Runway](https://runwayml.com/)                              |   ✈️🆓&💰   | 视频扩展视频，文本生成视频，图片生成视频                     |
 | [Atable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) |   ✈️🆓🔓    | 根据描述生成视频                                             |
@@ -302,8 +310,10 @@
 | [清影](https://chatglm.cn/video)                             |    🆓     | 智谱清言推出的文生视频，图像生成视频工具                     |
 | [可灵 AI](https://klingai.kuaishou.com/)                     |   🆓&💰    | 可灵 AI 是快手基于可灵大模型开发的视频生成 AI 工具           |
 | [通义万相](https://tongyi.aliyun.com/wanxiang/)              |    🆓     | 通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力 |
-| [sara2.io](https://www.sara2.io/)                            |    💰     | 一个AI 图像和视频一站式生成平台，内置了目前最强大的图片、视频生成AI模型，如Nano Banana、sora2等。 使用无需 Sora2 邀请码，生成视频无水印 |
+| [Sara2](https://www.sara2.io/)                               |    💰     | 一个AI 图像和视频一站式生成平台，内置了目前最强大的图片、视频生成AI模型，如Nano Banana、sora2等。 使用无需 Sora2 邀请码，生成视频无水印 |
 | [ArcReel](https://github.com/ArcReel/ArcReel)                |    🆓🔓    | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 |
+| [ZOOOP](https://zooop.ai/)                                   |    🆓     | 一个 AI 原生的影视创作工作站与创作平台，集图像 / 视频 / 音频生成、配方模板、用于分镜的生成式无限画布、对口型于一体，并聚合多家主流 AI 模型，覆盖从分镜到成片的创作流程【@[dayinji](https://github.com/dayinji) 分享】 |
+| [Pilio](https://pilio.ai/zh)                                 |   🆓&💰    | AI 模型搞定图片生成、视频创作和后期处理【@[GargantuaX](https://github.com/GargantuaX) 分享】 |
 
 ## 游戏
 
@@ -334,17 +344,16 @@
 ## 阅读辅助
 |产品名称|相关信息|备注|
 |:--|:-:|---|
-|[Scispace](https://typeset.io/)|🆓|论文阅读工具，提供了强大的功能，如论文总结，公式解析等|
-|[Chatdoc](https://chatdoc.com/)|✈️🆓|ChatDOC 是一个基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。此外它还支持 word 等格式|
+|[Scispace](https://typeset.io/)|🆓&💰|论文阅读工具，提供了强大的功能，如论文总结，公式解析等|
+|[Chatdoc](https://chatdoc.com/)|✈️🆓&💰|ChatDOC 是一个基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。此外它还支持 word 等格式|
 |[Chat PDF](https://www.chatpdf.com/)|✈️🆓&💰|基于 OpenAI 的 Chat API 开发的 PDF 识别文章内容的阅读助手|
-|[Chatpaper](https://chatpaper.org/)|🆓🔓|一款免费，开源的论文阅读 AI 辅助工具|
 |[Humata.ai](https://www.humata.ai/)|🆓&💰|AI 驱动的论文阅读工具|
-|[Myreader](https://www.myreader.io/)|✈️🆓&💰🔓|myGPTReader 是 Slack 上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自 YouTube 的视频。它可以通过语音与您交流|
 |[LightPDF](https://lightpdf.com/)|✈️💰|一款 AI 阅读辅助工具，类似 ChatDoc|
 |[小鲸鱼英文文献阅读](https://www.xljsci.com/)|🆓&💰|内置基于 AI 的文献全文翻译功能【@lixiaozhe.com 分享】|
 |[Consensus](https://consensus.app/search/)|✈️🆓&💰|一款基于 AI 驱动的学术工具，通过提问的方式，该工具可检索其数据库中的 2 亿文献，并给出汇总的答案以及文献来源|
 |[GPT_academic](https://github.com/binary-husky/gpt_academic)|🆓&💰|面向学术领域的 AI 工具，以多种大语言模型作为基础，提供论文润色，写作等丰富的功能。支持本地部署与网络订阅服务|
 |[PopAi](https://www.popai.pro/)|🆓&💰|AI 驱动的文献阅读工具。提供文献阅读，PPT 制作，AI 图片等功能|
+|[Suppr](https://suppr.wilddata.cn/)|🆓&💰|一款面向研究生、研究人员、教师、行业分析师和学习者的 AI 研究工作流程产品。它支持自然语言文献检索、基于 OpenAlex 的跨学科文献发现、PDF/研究文档翻译、Zotero 插件和深度研究报告【@[zjg678](https://github.com/zjg678) 分享】|
 
 ## 视频辅助
 
@@ -389,6 +398,7 @@
 |[写畅猴](https://www.aimmc.cn/new/#/home)|🆓&💰|写畅猴由名校博士团队联合研发！国内首创生成低AI重复率的论文！|
 |[NovelBox](https://github.com/Rain-31/novelbox)|🆓🔓|NovelBox是一款专为小说创作者设计的桌面应用程序，集成了多种AI模型（OpenAI、Anthropic、Google Gemini、DeepSeek），帮助作家更高效地进行创作。应用提供了直观的章节管理、大纲编辑、AI辅助续写等功能，让您的创作过程更加流畅和高效【[@Rain-31](https://github.com/Rain-31) 分享】|
 |[PostForgeHub](https://postforgehub.com/)|🆓&💰|一款人工智能驱动的工具，可在几秒钟内将博客文章、视频或播客转换为 50 多个针对 Instagram、LinkedIn、Twitter 和 Facebook 等平台优化的社交媒体帖子【[@PostForgeHub](https://postforgehub.com/) 分享】|
+|[JadeAI](https://jadeai.cturing.cn/en)|🆓|**AI 驱动的智能简历生成器**。拖拽编辑、实时 AI 优化、50 套专业模板、多格式导出，轻松打造高质量简历【@[LingyiChen-AI](https://github.com/LingyiChen-AI) 分享】|
 
 ## 智能抠图
 |产品名称|相关信息|备注|
@@ -509,6 +519,7 @@
 |[JoinMC智能客服](https://panda.joinmc.cn/)|💰|JoinMC（Join Marketing Copilot）智能客服，专为跨境营销定制打造，采用1+2+4+10的模式，即1个大语言模型、2大核心逻辑、4种对接渠道、10大优质功能|
 |[PandaWiki](https://github.com/chaitin/PandaWiki)|🆓|一款 AI 大模型驱动的开源知识库搭建系统【[@safe1ine](https://github.com/safe1ine) 分享】|
 |[KoalaQA](https://baizhi.cloud/landing/koaloa)|💰|一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，覆盖售后客服、产品答疑、需求反馈、资料查询等智能社区场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标【@[Trc0g](https://github.com/Trc0g) 分享】|
+|[Mira](https://github.com/vwww-droid/Mira)|🆓|一个面向移动应用防护端的 Android/ios 运行时防护分析工具，可集成到第三方待测 App 中，支持 AI 直接调用宿主 App侧分析能力，进入第三方 ApP 权限范围内的真实运行时环境，分析业务运行中的风险环境与防护特征，检测环境风险并验证防护策略。【@[vwww-droid](https://github.com/vwww-droid) 分享】|
 
 # 教程
 
