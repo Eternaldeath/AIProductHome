@@ -362,6 +362,7 @@
 | [Bibigpt](https://bibigpt.co/)           |   ✈️🆓&💰   | 1. 基于 ChatGPT 的总结视频内容的工具<br/>2. 支持平台：B 站，抖音，快手，小红书，Youtube |
 | [Glarity](https://glarity.app/zh-CN)     |   ✈️🆓📥    | 1. 基于 ChatGPT，OpenAI Key，Claude 和 GPT4的总结视频内容的插件<br/>2. 插件平台：Chrome，Edge，Safari，Firefox，Opera<br/>3. 支持平台：YouTube、Google、Twitter，B 站等 |
 | [Summarize](https://www.summarize.tech/) |    ✈️🆓    | 1. 基于 AI 的总结视频内容的工具<br/>2. 支持平台：YouTube     |
+| [Voqusa](https://www.voqusa.com/) | ✈️🆓&💰 | 1. AI 视频转文字/字幕工具，粘贴视频链接即可生成转录文本<br/>2. 支持平台：TikTok、YouTube、Instagram、Facebook、X、LinkedIn、Pinterest 等 7 个平台，14+ 语言<br/>3. 免费生成字幕，无需注册 |
 
 ## 思维导图
 
