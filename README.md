@@ -216,6 +216,7 @@
 | [豆包桌面版](https://www.doubao.com/download/desktop)     |    🆓     | 字节跳动推出的 AI 助手，全面赋能日常生活应用，包括 AI 翻译，AI 搜索，AI 伴读等 |
 | [RoleD](https://roled.lingj.net/login)                    |    🆓     | 一款基于 ChatGPT 的角色聊天工具                              |
 | [Character.ai](https://beta.character.ai/)                |   ✈️🆓&💰   | 基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话 |
+| [WSUP AI](https://wsupai.app/)                            |    🆓     | 浏览器内免费 AI 角色聊天，无需注册，仅限 SFW |
 | [Realchar.ai](https://realchar.ai/)                       |    🆓🔓    | 一款端到端开源人工智能伴侣，其中的特色功能是可以获取实时的背景信息 |
 | [Minimaxi](https://minimaxi.com/)                         |          | MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用 |
 | [Manus](https://manus.im/)                                |    🆓     | Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成 |
