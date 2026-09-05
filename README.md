@@ -389,6 +389,7 @@
 |[magickpen](https://magickpen.com/zh/)|✈️🆓&💰|基于 chatGPT 的智能写作助手|
 |[GPT Academic](https://github.com/binary-husky/gpt_academic)|✈️🆓🔓|提供论文润色等功能|
 |[Kickresume](https://www.kickresume.com/en/pricing/)|✈️🆓&💰|一款利用 AI 来生成简历的简历生成器|
+|[ResumeAI](https://withresumeai.com/)|🆓&💰|AI 简历构建 + 免费 ATS 检查；State of ATS 2026（738/704，Workday 37.9%）|
 |[Named by AI](https://www.namedbyai.com/)|✈️🆓|一款利用 AI 来生成英文名字的工具|
 |[SupaDoc.ai](https://supadoc.ai)|🆓&💰|基于用户描述，自动生成 Word 文档的工具，可根据少量描述，生成诸如产品需求文档、功能设计文档、市场推广方案、商业计划书、测试用例、深度问答分析等文件，使用 GPT4 模型结合思维链，生成文档质量非常高【[@xqliu](https://github.com/xqliu) 分享】|
 |[AI简历-求职帮手](https://ai-tools.cn/resume)|🆓&💰|新一代在线AI简历工具，制作高质量简历【 [@itLeeyw](https://github.com/itLeeyw) 分享】|
