@@ -57,9 +57,9 @@
 # Star History
 
 <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Eternaldeath/AIProductHometype=Datetheme=dark" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Eternaldeath/AIProductHometype=Date" />
-     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Eternaldeath/AIProductHometype=Date" />
+     <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Eternaldeath/AIProductHome&type=Date&theme=dark" />
+     <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Eternaldeath/AIProductHome&type=Date" />
+     <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Eternaldeath/AIProductHome&type=Date" />
 </picture>
 
 # 其他资源
