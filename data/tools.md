@@ -169,31 +169,31 @@
 | 产品名称 | 相关信息 | 底层模型 | 备注 |
 | - | :-: | - | - |
 | [Nano Banana Pro](https://gemini.google/overview/image-generation/) | ✈️🆓💰 | gemini | gemini 图像生成和图片编辑 ai 模型 |
-| [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | | Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作 |
-| [稿定 AI](https://www.gaoding.com/ai) | 🆓💰 | | 稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果 |
-| [迅捷办公 - 一键 AI 绘画](https://www.xunjiepdf.com/aihuihuapc?stzhcjx230721-589056030) | 🆓 | | 一款本地 AI 绘画工具 |
-| [Stable diffusion](https://stablediffusionweb.com/) | ✈️🆓 | | Stable Diffusion 是一个文本到图像的潜在扩散模型 |
-| [Dell.E2](https://openai.com/product/dall-e-2) | ✈️💰 | | DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型 |
-| [Viz-gpt](https://www.vizgpt.ai/) | ✈️🆓🔓 | | 利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验 |
-| [DragGAN](https://github.com/XingangPan/DragGAN) | ✈️🆓🔓 | | 图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上 |
-| [Quick qr art](https://quickqr.art/) | ✈️🆓💰 | | 一款利用 AI 生成艺术二维码的工具 |
-| [ChatAvatar](https://hyperhuman.deemos.com/) | 🆓💰 | | 一款通过对话生成 3D 人像的产品 |
-| [SDXL Turbo](https://sdxlturbo.ai/) | ✈️🆓 | | 输入提示词，快速生成对应的图画，**目前仅支持英文** |
-| [Craiyon](https://www.craiyon.com/) | ✈️🆓💰 | | AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级 |
-| [Photoshot](https://photoshot.app/) | ✈️🆓 | | AI 头像生成器 |
-| [AI字体模型市场](https://www.ai.zitijia.com/list/1) | 🆓💰 | | 由 AI 生成的字体样式 |
-| [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) | ✈️🆓📃 | | 由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract) |
-| [AI Comic Factory](https://aicomicfactory.com/) | 🆓💰 | | 利用 AI 生成漫画 |
+| [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | - | Midjourney 是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作 |
+| [稿定 AI](https://www.gaoding.com/ai) | 🆓💰 | - | 稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果 |
+| [迅捷办公 - 一键 AI 绘画](https://www.xunjiepdf.com/aihuihuapc?stzhcjx230721-589056030) | 🆓 | - | 一款本地 AI 绘画工具 |
+| [Stable diffusion](https://stablediffusionweb.com/) | ✈️🆓 | - | Stable Diffusion 是一个文本到图像的潜在扩散模型 |
+| [Dell.E2](https://openai.com/product/dall-e-2) | ✈️💰 | DELL | DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型 |
+| [Viz-gpt](https://www.vizgpt.ai/) | ✈️🆓🔓 | GPT | 利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验 |
+| [DragGAN](https://github.com/XingangPan/DragGAN) | ✈️🆓🔓 | - | 图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上 |
+| [Quick qr art](https://quickqr.art/) | ✈️🆓💰 | - | 一款利用 AI 生成艺术二维码的工具 |
+| [ChatAvatar](https://hyperhuman.deemos.com/) | 🆓💰 | - | 一款通过对话生成 3D 人像的产品 |
+| [SDXL Turbo](https://sdxlturbo.ai/) | ✈️🆓 | - | 输入提示词，快速生成对应的图画，**目前仅支持英文** |
+| [Craiyon](https://www.craiyon.com/) | ✈️🆓💰 | - | AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级 |
+| [Photoshot](https://photoshot.app/) | ✈️🆓 | - | AI 头像生成器 |
+| [AI字体模型市场](https://www.ai.zitijia.com/list/1) | 🆓💰 | - | 由 AI 生成的字体样式 |
+| [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) | ✈️🆓📃 | - | 由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract) |
+| [AI Comic Factory](https://aicomicfactory.com/) | 🆓💰 | - | 利用 AI 生成漫画 |
 | [Shortbread](https://shortbread.ai/) | 🆓 | - | 利用 AI 生成漫画 |
-| [Shap-e](https://github.com/openai/shap-e) | ✈️🆓🔓📃 | | 一款开源的使用文本或 2D 图像生成 3D 图像工具<br/>[论文链接](https://arxiv.org/abs/2305.02463) |
+| [Shap-e](https://github.com/openai/shap-e) | ✈️🆓🔓📃 | - | 一款开源的使用文本或 2D 图像生成 3D 图像工具<br/>[论文链接](https://arxiv.org/abs/2305.02463) |
 | 一非 ai 壁纸 | 🆓 | - | 利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】 |
 | [AI Image Bg](https://aiimagebg.com/zh) | 💰 | - | 利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】 |
 | [Banana Pro](https://www.banana-pro.com/) | 💰 | - | 一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材 |
-| [AutoFigure](https://github.com/ResearAI/AutoFigure) | 🆓🔓 | | AutoFigure 是一个智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表 |
-| [AI Image Lab](https://aiimagelab.art/) | 🆓💰 | | 免费AI图片生成器，提供8大分类提示词库，支持4K高质量输出【@[Lautitia](https://github.com/Lautitia) 分享】 |
-| [Image Prompt Generator](https://github.com/Eternaldeath/AIProductHome/issues/38) | 🆓 | | 免费 AI 图像提示词生成器和提示词库【@[xianyu110](https://github.com/xianyu110) 分享】 |
-| [Gptimage2](https://gptimage2.asia/) | 🆓 | | AI 图像生成器、创意 AI、设计工具、营销【@[xianyu110](https://github.com/xianyu110) 分享】 |
-| [Vivify GPT Image 2.5](https://vivify.video/zh/models/gpt-image-2-5) | 💰 | | 在浏览器中使用 GPT Image 2.5 生成图片或按文字指令编辑参考图，适合制作产品图、海报与社交媒体素材 |
+| [AutoFigure](https://github.com/ResearAI/AutoFigure) | 🆓🔓 | - | AutoFigure 是一个智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表 |
+| [AI Image Lab](https://aiimagelab.art/) | 🆓💰 | - | 免费AI图片生成器，提供8大分类提示词库，支持4K高质量输出【@[Lautitia](https://github.com/Lautitia) 分享】 |
+| [Image Prompt Generator](https://github.com/Eternaldeath/AIProductHome/issues/38) | 🆓 | - | 免费 AI 图像提示词生成器和提示词库【@[xianyu110](https://github.com/xianyu110) 分享】 |
+| [Gptimage2](https://gptimage2.asia/) | 🆓 | - | AI 图像生成器、创意 AI、设计工具、营销【@[xianyu110](https://github.com/xianyu110) 分享】 |
+| [Vivify GPT Image 2.5](https://vivify.video/zh/models/gpt-image-2-5) | 💰 | GPT Image | 在浏览器中使用 GPT Image 2.5 生成图片或按文字指令编辑参考图，适合制作产品图、海报与社交媒体素材 |
 
 ## 色彩搭配
 
