@@ -90,6 +90,58 @@
         --badge-paper-fg: #075985;
       }
 
+      /* ===== 深色主题：独立页面，挂在 html[data-theme] 上 ===== */
+      html[data-theme="dark"] {
+        /* 中性表面 */
+        --bg-color: #0f172a; /* slate-900 */
+        --card-bg: #1e293b; /* slate-800 */
+        --surface-subtle: #1e293b;
+        --surface-hover: #334155; /* slate-700 */
+        --surface-active: #3730a3;
+        --border-color: #334155;
+        --disabled-bg: #475569;
+
+        /* 文字 */
+        --text-primary: #e2e8f0; /* slate-200 */
+        --text-secondary: #94a3b8; /* slate-400 */
+        --text-muted: #475569;
+
+        /* 主色提亮，保证深底对比度 */
+        --primary-color: #3b82f6;
+        --primary-hover: #60a5fa;
+        --primary-ring: rgba(59, 130, 246, 0.35);
+        --primary-tint: rgba(59, 130, 246, 0.12);
+
+        /* 阴影加深 */
+        --shadow:
+          0 4px 6px -1px rgba(0, 0, 0, 0.5), 0 2px 4px -1px rgba(0, 0, 0, 0.4);
+        --shadow-hover: 0 10px 20px rgba(0, 0, 0, 0.6);
+
+        /* 徽章：深底 + 亮字 */
+        --badge-free-bg: #064e3b;
+        --badge-free-fg: #6ee7b7;
+        --badge-paid-bg: #7f1d1d;
+        --badge-paid-fg: #fca5a5;
+        --badge-test-bg: #78350f;
+        --badge-test-fg: #fcd34d;
+        --badge-open-bg: #1e3a8a;
+        --badge-open-fg: #93c5fd;
+        --badge-plugin-bg: #4c1d95;
+        --badge-plugin-fg: #c4b5fd;
+        --badge-vpn-bg: #831843;
+        --badge-vpn-fg: #f9a8d4;
+        --badge-paper-bg: #0c4a6e;
+        --badge-paper-fg: #7dd3fc;
+
+        /* 原生控件 / 滚动条 / 焦点框自动适配深色 */
+        color-scheme: dark;
+      }
+
+      /* 浅色模式显式声明，避免浏览器「强制深色」干扰 */
+      :root {
+        color-scheme: light;
+      }
+
       body {
         background-color: var(--bg-color);
         color: var(--text-primary);
@@ -116,6 +168,7 @@
         text-align: center;
         border-radius: 0 0 var(--radius-xl) var(--radius-xl);
         box-shadow: var(--shadow);
+        position: relative;
       }
 
       .header h1 {
@@ -129,6 +182,40 @@
         opacity: 0.9;
         max-width: 800px;
         margin: 0 auto;
+      }
+
+      /* 主题切换按钮 */
+      .theme-toggle {
+        position: absolute;
+        top: 16px;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid rgba(255, 255, 255, 0.4);
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.15);
+        color: #fff;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: var(--transition);
+      }
+
+      .theme-toggle:hover {
+        background: rgba(255, 255, 255, 0.3);
+      }
+
+      /* 图标：默认显月亮，深色显太阳 */
+      .theme-toggle .icon-sun {
+        display: none;
+      }
+      html[data-theme="dark"] .theme-toggle .icon-moon {
+        display: none;
+      }
+      html[data-theme="dark"] .theme-toggle .icon-sun {
+        display: inline-block;
       }
 
       /* 分类导航 */
@@ -574,6 +661,22 @@
         }
       }
     </style>
+    <!-- 主题初始化：在渲染前设定，避免刷新白闪 -->
+    <script>
+      (function () {
+        var saved = null;
+        try {
+          saved = localStorage.getItem("theme");
+        } catch (e) {}
+        var prefersDark = window.matchMedia(
+          "(prefers-color-scheme: dark)",
+        ).matches;
+        document.documentElement.setAttribute(
+          "data-theme",
+          saved || (prefersDark ? "dark" : "light"),
+        );
+      })();
+    </script>
   </head>
   <body>
     <div class="header">
@@ -581,6 +684,16 @@
         <h1><i class="fas fa-robot"></i> AI Product Home</h1>
         <p>收集各种 AI 商业或开源产品，提供最新、最全的 AI 工具导航</p>
       </div>
+      <button
+        type="button"
+        class="theme-toggle"
+        id="themeToggle"
+        aria-label="切换深色模式"
+        title="切换深色模式"
+      >
+        <i class="fas fa-moon icon-moon" aria-hidden="true"></i>
+        <i class="fas fa-sun icon-sun" aria-hidden="true"></i>
+      </button>
     </div>
 
     <div class="container">
@@ -1156,8 +1269,37 @@
         }
       }
 
-      // 使用示例
       document.addEventListener("DOMContentLoaded", function () {
+        // ===== 主题切换 =====
+        function toggleTheme() {
+          const root = document.documentElement;
+          const next =
+            root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+          root.setAttribute("data-theme", next);
+          try {
+            localStorage.setItem("theme", next);
+          } catch (e) {}
+        }
+
+        const themeToggle = document.getElementById("themeToggle");
+        if (themeToggle) themeToggle.addEventListener("click", toggleTheme);
+
+        // 用户未手动设置时，跟随系统主题变化
+        window
+          .matchMedia("(prefers-color-scheme: dark)")
+          .addEventListener("change", (e) => {
+            let saved = null;
+            try {
+              saved = localStorage.getItem("theme");
+            } catch (err) {}
+            if (!saved) {
+              document.documentElement.setAttribute(
+                "data-theme",
+                e.matches ? "dark" : "light",
+              );
+            }
+          });
+
         // 回到顶部按钮
         const backToTop = document.querySelector(".back-to-top");
         if (backToTop) {
