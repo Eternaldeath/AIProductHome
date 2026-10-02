@@ -184,11 +184,18 @@
         margin: 0 auto;
       }
 
-      /* 主题切换按钮 */
-      .theme-toggle {
+      /* 头部右上角操作区（推荐产品 + 主题切换） */
+      .header-actions {
         position: absolute;
         top: 16px;
         right: 20px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      /* 主题切换按钮 */
+      .theme-toggle {
         width: 40px;
         height: 40px;
         display: flex;
@@ -216,6 +223,60 @@
       }
       html[data-theme="dark"] .theme-toggle .icon-sun {
         display: inline-block;
+      }
+
+      .recommend-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        height: 40px;
+        padding: 0 16px;
+        border: 1px solid rgba(255, 255, 255, 0.4);
+        border-radius: var(--radius-pill);
+        background: rgba(255, 255, 255, 0.15);
+        color: #fff;
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-decoration: none;
+        white-space: nowrap;
+        cursor: pointer;
+        transition: var(--transition);
+      }
+
+      .recommend-btn:hover {
+        background: rgba(255, 255, 255, 0.3);
+        color: #fff;
+      }
+
+      /* GitHub 仓库按钮（圆形图标钮，与主题切换同尺寸/外形） */
+      .github-btn {
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid rgba(255, 255, 255, 0.4);
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.15);
+        color: #fff;
+        font-size: 1.1rem;
+        text-decoration: none;
+        cursor: pointer;
+        transition: var(--transition);
+      }
+
+      .github-btn:hover {
+        background: rgba(255, 255, 255, 0.3);
+        color: #fff;
+      }
+
+      /* 键盘焦点可见（两个按钮统一） */
+      .theme-toggle:focus-visible,
+      .recommend-btn:focus-visible,
+      .github-btn:focus-visible {
+        outline: 3px solid rgba(255, 255, 255, 0.75);
+        outline-offset: 2px;
       }
 
       /* 分类导航 */
@@ -490,6 +551,17 @@
         .header {
           padding: 30px 0;
         }
+
+        /* 新增：小屏收起文字，只留图标，避免与标题重叠 */
+        .recommend-btn {
+          width: 40px;
+          padding: 0;
+          border-radius: 50%;
+        }
+
+        .recommend-btn .recommend-text {
+          display: none;
+        }
       }
 
       /* 搜索和过滤 */
@@ -684,16 +756,38 @@
         <h1><i class="fas fa-robot"></i> AI Product Home</h1>
         <p>收集各种 AI 商业或开源产品，提供最新、最全的 AI 工具导航</p>
       </div>
-      <button
-        type="button"
-        class="theme-toggle"
-        id="themeToggle"
-        aria-label="切换深色模式"
-        title="切换深色模式"
-      >
-        <i class="fas fa-moon icon-moon" aria-hidden="true"></i>
-        <i class="fas fa-sun icon-sun" aria-hidden="true"></i>
-      </button>
+      <div class="header-actions">
+        <a
+          class="recommend-btn"
+          href="https://github.com/Eternaldeath/AIProductHome/issues"
+          target="_blank"
+          rel="noopener"
+          title="推荐产品（前往 GitHub 提交 Issue）"
+        >
+          <i class="fas fa-lightbulb" aria-hidden="true"></i>
+          <span class="recommend-text">推荐产品</span>
+        </a>
+        <a
+          class="github-btn"
+          href="https://github.com/Eternaldeath/AIProductHome"
+          target="_blank"
+          rel="noopener"
+          aria-label="GitHub 仓库"
+          title="GitHub 仓库"
+        >
+          <i class="fab fa-github" aria-hidden="true"></i>
+        </a>
+        <button
+          type="button"
+          class="theme-toggle"
+          id="themeToggle"
+          aria-label="切换深色模式"
+          title="切换深色模式"
+        >
+          <i class="fas fa-moon icon-moon" aria-hidden="true"></i>
+          <i class="fas fa-sun icon-sun" aria-hidden="true"></i>
+        </button>
+      </div>
     </div>
 
     <div class="container">
