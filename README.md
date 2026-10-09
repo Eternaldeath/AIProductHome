@@ -1,50 +1,43 @@
 # AI Product Home
 
+> 🤖 发现优质 AI 产品的一站式索引 —— 收录 · 筛选 · 推荐
+
 <div align="center">
     <img src="./img/ai_robot.png" width="400" alt="一个可爱的机器人 a cute robot"/>
 </div>
 <p align="center">
-    </a>
     <img alt="flag" src="https://img.shields.io/badge/Hub-收集仓库-green?style=for-the-badge">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Eternaldeath/AIProductHome?color=Green&style=for-the-badge">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Eternaldeath/AIProductHome?color=green&style=for-the-badge">
     <a href="https://github.com/Eternaldeath/AIProductHome/commits.atom">
-    <img alt="RSS" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white">
+        <img alt="RSS" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white">
+    </a>
 </p>
 <p align="center">
     <a href="https://raw.githubusercontent.com/Eternaldeath/AIProductHome/master/img/wechat.jpg">
-    <img alt="WeChat" src="https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-%20Wechat-blue%3F?style=for-the-badge&logo=wechat&logoColor=white&labelColor=blue">
+        <img alt="WeChat" src="https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-%20Wechat-blue%3F?style=for-the-badge&logo=wechat&logoColor=white&labelColor=blue">
     </a>
 </p>
 
-1. **收集各种 AI 商业或开源产品**
-2. 提供帮助？👉 **[提交 ISSUE](https://github.com/Eternaldeath/AIProductHome/issues)** 👈️
-   1. 自我推荐
-   2. 资源失效
-   3. 提供资源
-   4. 帮助纠错
-   5. ...
-3. 产品排序策略
-   1. 广告商工具产品（会注明广告商）
-   2. 大型商业工具，如 DeepSeek
-   3. 其他工具：按时间顺序从上至下排列
-4. 更新记录
+**提供帮助？** 👉 **[提交 ISSUE](https://github.com/Eternaldeath/AIProductHome/issues)** 👈️ 支持自我推荐 / 资源失效 / 提供资源 / 帮助纠错
 
-```bash
-2026-10-01
+**产品排序策略**：广告商工具（会注明广告商）→ 大型商业工具（如 DeepSeek）→ 其他工具按时间从上至下排列
+
+<details open>
+<summary>📂 <b>更新记录</b> （点击收起） · 📅 2026-10-09</summary>
+<br/>
 💡 AI Product Home
-- 在线网站：https://eternaldeath.github.io/AIProductHome/
-- 国外仓库：https://github.com/Eternaldeath/AIProductHome
-- 国内仓库：https://gitcode.com/qq_34902437/AIProductHome/overview
 
-⚠️ 仓库进入优化期，后期我们会重新优化每个版块的逻辑（例如，区分底层模型和基于模型的应用产品，如 GPT 模型和 chatGPT 产品）。
-⚠️ 针对免费收录的产品和工具，我们会进行有门槛的筛选，优先选用成熟可靠的产品，同时删除已经失效的工具。
-⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
+- 🔗 在线网站：<https://eternaldeath.github.io/AIProductHome/>
+- 🔗 国外仓库：<https://github.com/Eternaldeath/AIProductHome>
+- 🔗 国内仓库：<https://gitcode.com/qq_34902437/AIProductHome/>
 
-# AI Tool
-- 新增 AI 工具 / 产品
-- 清理失效工具 / 产品
-```
+💡 AI Tool
+
+- Cline：一款开源的 AI Coding Agent
+- OpenCode：一款开源的 AI Coding Agent
+
+</details>
 
 # 交流群
 
@@ -53,6 +46,7 @@
 <div align=left>  
 <img src=".\img\wechat.jpg" width="300" />
 </div>
+
 # Star History
 
 <picture>
@@ -60,6 +54,17 @@
      <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Eternaldeath/AIProductHome&type=Date" />
      <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Eternaldeath/AIProductHome&type=Date" />
 </picture>
+
+# 🏅 精选推荐
+
+| 产品名称 | 相关信息 | 备注 |
+| ------- | :------: | --- |
+| [ChatGPT](https://openai.com/blog/chatgpt) | ✈️💰 | 推荐理由：OpenAI 推出的对话式 AI 产品，是目前全球最具影响力的 AI 应用，通用问答、写作、编程、多模态能力全面，适合作为大多数人的第一款 AI 产品<br/>⚠️ Open AI 目前有地域限制 |
+| [DeepSeek](https://www.deepseek.com/) | 🆓 | 推荐理由：深度求索（DeepSeek）自主研发的大语言模型智能助手，**免费使用**，推理与代码能力强，是国内用户低门槛体验顶尖大模型的首选 |
+| [Cursor](https://www.cursor.so/) | 🆓 | 推荐理由：基于大模型的新一代 AI 代码编辑器，具备极强的代码生成与续写能力，只需描述需求即可生成整套代码，是目前最受欢迎的 AI 编程工具之一 |
+| [Perplexity AI](https://www.perplexity.ai/) | ✈️🆓💰 | 推荐理由：AI 搜索引擎的代表产品，对检索结果提供数据来源标注，答案可追溯，适合用于调研、查证与深度阅读 |
+| [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | 推荐理由：业界顶尖的 AI 绘画工具，可根据文本生成高质量图像，是 AI 视觉创作领域的标杆产品 |
+| [NotebookLM](https://notebooklm.google/?location=unsupported) | 🆓 | 推荐理由：基于 Gemini 打造的知识管理与学习工具，可基于你的文档进行问答总结，支持 50 种语言生成播客，是学术阅读与知识沉淀的利器 |
 
 # 其他资源
 
@@ -88,7 +93,7 @@
 | ------- | :------: | --- |
 | [CoderPlan](https://coderplan.ai/) | 💰 | 一款兼容 OpenAI 的 API 中继服务，提供对 Claude、GPT-5.5、Gemini 3.1 Pro、DeepSeek V3+R1 和 Grok 模型的统一访问。专为需要在国内直接访问全球 AI 模型而无需 VPN 的中国开发者而设计【@[onepaperbox](https://github.com/onepaperbox) 分享】 |
 | [AI Router](https://ai-router.dev/cn) | 💰 | 面向开发者的独立 OpenAI 兼容 API 服务。可使用个人 API Key 配置 Base URL，并按 Key 查看用量【@[airouter-dev](https://github.com/airouter-dev)分享】 |
-| [TeamoRouter](https://teamorouter.com/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道 【@[kwu18-png](https://github.com/kwu18-png)分享 |
+| [TeamoRouter](https://teamorouter.com/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道 【@[kwu18-png](https://github.com/kwu18-png)分享】 |
 | [DSH API](https://dshapi.icu/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道 【@[kwu18-png](https://github.com/kwu18-png) 中转站 【@[1261398983](https://github.com/1261398983)分享】 |
 
 # 搜索引擎
@@ -118,7 +123,7 @@
 | [WormGPT](https://wormgpt.ai/) | ✈️💰 | 一款用来编写恶意软件和执行非法用途的类 ChatGPT 产品 |
 | [MiLM-6B](https://github.com/XiaoMi/MiLM-6B) | 🆓 | 一款小米开发的大规模预训练语言模型 |
 | [豆包](https://www.doubao.com/chat/2694826498) | 🧪🆓 | 一款字节跳动开发的聊天 AI |
-| [百川智能](www.baichuan-ai.com) | 🆓 | 人工智能大模型 |
+| [百川智能](https://www.baichuan-ai.com) | 🆓 | 人工智能大模型 |
 | [百川智能金融大模型](https://platform.baichuan-ai.com/homePage) | 🆓 | 金融垂直领域大模型 |
 | [商量 SenseChat](https://chat.sensetime.com/) | 🆓 | 人工智能大模型 |
 | [讯飞星火认知大模型](https://passport.xfyun.cn/) | 🆓 | 人工智能大模型 |
@@ -163,7 +168,7 @@
 
 | 产品名称 | 基础模型 | 相关信息 | 备注 |
 | - | - | :-: | - |
-| [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGoia=chat) | ChatGPTClaude | 🧪✈️🆓 | 由著名的匿名搜索引擎 DuckDuckGo 提供的 AI 聊天对话工具，目前提供 GPT4 和 Claude3 等模型 |
+| [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGoia=chat) | ChatGPT Claude | 🧪✈️🆓 | 由著名的匿名搜索引擎 DuckDuckGo 提供的 AI 聊天对话工具，目前提供 GPT4 和 Claude3 等模型 |
 | [Poe](https://poe.com/) | 模型聚合 | ✈️🆓💰 | AI 产品聚合网站，包括 GPT4，chatgpt 等 |
 | [Build Naidia](https://build.nvidia.com/explore/discover) | 模型聚合 | ✈️🆓 | 英伟达提供的各种免费模型 |
 | [302.ai](https://302.ai/) | 模型聚合 | 🆓💰 | 302.AI是一个汇集全球顶级品牌的AI超市，汇集全球各类顶尖AI模型，提供多种AI机器人，各种AI工具的使用和AI API接入 |
@@ -208,7 +213,6 @@
 | [MetaGPT](https://www.deepwisdom.ai/) | ✈️🆓 | 给出你的需求，该 GPT 自动执行需求内容，需要提供 OpenAI 的 API 密钥 |
 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | ✈️🆓🔓 | 面向金融领域的开源 GPT 模型，可以部署在自己的电脑上 |
 | [FinChat](https://finchat.io/) | ✈️🆓 | 面向投资者的 ChatGPT |
-| Arc | | |
 | [豆包桌面版](https://www.doubao.com/download/desktop) | 🆓 | 字节跳动推出的 AI 助手，全面赋能日常生活应用，包括 AI 翻译，AI 搜索，AI 伴读等 |
 | [RoleD](https://roled.lingj.net/login) | 🆓 | 一款基于 ChatGPT 的角色聊天工具 |
 | [Character.ai](https://beta.character.ai/) | ✈️🆓💰 | 基于基于神经语言模型的聊天机器人，特点是它可以学习某个具体领域或人物来和你对话，比如你可以和马斯克的 AI 机器人对话 |
@@ -234,6 +238,8 @@
 | [Screenshot to code](https://github.com/abi/screenshot-to-code) | 🆓 | 一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。**现在支持 Claude Sonnet 3.5 和 GPT-4O！** |
 | [AI SEO](https://aitdk.com/zh) | 🆓 | 探索一系列免费的AI SEO工具和AI生成器，旨在提升您的搜索引擎优化策略。利用人工智能技术，提升您网站的可见性和排名 |
 | [Tura](https://turaai.net/) | 🔓🆓 | 一个面向开发者的本地开源 AI 编程智能体，提供 CLI、TUI、桌面端和可选 Web 界面 【@[Yohjisakamoto](https://github.com/Yohjisakamoto)分享】 |
+| [Cline](https://cline.bot/) | 🔓🆓💰 | 一款开源的 AI Coding Agent |
+| [OpenCode](https://opencode.ai/zh) | 🔓🆓💰 | 一款开源的 AI Coding Agent |
 
 # AI IDE
 
@@ -262,31 +268,31 @@
 | 产品名称 | 相关信息 | 底层模型 | 备注 |
 | - | :-: | - | - |
 | [Nano Banana Pro](https://gemini.google/overview/image-generation/) | ✈️🆓💰 | gemini | gemini 图像生成和图片编辑 ai 模型 |
-| [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | | Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作 |
-| [稿定 AI](https://www.gaoding.com/ai) | 🆓💰 | | 稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果 |
-| [迅捷办公 - 一键 AI 绘画](https://www.xunjiepdf.com/aihuihuapc?stzhcjx230721-589056030) | 🆓 | | 一款本地 AI 绘画工具 |
-| [Stable diffusion](https://stablediffusionweb.com/) | ✈️🆓 | | Stable Diffusion 是一个文本到图像的潜在扩散模型 |
-| [Dell.E2](https://openai.com/product/dall-e-2) | ✈️💰 | | DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型 |
-| [Viz-gpt](https://www.vizgpt.ai/) | ✈️🆓🔓 | | 利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验 |
-| [DragGAN](https://github.com/XingangPan/DragGAN) | ✈️🆓🔓 | | 图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上 |
-| [Quick qr art](https://quickqr.art/) | ✈️🆓💰 | | 一款利用 AI 生成艺术二维码的工具 |
-| [ChatAvatar](https://hyperhuman.deemos.com/) | 🆓💰 | | 一款通过对话生成 3D 人像的产品 |
-| [SDXL Turbo](https://sdxlturbo.ai/) | ✈️🆓 | | 输入提示词，快速生成对应的图画，**目前仅支持英文** |
-| [Craiyon](https://www.craiyon.com/) | ✈️🆓💰 | | AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级 |
-| [Photoshot](https://photoshot.app/) | ✈️🆓 | | AI 头像生成器 |
-| [AI字体模型市场](https://www.ai.zitijia.com/list/1) | 🆓💰 | | 由 AI 生成的字体样式 |
-| [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) | ✈️🆓📃 | | 由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract) |
-| [AI Comic Factory](https://aicomicfactory.com/) | 🆓💰 | | 利用 AI 生成漫画 |
+| [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | - | Midjourney 是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作 |
+| [稿定 AI](https://www.gaoding.com/ai) | 🆓💰 | - | 稿定AI是一款国内首个基于ControlNet模型打造的AI绘画产品，是稿定科技多年深耕内容生产领域、并全面拥抱AI的阶段性重要成果 |
+| [迅捷办公 - 一键 AI 绘画](https://www.xunjiepdf.com/aihuihuapc?stzhcjx230721-589056030) | 🆓 | - | 一款本地 AI 绘画工具 |
+| [Stable diffusion](https://stablediffusionweb.com/) | ✈️🆓 | - | Stable Diffusion 是一个文本到图像的潜在扩散模型 |
+| [Dell.E2](https://openai.com/product/dall-e-2) | ✈️💰 | DELL | DELL.E2是 Open AI，于2021年1月发布的一款基于文本到图像的生成模型 |
+| [Viz-gpt](https://www.vizgpt.ai/) | ✈️🆓🔓 | GPT | 利用 GPT 的自然语言对话生成数据可视化，这是一个 github 的开源仓库，带有 play ground 在线体验 |
+| [DragGAN](https://github.com/XingangPan/DragGAN) | ✈️🆓🔓 | - | 图像处理的开源工具，比如，你可以使用该产品来使得狗的嘴闭上 |
+| [Quick qr art](https://quickqr.art/) | ✈️🆓💰 | - | 一款利用 AI 生成艺术二维码的工具 |
+| [ChatAvatar](https://hyperhuman.deemos.com/) | 🆓💰 | - | 一款通过对话生成 3D 人像的产品 |
+| [SDXL Turbo](https://sdxlturbo.ai/) | ✈️🆓 | - | 输入提示词，快速生成对应的图画，**目前仅支持英文** |
+| [Craiyon](https://www.craiyon.com/) | ✈️🆓💰 | - | AI 艺术生成器，被称为 DALL·E mini，其特点在于生成的速度极快，达到了秒级 |
+| [Photoshot](https://photoshot.app/) | ✈️🆓 | - | AI 头像生成器 |
+| [AI字体模型市场](https://www.ai.zitijia.com/list/1) | 🆓💰 | - | 由 AI 生成的字体样式 |
+| [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) | ✈️🆓📃 | - | 由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract) |
+| [AI Comic Factory](https://aicomicfactory.com/) | 🆓💰 | - | 利用 AI 生成漫画 |
 | [Shortbread](https://shortbread.ai/) | 🆓 | - | 利用 AI 生成漫画 |
-| [Shap-e](https://github.com/openai/shap-e) | ✈️🆓🔓📃 | | 一款开源的使用文本或 2D 图像生成 3D 图像工具<br/>[论文链接](https://arxiv.org/abs/2305.02463) |
+| [Shap-e](https://github.com/openai/shap-e) | ✈️🆓🔓📃 | - | 一款开源的使用文本或 2D 图像生成 3D 图像工具<br/>[论文链接](https://arxiv.org/abs/2305.02463) |
 | 一非 ai 壁纸 | 🆓 | - | 利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】 |
 | [AI Image Bg](https://aiimagebg.com/zh) | 💰 | - | 利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】 |
 | [Banana Pro](https://www.banana-pro.com/) | 💰 | - | 一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材 |
-| [AutoFigure](https://github.com/ResearAI/AutoFigure) | 🆓🔓 | | AutoFigure 是一个智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表 |
-| [AI Image Lab](https://aiimagelab.art/) | 🆓💰 | | 免费AI图片生成器，提供8大分类提示词库，支持4K高质量输出【@[Lautitia](https://github.com/Lautitia) 分享】 |
-| [Image Prompt Generator](https://github.com/Eternaldeath/AIProductHome/issues/38) | 🆓 | | 免费 AI 图像提示词生成器和提示词库【@[xianyu110](https://github.com/xianyu110) 分享】 |
-| [Gptimage2](https://gptimage2.asia/) | 🆓 | | AI 图像生成器、创意 AI、设计工具、营销【@[xianyu110](https://github.com/xianyu110) 分享】 |
-| [Vivify GPT Image 2.5](https://vivify.video/zh/models/gpt-image-2-5) | 💰 | | 在浏览器中使用 GPT Image 2.5 生成图片或按文字指令编辑参考图，适合制作产品图、海报与社交媒体素材 |
+| [AutoFigure](https://github.com/ResearAI/AutoFigure) | 🆓🔓 | - | AutoFigure 是一个智能系统，它利用大型语言模型 (LLM) 进行迭代改进，从文本描述或研究论文中生成高质量的科学图表 |
+| [AI Image Lab](https://aiimagelab.art/) | 🆓💰 | - | 免费AI图片生成器，提供8大分类提示词库，支持4K高质量输出【@[Lautitia](https://github.com/Lautitia) 分享】 |
+| [Image Prompt Generator](https://github.com/Eternaldeath/AIProductHome/issues/38) | 🆓 | - | 免费 AI 图像提示词生成器和提示词库【@[xianyu110](https://github.com/xianyu110) 分享】 |
+| [Gptimage2](https://gptimage2.asia/) | 🆓 | - | AI 图像生成器、创意 AI、设计工具、营销【@[xianyu110](https://github.com/xianyu110) 分享】 |
+| [Vivify GPT Image 2.5](https://vivify.video/zh/models/gpt-image-2-5) | 💰 | GPT Image | 在浏览器中使用 GPT Image 2.5 生成图片或按文字指令编辑参考图，适合制作产品图、海报与社交媒体素材 |
 
 ## 色彩搭配
 
@@ -435,7 +441,7 @@
 
 ## 语音音乐
 
-| 产品名称 | 相关信息emsp; | 备注 |
+| 产品名称 | 相关信息 | 备注 |
 | - | :-: | - |
 | [Notebooklm](https://notebooklm.google/?location=unsupported) | 🆓 | 基于 Gemini 2.0 打造的一款出色的工具，支持 50 种语言生成播客 |
 | [murf](https://murf.ai/) | 🆓🔓 | |
