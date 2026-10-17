@@ -24,7 +24,7 @@
 **产品排序策略**：广告商工具（会注明广告商）→ 大型商业工具（如 DeepSeek）→ 其他工具按时间从上至下排列
 
 <details open>
-<summary> <b>更新记录</b> （点击收起） · 📅 2026-10-09</summary>
+<summary> <b>更新记录</b> （点击收起） · 📅 2026-10-17</summary>
 <br/>
 💡 AI Product Home
 
@@ -95,6 +95,8 @@
 | [AI Router](https://ai-router.dev/cn) | 💰 | 面向开发者的独立 OpenAI 兼容 API 服务。可使用个人 API Key 配置 Base URL，并按 Key 查看用量【@[airouter-dev](https://github.com/airouter-dev)分享】 |
 | [TeamoRouter](https://teamorouter.com/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道 【@[kwu18-png](https://github.com/kwu18-png)分享】 |
 | [DSH API](https://dshapi.icu/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道 【@[kwu18-png](https://github.com/kwu18-png) 中转站 【@[1261398983](https://github.com/1261398983)分享】 |
+| [MomAPI](https://momapi.link/) | 💰 | 中转站，兼容 OpenAI API，支持 CC Switch 导入；付费按量【@[hermanzhaozzzz](https://github.com/hermanzhaozzzz) 分享 |
+
 
 # 搜索引擎
 
@@ -231,6 +233,7 @@
 | [Codium ai](https://www.codium.ai/) | 💰 | 一款面向测试使用的人工智能插件，基于 TestGpt，chatGpt |
 | [Cursor](https://www.cursor.so/) | 🆓 | 基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码 |
 | [Codegeex](https://codegeex.cn/zh-CN) | 🆓 | 一款 vscode 上免费的 ai 编程助手插件 |
+| [通义灵码](https://tongyi.aliyun.com/lingma) | 🆓 | 阿里推出的辅助编程的 AI 工具，以插件的方式出现在主流的开发工具上（如 Vscode 等） |
 | [Durable](https://durable.co/) | ✈️🆓 | 一款人工智能网站构建器 |
 | [V0.dev](https://v0.dev/) | ✈️🆓 | 一款用来进行设计和编程的 AI 辅助工具 |
 | [Devin](https://devin.ai/) | 🧪✈️🆓 | 由 Cognition 初创公司研发的人工智能软件工程师。Devin 配备了 shell，代码编辑器，浏览器，实时交互等功能。能够应用在应用开发，文本理解，代码调试，AI 训练 AI等领域 |
@@ -317,12 +320,13 @@
 | [ZOOOP](https://zooop.ai/) | 🆓 | 一个 AI 原生的影视创作工作站与创作平台，集图像 / 视频 / 音频生成、配方模板、用于分镜的生成式无限画布、对口型于一体，并聚合多家主流 AI 模型，覆盖从分镜到成片的创作流程【@[dayinji](https://github.com/dayinji) 分享】 |
 | [Pilio](https://pilio.ai/zh) | 🆓💰 | AI 模型搞定图片生成、视频创作和后期处理【@[GargantuaX](https://github.com/GargantuaX) 分享】 |
 
-## 游戏
+## 角色扮演
 
 | 产品名称 | 相关信息 | 备注 |
 | ------------------------------------------------ | :------: | ----------------------------------------- |
 | [AI Town](https://github.com/get-convex/ai-town) | ✈️🆓🔓 | 一个虚拟城镇，AI 角色在此居住、聊天和社交 |
 | [虚拟小镇](https://reverie.herokuapp.com/arXiv_Demo/) | ✈️🆓 | 由 AI 驱动的虚拟小镇，上面生活了 25 个智能体<br>📃[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442v1) |
+| [WSUP](https://wsupai.app/) | 🆓 | 免费的在线 AI 角色聊天工具：无需注册，即可在浏览器中与 AI 角色互动【@[ownland-maya](https://github.com/ownland-maya) 分享】 |
 
 # 内容创作
 
@@ -396,10 +400,10 @@
 | [GPT Academic](https://github.com/binary-husky/gpt_academic) | ✈️🆓🔓 | 提供论文润色等功能 |
 | [AI简历-求职帮手](https://ai-tools.cn/resume) | 🆓💰 | 新一代在线AI简历工具，制作高质量简历【 [@itLeeyw](https://github.com/itLeeyw) 分享】 |
 | [Elegantresume](https://www.elegantresume.pro/) | 🆓 | 一款在线制作简历的网站，提供非常专业化的简历模板，且集成了 OpenAI |
-| Rytr | ✈️🆓💰 | AI 驱动的写作工具 |
 | [PostForgeHub](https://postforgehub.com/) | 🆓💰 | 一款人工智能驱动的工具，可在几秒钟内将博客文章、视频或播客转换为 50 多个针对 Instagram、LinkedIn、Twitter 和 Facebook 等平台优化的社交媒体帖子【[@PostForgeHub](https://postforgehub.com/) 分享】 |
 | [JadeAI](https://jadeai.cturing.cn/en) | 🆓 | **AI 驱动的智能简历生成器**。拖拽编辑、实时 AI 优化、50 套专业模板、多格式导出，轻松打造高质量简历【@[LingyiChen-AI](https://github.com/LingyiChen-AI) 分享】 |
 | [Aural](https://aural-ai.com/) | 🔓🆓 | 可自托管的开源 AI 面试平台，支持语音、文字和视频面试、自适应追问、结构化评分报告、代码编辑器、白板、多语言界面与 OpenAI 兼容模型，适合面试练习、招聘筛选和团队培训【@[1146345502](https://github.com/1146345502)提供】 |
+| [ORANO](https://oranoai.com/) | 🆓💰 | 将收藏的 Reels、TikTok、YouTube 视频、文章和 PDF 整理成可搜索的摘要、要点和分步计划【@[manuvamp](https://github.com/manuvamp) 分享】 |
 
 ## 智能抠图
 
@@ -424,7 +428,9 @@
 | 产品名称 | 相关信息 | 备注 |
 | ------------------------------------------------------------ | :------: | ------------------------------------------------------------ |
 | [SeamlessM4T](https://github.com/facebookresearch/seamless_communication) | ✈️🆓 | 一款 Mate 推出的 AI 翻译模型，有在线 [Demo](https://seamless.metademolab.com/) |
-| [通义灵码](https://tongyi.aliyun.com/lingma) | 🆓 | 阿里推出的辅助编程的 AI 工具，以插件的方式出现在主流的开发工具上（如 Vscode 等） |
+| [Manga Translator](https://www.mangatranslate.com/zh-CN/ai-manga-translator/) | 💰 | 一款企业级漫画翻译和阅读产品。该产品支持 100 多种语言，并将漫画内容翻译成产品提供的所有翻译语言【@[maravillasmontell531](https://github.com/maravillasmontell531) 分享】 |
+| [Doc2X](https://doc2x.noedgeai.com/) | 🆓💰 | NoEdgeAI 推出的 AI 文档处理工具，可将 PDF、扫描件和图片解析为 Word、Markdown、LaTeX，识别公式与表格；支持 PDF/Word 文档翻译，并提供 Zotero 插件及开发者 API【@[circlestarzero](https://github.com/circlestarzero) 分享】 |
+
 
 # 数字人
 
