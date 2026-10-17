@@ -88,6 +88,28 @@
         --badge-vpn-fg: #9d174d;
         --badge-paper-bg: #e0f2fe;
         --badge-paper-fg: #075985;
+
+        /* ===== 分享者标签 ===== */
+        --sharer-color: #7c3aed; /* 分享者主色（violet） */
+        --sharer-tint: rgba(124, 58, 237, 0.08); /* hover 底色 */
+        --sharer-ring: rgba(124, 58, 237, 0.45); /* 焦点环 */
+
+        /* ===== 精选推荐（橘黄） ===== */
+        --featured-color: #f59e0b; /* 橘黄主色 */
+        --featured-hover: #d97706; /* hover 加深 */
+        --featured-deep: #b45309; /* 深橘文字 */
+        --featured-bg: #fff7ed; /* 区块奶油底 */
+        --featured-surface: #ffffff; /* 卡片底 */
+        --featured-border: #f59e0b; /* 区块/卡片描边 */
+        --featured-tint: rgba(245, 158, 11, 0.1); /* 浅色高亮底 */
+        --featured-ring: rgba(245, 158, 11, 0.45); /* 焦点环 */
+        --featured-on: #ffffff; /* 橘色底上的文字 */
+
+        /* ===== 赞助商卡片 / 二维码弹窗（双主题一致） ===== */
+        --wechat-green: #07c160; /* 微信品牌绿 */
+        --sponsor-divider: rgba(255, 255, 255, 0.35); /* 渐变卡上的分隔线 */
+        --qr-overlay: rgba(0, 0, 0, 0.55); /* 弹窗遮罩 */
+        --qr-img-bg: #ffffff; /* 二维码白底，保证可扫 */
       }
 
       /* ===== 深色主题：独立页面，挂在 html[data-theme] 上 ===== */
@@ -132,6 +154,22 @@
         --badge-vpn-fg: #f9a8d4;
         --badge-paper-bg: #0c4a6e;
         --badge-paper-fg: #7dd3fc;
+
+        /* 分享者标签：深底提亮保证对比度 */
+        --sharer-color: #c4b5fd;
+        --sharer-tint: rgba(196, 181, 253, 0.12);
+        --sharer-ring: rgba(196, 181, 253, 0.45);
+
+        /* 精选推荐：深底换暖棕系，亮字保证对比度 */
+        --featured-color: #fbbf24; /* amber-400，提亮 */
+        --featured-hover: #fcd34d;
+        --featured-deep: #fcd34d; /* 深色底上用亮黄文字 */
+        --featured-bg: #2a1503; /* 深棕奶油底 */
+        --featured-surface: #341c06; /* 卡片底 */
+        --featured-border: #b45309; /* amber-700 描边 */
+        --featured-tint: rgba(251, 191, 36, 0.12);
+        --featured-ring: rgba(251, 191, 36, 0.45);
+        --featured-on: #451a03; /* 亮黄底上的深棕文字 */
 
         /* 原生控件 / 滚动条 / 焦点框自动适配深色 */
         color-scheme: dark;
@@ -485,6 +523,333 @@
         background-color: var(--surface-subtle);
         padding: 4px 10px;
         border-radius: var(--radius-sm);
+      }
+
+      /* 分享者标签：描述与底部操作区之间的胶囊 chip */
+      .tool-sharer {
+        display: inline-flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-bottom: 16px;
+        padding: 4px 12px;
+        border-radius: var(--radius-pill);
+        background-color: var(--surface-subtle);
+        border: 1px solid var(--sharer-color);
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: var(--sharer-color);
+        width: fit-content;
+        max-width: 100%;
+      }
+
+      .tool-sharer i {
+        font-size: 0.85em; /* 图标略小于文字，与 .badge 一致 */
+        line-height: 1;
+      }
+
+      .tool-sharer-label {
+        color: var(--text-secondary);
+        font-weight: 500;
+      }
+
+      .tool-sharer a {
+        color: var(--sharer-color);
+        text-decoration: none;
+        padding: 0 2px;
+        transition: all 0.2s ease;
+      }
+
+      .tool-sharer a:hover {
+        background-color: var(--sharer-tint);
+      }
+
+      .tool-sharer a:focus-visible {
+        outline: 3px solid var(--sharer-ring);
+        outline-offset: 2px;
+        border-radius: var(--radius-sm);
+      }
+
+      .tool-sharer strong {
+        color: var(--sharer-color);
+      }
+
+      /* ===== 精选推荐：导航标签（橘黄 + 皇冠） ===== */
+      .category-tag.featured-tag {
+        background-color: var(--featured-tint);
+        color: var(--featured-deep);
+        border: 1px solid var(--featured-color);
+        font-weight: 600;
+      }
+
+      .category-tag.featured-tag:hover {
+        background-color: var(--featured-color);
+        color: var(--featured-on);
+      }
+
+      .category-tag.featured-tag.active {
+        background-color: var(--featured-color);
+        color: var(--featured-on);
+      }
+
+      .category-tag.featured-tag i {
+        margin-right: 4px;
+        font-size: 0.85em;
+      }
+
+      /* ===== 精选推荐：区块容器（奶油底 + 橘黄描边） ===== */
+      .tools-section.featured-section {
+        background: linear-gradient(
+          135deg,
+          var(--featured-bg),
+          var(--featured-surface)
+        );
+        border: 2px solid var(--featured-border);
+        border-radius: var(--radius-xl);
+        padding: 24px;
+        margin-bottom: 50px;
+        box-shadow: var(--shadow);
+      }
+
+      .featured-section .section-header {
+        border-bottom: 1px solid var(--featured-tint);
+      }
+
+      .featured-section .section-title {
+        color: var(--featured-deep);
+      }
+
+      .featured-section .section-title i {
+        color: var(--featured-color);
+      }
+
+      .featured-section .tools-count {
+        background-color: var(--featured-color);
+        color: var(--featured-on);
+      }
+
+      /* ===== 精选推荐：卡片特化（沿用 .tool-card 结构，仅配色） ===== */
+      .tool-card.featured {
+        background-color: var(--featured-surface);
+        border: 1px solid var(--featured-border);
+      }
+
+      .tool-card.featured:hover {
+        border-color: var(--featured-hover);
+        box-shadow: 0 10px 20px var(--featured-tint);
+      }
+
+      .tool-card.featured .tool-name {
+        color: var(--featured-deep);
+      }
+
+      .featured-pill {
+        background-color: var(--featured-color);
+        color: var(--featured-on);
+        font-size: 0.75rem;
+        font-weight: 600;
+        padding: 4px 10px;
+        border-radius: var(--radius-pill);
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+
+      /* 精选卡片的「访问」按钮走橘黄 */
+      .tool-card.featured .tool-link {
+        background-color: var(--featured-color);
+      }
+
+      .tool-card.featured .tool-link:hover {
+        background-color: var(--featured-hover);
+      }
+
+      .tool-card.featured .tool-link:focus-visible {
+        outline: 3px solid var(--featured-ring);
+        outline-offset: 2px;
+      }
+
+      /* ===== 赞助商招租卡片（橘黄渐变，沿用 .tool-card 骨架） ===== */
+      .tool-card.sponsor-card {
+        background: linear-gradient(
+          135deg,
+          var(--featured-color),
+          var(--featured-hover)
+        );
+        border: 1px solid var(--featured-border);
+        justify-content: flex-start;
+        gap: 12px;
+      }
+
+      .tool-card.sponsor-card:hover {
+        box-shadow: 0 10px 20px var(--featured-tint);
+        transform: translateY(-6px);
+      }
+
+      .sponsor-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+      }
+
+      .sponsor-title {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 1.3rem;
+        font-weight: 700;
+        color: var(--featured-on);
+      }
+
+      .sponsor-tag {
+        background-color: var(--featured-on);
+        color: var(--featured-color);
+        font-size: 0.75rem;
+        font-weight: 600;
+        padding: 4px 10px;
+        border-radius: var(--radius-pill);
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+
+      .sponsor-desc {
+        color: var(--featured-on);
+        font-size: 0.95rem;
+        line-height: 1.6;
+        margin: 0;
+        flex-grow: 1;
+        opacity: 0.92;
+      }
+
+      /* 卡片底色即橘黄渐变，footer 分隔线换半透明白 */
+      .sponsor-card .tool-footer {
+        border-top: 1px solid var(--sponsor-divider);
+      }
+
+      .sponsor-contact-btn {
+        background-color: var(--featured-on);
+        color: var(--featured-color);
+        border: none;
+        padding: 8px 16px;
+        border-radius: var(--radius-md);
+        font-weight: 600;
+        font-size: 0.9rem;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        transition: var(--transition);
+      }
+
+      .sponsor-contact-btn:hover {
+        opacity: 0.9;
+        transform: translateY(-2px);
+      }
+
+      .sponsor-contact-btn:focus-visible {
+        outline: 3px solid var(--featured-ring);
+        outline-offset: 2px;
+      }
+
+      /* ===== 微信二维码弹窗 ===== */
+      .qr-modal-overlay {
+        position: fixed;
+        inset: 0;
+        background-color: var(--qr-overlay);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        z-index: 1000;
+      }
+
+      .qr-modal-overlay.open {
+        display: flex;
+      }
+
+      .qr-modal {
+        position: relative;
+        background-color: var(--card-bg);
+        border: 1px solid var(--border-color);
+        border-radius: var(--radius-lg);
+        box-shadow: var(--shadow-hover);
+        padding: 28px 32px 24px;
+        max-width: 320px;
+        width: 100%;
+        text-align: center;
+        animation: qr-pop 0.2s ease;
+      }
+
+      @keyframes qr-pop {
+        from {
+          opacity: 0;
+          transform: translateY(10px) scale(0.96);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0) scale(1);
+        }
+      }
+
+      .qr-modal-close {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        width: 32px;
+        height: 32px;
+        border: none;
+        border-radius: 50%;
+        background-color: var(--surface-hover);
+        color: var(--text-secondary);
+        font-size: 1rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: var(--transition);
+      }
+
+      .qr-modal-close:hover {
+        background-color: var(--surface-active);
+        color: var(--text-primary);
+      }
+
+      .qr-modal-close:focus-visible {
+        outline: 3px solid var(--primary-ring);
+        outline-offset: 2px;
+      }
+
+      .qr-modal-title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        font-size: 1.2rem;
+        color: var(--text-primary);
+        margin-bottom: 16px;
+      }
+
+      .qr-modal-title i {
+        color: var(--wechat-green);
+      }
+
+      .qr-modal img {
+        width: 220px;
+        height: 220px;
+        object-fit: contain;
+        border: 1px solid var(--border-color);
+        border-radius: var(--radius-md);
+        background-color: var(--qr-img-bg);
+      }
+
+      .qr-modal-tip {
+        color: var(--text-secondary);
+        font-size: 0.9rem;
+        margin-top: 12px;
+        margin-bottom: 0;
       }
 
       .tool-link {
@@ -868,6 +1233,20 @@
           return `grid-${safeId}`;
         }
 
+        // 是否为精选推荐分类
+        isFeaturedCategory(categoryName) {
+          return (categoryName || "").includes("精选推荐");
+        }
+
+        // 是否为赞助商招租占位（精选推荐栏目中的无链接"赞助商"行）
+        isSponsorSlot(tool) {
+          return (
+            this.isFeaturedCategory(tool.category) &&
+            tool.name === "赞助商" &&
+            !tool.link
+          );
+        }
+
         // 解析Markdown内容
         parseMarkdown(markdownContent) {
           // 分割行
@@ -877,19 +1256,34 @@
           let tableHeaders = [];
           let tableRows = [];
 
-          // 查找"搜索引擎"部分开始
+          // 查找解析起点：优先"精选推荐"栏目，回退"搜索引擎"
           let startIndex = 0;
+          let featuredIndex = -1;
+          let searchIndex = -1;
+          for (let i = 0; i < lines.length; i++) {
+            const l = lines[i].trim();
+            if (
+              featuredIndex === -1 &&
+              l.startsWith("# ") &&
+              l.includes("精选推荐")
+            ) {
+              featuredIndex = i;
+            }
+            if (searchIndex === -1 && l.startsWith("# 搜索引擎")) {
+              searchIndex = i;
+            }
+          }
+          if (featuredIndex !== -1) {
+            startIndex = featuredIndex;
+          } else if (searchIndex !== -1) {
+            startIndex = searchIndex;
+          }
+
           let currentMainCategory = ""; // 当前一级分类
           let currentSubCategory = ""; // 当前二级分类
           let currentCombinedCategory = ""; // 合并分类
-          for (let i = 0; i < lines.length; i++) {
-            if (lines[i].trim().startsWith("# 搜索引擎")) {
-              startIndex = i;
-              break;
-            }
-          }
 
-          // 从"搜索引擎"开始解析
+          // 从起点开始解析
           for (let i = startIndex; i < lines.length; i++) {
             const line = lines[i].trim();
 
@@ -1059,16 +1453,21 @@
               toolInfo = row[infoColIndex];
             }
 
+            // 提取分享者（【@[name](url) 分享】等），并从描述中剥离
+            const { sharers, cleanText: cleanDesc } =
+              this.extractSharers(toolDesc);
+
             // 创建工具对象
             const tool = {
               id: this.allTools.length + 1,
               name: cleanName,
-              description: toolDesc,
+              description: cleanDesc,
               link: toolLink,
               model: toolModel,
               info: toolInfo,
               category: categoryName,
               badges: this.extractBadges(toolInfo),
+              sharers: sharers,
             };
 
             categoryTools.push(tool);
@@ -1095,6 +1494,57 @@
             linkRegex,
             '<a href="$2" target="_blank" class="desc-link">$1</a>',
           );
+        }
+
+        // 从描述中提取分享者（【@[name](url) 分享】等多种变体），并从文本中剥离
+        // 支持的变体：
+        //   【[@name](url) 分享】/【@[name](url)分享】/【@[name](url)提供】
+        //   【@[name](url)】（无动词）/【@name 分享】（纯文本无链接）
+        //   异常未闭合行：【@[a](url) 中转站 【@[b](url)分享】（两个分享者都会被收集）
+        extractSharers(text) {
+          if (!text) return { sharers: [], cleanText: text || "" };
+
+          const sharers = [];
+          const seen = new Set();
+
+          const addSharer = (name, url) => {
+            let display = (name || "").trim();
+            if (!display) return;
+            if (!display.startsWith("@")) display = "@" + display;
+            const key = display.toLowerCase();
+            if (seen.has(key)) return; // 去重（不区分大小写）
+            seen.add(key);
+            sharers.push({ name: display, url: url || "" });
+          };
+
+          // 只匹配含 @ 的【…】分组，自动排除【AI 工具】等正文内容
+          const cleanText = text.replace(
+            /【([^】]*@[^】]*)】/g,
+            (group, inner) => {
+              // 优先提取 markdown 链接形式 [@name](url) / [name](url)
+              const linkRegex = /\[(@?[^\]\s]+)\]\(([^)\s]+)\)/g;
+              let m;
+              let hasLink = false;
+              while ((m = linkRegex.exec(inner)) !== null) {
+                hasLink = true;
+                addSharer(m[1], m[2]);
+              }
+              if (!hasLink) {
+                // 纯文本形式 @name（如【@lixiaozhe.com 分享】）
+                const plainRegex = /@([\w.\-]+)/g;
+                while ((m = plainRegex.exec(inner)) !== null) {
+                  addSharer("@" + m[1], "");
+                }
+              }
+              return "";
+            },
+          );
+
+          // 剥离后可能残留连续空格，压缩并清理首尾
+          return {
+            sharers,
+            cleanText: cleanText.replace(/\s{2,}/g, " ").trim(),
+          };
         }
 
         // 从相关信息中提取徽章
@@ -1159,17 +1609,45 @@
           this.categories.forEach((category) => {
             const tag = document.createElement("div");
             tag.className = `category-tag ${this.currentCategory === category.name ? "active" : ""}`;
-            // 判断是否为二级分类（包含“-”）
-            if (category.name.includes(" - ")) {
-              tag.classList.add("subcategory");
+            if (this.isFeaturedCategory(category.name)) {
+              // 精选推荐：橘黄专属标签 + 皇冠图标
+              tag.classList.add("featured-tag");
+              tag.innerHTML = `<i class="fas fa-crown" aria-hidden="true"></i>${category.name} (${category.tools.length})`;
+            } else {
+              // 判断是否为二级分类（包含“-”）
+              if (category.name.includes(" - ")) {
+                tag.classList.add("subcategory");
+              }
+              tag.textContent = `${category.name} (${category.tools.length})`;
             }
-            tag.textContent = `${category.name} (${category.tools.length})`;
             tag.dataset.category = category.name;
             tag.addEventListener("click", () =>
               this.filterByCategory(category.name),
             );
             container.appendChild(tag);
           });
+        }
+
+        // 构建分类区块头部（精选推荐使用橘黄专属样式）
+        buildCategoryHeader(categoryName, count, isFeatured) {
+          if (isFeatured) {
+            return `
+                            <div class="section-header">
+                                <h2 class="section-title">
+                                    <i class="fas fa-crown" aria-hidden="true"></i>
+                                    ${categoryName}
+                                </h2>
+                                <div class="tools-count">${count} 个工具</div>
+                            </div>`;
+          }
+          return `
+                            <div class="section-header">
+                                <h2 class="section-title">
+                                    <i class="fas fa-folder"></i>
+                                    ${categoryName}
+                                </h2>
+                                <div class="tools-count">${count} 个工具</div>
+                            </div>`;
         }
 
         // 渲染工具卡片
@@ -1194,7 +1672,10 @@
                 .toLowerCase()
                 .includes(searchLower);
               const modelMatch = tool.model.toLowerCase().includes(searchLower);
-              return nameMatch || descMatch || modelMatch;
+              const sharerMatch = (tool.sharers || []).some((s) =>
+                s.name.toLowerCase().includes(searchLower),
+              );
+              return nameMatch || descMatch || modelMatch || sharerMatch;
             }
 
             return true;
@@ -1230,24 +1711,28 @@
                   const modelMatch = tool.model
                     .toLowerCase()
                     .includes(searchLower);
-                  return nameMatch || descMatch || modelMatch;
+                  const sharerMatch = (tool.sharers || []).some((s) =>
+                    s.name.toLowerCase().includes(searchLower),
+                  );
+                  return nameMatch || descMatch || modelMatch || sharerMatch;
                 }
                 return true;
               });
 
               if (categoryFilteredTools.length === 0) return;
 
+              const isFeatured = this.isFeaturedCategory(category.name);
               const section = document.createElement("div");
-              section.className = "tools-section";
+              section.className = isFeatured
+                ? "tools-section featured-section"
+                : "tools-section";
               const safeCategoryId = this.getSafeId(category.name);
+              const featCount = isFeatured
+                ? categoryFilteredTools.filter((t) => !this.isSponsorSlot(t))
+                    .length
+                : categoryFilteredTools.length;
               section.innerHTML = `
-                            <div class="section-header">
-                                <h2 class="section-title">
-                                    <i class="fas fa-folder"></i>
-                                    ${category.name}
-                                </h2>
-                                <div class="tools-count">${categoryFilteredTools.length} 个工具</div>
-                            </div>
+                            ${this.buildCategoryHeader(category.name, featCount, isFeatured)}
                             <div class="tools-grid" id="grid-${safeCategoryId}">
                                 <!-- 工具卡片将在这里动态添加 -->
                             </div>
@@ -1270,17 +1755,18 @@
               (c) => c.name === this.currentCategory,
             );
             if (category) {
+              const isFeatured = this.isFeaturedCategory(category.name);
               const section = document.createElement("div");
-              section.className = "tools-section";
+              section.className = isFeatured
+                ? "tools-section featured-section"
+                : "tools-section";
               const safeCategoryId = this.getSafeId(category.name);
+              const featCount = isFeatured
+                ? this.filteredTools.filter((t) => !this.isSponsorSlot(t))
+                    .length
+                : this.filteredTools.length;
               section.innerHTML = `
-                            <div class="section-header">
-                                <h2 class="section-title">
-                                    <i class="fas fa-folder"></i>
-                                    ${category.name}
-                                </h2>
-                                <div class="tools-count">${this.filteredTools.length} 个工具</div>
-                            </div>
+                            ${this.buildCategoryHeader(category.name, featCount, isFeatured)}
                             <div class="tools-grid" id="grid-${safeCategoryId}">
                                 <!-- 工具卡片将在这里动态添加 -->
                             </div>
@@ -1299,8 +1785,14 @@
 
         // 创建工具卡片
         createToolCard(tool) {
+          // 赞助商招租占位：走专属卡片
+          if (this.isSponsorSlot(tool)) {
+            return this.createSponsorCard(tool);
+          }
+
+          const isFeatured = this.isFeaturedCategory(tool.category);
           const card = document.createElement("div");
-          card.className = "tool-card";
+          card.className = isFeatured ? "tool-card featured" : "tool-card";
           card.dataset.id = tool.id;
 
           // 构建徽章HTML
@@ -1324,14 +1816,45 @@
             modelHtml = `<div class="tool-model"><i class="fas fa-code-branch"></i> ${tool.model}</div>`;
           }
 
+          // 构建分享者HTML（描述下方的胶囊标签，多分享者并列展示）
+          let sharerHtml = "";
+          if (tool.sharers && tool.sharers.length > 0) {
+            const items = tool.sharers
+              .map((s) => {
+                // 展示时去掉 @ 前缀（数据层保留 @ 以兼容搜索）
+                const displayName = s.name.replace(/^@/, "");
+                return s.url
+                  ? `<a href="${s.url}" target="_blank" rel="noopener">${displayName}</a>`
+                  : `<strong>${displayName}</strong>`;
+              })
+              .join("");
+            sharerHtml = `
+                    <div class="tool-sharer" role="note" aria-label="分享者">
+                        <i class="fas fa-share-nodes" aria-hidden="true"></i>
+                        <span class="tool-sharer-label">分享者</span>
+                        ${items}
+                    </div>`;
+          }
+
+          // 精选推荐：剥离“推荐理由：”前缀，右上角加“推荐”标
+          let descText = tool.description || "";
+          if (isFeatured) {
+            descText = descText.replace(/^推荐理由：\s*/, "");
+          }
+          const featuredPill = isFeatured
+            ? `<span class="featured-pill"><i class="fas fa-star" aria-hidden="true"></i> 推荐</span>`
+            : "";
+
           card.innerHTML = `
                     <div class="tool-header">
                         <div>
                             <h3 class="tool-name">${tool.name}</h3>
                             <div class="tool-badges">${badgesHtml}</div>
                         </div>
+                        ${featuredPill}
                     </div>
-                    <p class="tool-description">${this.convertMarkdownLinks(tool.description) || "暂无描述"}</p>
+                    <p class="tool-description">${this.convertMarkdownLinks(descText) || "暂无描述"}</p>
+                    ${sharerHtml}
                     <div class="tool-footer">
                         ${modelHtml}
                         ${linkHtml}
@@ -1339,6 +1862,85 @@
                 `;
 
           return card;
+        }
+
+        // 创建赞助商招租卡片（精选推荐栏目占位）
+        createSponsorCard(tool) {
+          const card = document.createElement("div");
+          card.className = "tool-card featured sponsor-card";
+          card.dataset.id = tool.id;
+          card.innerHTML = `
+                    <div class="sponsor-head">
+                        <div class="sponsor-title">
+                            <i class="fas fa-handshake" aria-hidden="true"></i>
+                            赞助商招租
+                        </div>
+                        <span class="sponsor-tag">虚位以待</span>
+                    </div>
+                    <p class="sponsor-desc">这一格留给你的产品 —— 每天有做 AI 的人来挑工具。</p>
+                    <div class="tool-footer">
+                        <button type="button" class="sponsor-contact-btn">
+                            <i class="fas fa-qrcode" aria-hidden="true"></i> 扫码联系
+                        </button>
+                    </div>
+                `;
+          // 点击弹出微信二维码
+          const btn = card.querySelector(".sponsor-contact-btn");
+          btn.addEventListener("click", () => this.showQrModal());
+          return card;
+        }
+
+        // ===== 微信二维码弹窗（单例，惰性创建） =====
+        ensureQrModal() {
+          if (this._qrModal) return this._qrModal;
+
+          const overlay = document.createElement("div");
+          overlay.className = "qr-modal-overlay";
+          overlay.innerHTML = `
+                    <div class="qr-modal" role="dialog" aria-modal="true" aria-labelledby="qrModalTitle">
+                        <button type="button" class="qr-modal-close" aria-label="关闭">
+                            <i class="fas fa-xmark" aria-hidden="true"></i>
+                        </button>
+                        <h3 id="qrModalTitle" class="qr-modal-title">
+                            <i class="fas fa-weixin" aria-hidden="true"></i> 微信扫一扫
+                        </h3>
+                        <img src="images/qr-code.png" alt="微信二维码" />
+                        <p class="qr-modal-tip">扫码添加，洽谈赞助合作</p>
+                    </div>
+                `;
+
+          // 关闭：右上角按钮、点击遮罩空白处
+          overlay
+            .querySelector(".qr-modal-close")
+            .addEventListener("click", () => this.hideQrModal());
+          overlay.addEventListener("click", (e) => {
+            if (e.target === overlay) this.hideQrModal();
+          });
+          // 关闭：ESC（仅注册一次）
+          document.addEventListener("keydown", (e) => {
+            if (
+              e.key === "Escape" &&
+              this._qrModal.classList.contains("open")
+            ) {
+              this.hideQrModal();
+            }
+          });
+
+          document.body.appendChild(overlay);
+          this._qrModal = overlay;
+          return overlay;
+        }
+
+        showQrModal() {
+          const overlay = this.ensureQrModal();
+          overlay.classList.add("open");
+          // 打开后把焦点移到关闭按钮，便于键盘操作
+          const closeBtn = overlay.querySelector(".qr-modal-close");
+          if (closeBtn) closeBtn.focus();
+        }
+
+        hideQrModal() {
+          if (this._qrModal) this._qrModal.classList.remove("open");
         }
 
         // 按分类过滤

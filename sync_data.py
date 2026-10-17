@@ -6,12 +6,14 @@
     python sync_data.py
 
 功能：
-    1. 从 D:\Data\Code\AI\AIProductHome\README.md 提取 "# 搜索引擎" 之后的内容
+    1. 从 D:\Data\Code\AI\AIProductHome\README.md 提取 "精选推荐" 栏目（若存在）
+       与 "# 搜索引擎" 之后的内容
     2. 保存到 data/tools.md
     3. 更新 index.html，将硬编码的 markdownContent 替换为 fetch() 动态加载
 """
 
 import os
+import re
 import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -22,13 +24,24 @@ INDEX_HTML = os.path.join(BASE_DIR, "index.html")
 
 
 def extract_markdown():
-    """从源 README.md 提取 '# 搜索引擎' 之后的内容，写入 data/tools.md"""
+    """提取 '精选推荐' 栏目（若存在）与 '# 搜索引擎' 之后的内容，写入 data/tools.md"""
     if not os.path.exists(SOURCE_README):
         print(f"[错误] 源文件不存在: {SOURCE_README}")
         return False
 
     with open(SOURCE_README, "r", encoding="utf-8") as f:
         lines = f.readlines()
+
+    # 找到 "精选推荐" 栏目的起止行（可选；从一级标题到下一个一级标题）
+    featured_start = None
+    featured_end = None
+    for i, line in enumerate(lines):
+        if featured_start is None:
+            if line.startswith("# ") and "精选推荐" in line:
+                featured_start = i
+        elif line.startswith("# "):
+            featured_end = i
+            break
 
     # 找到 "# 搜索引擎" 的起始行
     start_idx = None
@@ -41,12 +54,26 @@ def extract_markdown():
         print("[错误] 未找到 '# 搜索引擎' 标记")
         return False
 
-    content = "".join(lines[start_idx:])
+    parts = []
+    if featured_start is not None:
+        featured_end = featured_end if featured_end is not None else len(lines)
+        featured = "".join(lines[featured_start:featured_end])
+        # 规范化栏目标题：去掉标题中的 emoji（如 "🏅"），统一为 "# 精选推荐"
+        featured = re.sub(
+            r"^# [^\w]*精选推荐", "# 精选推荐", featured, count=1, flags=re.M
+        )
+        parts.append(featured)
+
+    parts.append("".join(lines[start_idx:]))
+    content = "".join(parts)
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(TOOLS_MD, "w", encoding="utf-8") as f:
         f.write(content)
 
-    print(f"[成功] 已提取 {len(lines) - start_idx} 行 -> {TOOLS_MD}")
+    msg = f"[成功] 已提取 {len(lines) - start_idx} 行"
+    if featured_start is not None:
+        msg += f" + 精选推荐栏目 {featured_end - featured_start} 行"
+    print(f"{msg} -> {TOOLS_MD}")
     return True
 
 
