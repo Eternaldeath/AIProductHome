@@ -7,7 +7,18 @@
 | [Cursor](https://www.cursor.so/) | 🆓 | 推荐理由：基于大模型的新一代 AI 代码编辑器，具备极强的代码生成与续写能力，只需描述需求即可生成整套代码，是目前最受欢迎的 AI 编程工具之一 |
 | [Perplexity AI](https://www.perplexity.ai/) | ✈️🆓💰 | 推荐理由：AI 搜索引擎的代表产品，对检索结果提供数据来源标注，答案可追溯，适合用于调研、查证与深度阅读 |
 | [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | 推荐理由：业界顶尖的 AI 绘画工具，可根据文本生成高质量图像，是 AI 视觉创作领域的标杆产品 |
-| 赞助商 |  | 扫码联系 |
+| 赞助商 |  | 扫码联系，严格审核，虚位以待 |
+
+# 中转站
+
+| 产品名称 | 相关信息 | 备注 |
+| ------- | :------: | --- |
+| [CoderPlan](https://coderplan.ai/) | 💰 | 一款兼容 OpenAI 的 API 中继服务，提供对 Claude、GPT-5.5、Gemini 3.1 Pro、DeepSeek V3+R1 和 Grok 模型的统一访问。专为需要在国内直接访问全球 AI 模型而无需 VPN 的中国开发者而设计【@[onepaperbox](https://github.com/onepaperbox) 分享】 |
+| [AI Router](https://ai-router.dev/cn) | 💰 | 面向开发者的独立 OpenAI 兼容 API 服务。可使用个人 API Key 配置 Base URL，并按 Key 查看用量【@[airouter-dev](https://github.com/airouter-dev)分享】 |
+| [TeamoRouter](https://teamorouter.com/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道 【@[kwu18-png](https://github.com/kwu18-png)分享】 |
+| [DSH API](https://dshapi.icu/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道【@[1261398983](https://github.com/1261398983)分享】 |
+| [MomAPI](https://momapi.link/) | 💰 | 中转站，兼容 OpenAI API，支持 CC Switch 导入；付费按量【@[hermanzhaozzzz](https://github.com/hermanzhaozzzz) 分享】 |
+
 
 # 搜索引擎
 
