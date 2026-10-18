@@ -41,7 +41,9 @@
 
 # 交流群
 
-添加微信，备注【AI 工具】，邀您入群
+添加微信
+- 产品交流，备注【AI 工具】，邀您入群
+- 商务合作，备注【商务合作】
 
 <div align=left>  
 <img src=".\img\wechat.jpg" width="300" />
@@ -64,7 +66,7 @@
 | [Cursor](https://www.cursor.so/) | 🆓 | 推荐理由：基于大模型的新一代 AI 代码编辑器，具备极强的代码生成与续写能力，只需描述需求即可生成整套代码，是目前最受欢迎的 AI 编程工具之一 |
 | [Perplexity AI](https://www.perplexity.ai/) | ✈️🆓💰 | 推荐理由：AI 搜索引擎的代表产品，对检索结果提供数据来源标注，答案可追溯，适合用于调研、查证与深度阅读 |
 | [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | 推荐理由：业界顶尖的 AI 绘画工具，可根据文本生成高质量图像，是 AI 视觉创作领域的标杆产品 |
-| [NotebookLM](https://notebooklm.google/?location=unsupported) | 🆓 | 推荐理由：基于 Gemini 打造的知识管理与学习工具，可基于你的文档进行问答总结，支持 50 种语言生成播客，是学术阅读与知识沉淀的利器 |
+| 赞助商 |  | 扫码联系，严格审核，虚位以待 |
 
 # 其他资源
 
