@@ -506,6 +506,7 @@
 
 | 产品名称 | 相关信息 | 备注 |
 | :-- | :-: | --- |
+| [星云业务通](https://www.xingyunzuo.cn/ai-system-connector) | | 连接 WorkBuddy、豆包工作、千问办公等 AI 平台与企业 ERP、CRM、OA 系统，让员工在 AI 平台中查询数据、分析业务、录入单据并执行多步骤任务；支持业务身份映射、能力授权、人工确认与调用审计。商业闭源产品【@[wzh0907](https://github.com/wzh0907) 分享】 |
 | [Roomgpt](https://www.roomgpt.io/) | 🆓 | 室内设计 |
 | [Openai-translator](https://github.com/yetone/openai-translator) | ✈️🆓💰📥 | 基于 chatGPT 4 的划词翻译润色插件 |
 | [Boostpixels](https://boostpixels.com/) | ✈️💰 | 可以微调你的 AI 模型的网站 |
