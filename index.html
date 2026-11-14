@@ -110,6 +110,11 @@
         --sponsor-divider: rgba(255, 255, 255, 0.35); /* 渐变卡上的分隔线 */
         --qr-overlay: rgba(0, 0, 0, 0.55); /* 弹窗遮罩 */
         --qr-img-bg: #ffffff; /* 二维码白底，保证可扫 */
+
+        /* ===== 付费风险提示（浅色模式）===== */
+        --risk-bg: #fef2f2;
+        --risk-border: #fecaca;
+        --risk-text: #991b1b;
       }
 
       /* ===== 深色主题：独立页面，挂在 html[data-theme] 上 ===== */
@@ -173,6 +178,11 @@
 
         /* 原生控件 / 滚动条 / 焦点框自动适配深色 */
         color-scheme: dark;
+
+        /* ===== 付费风险提示（深色模式）===== */
+        --risk-bg: #450a0a;
+        --risk-border: #7f1d1d;
+        --risk-text: #fca5a5;
       }
 
       /* 浅色模式显式声明，避免浏览器「强制深色」干扰 */
@@ -931,7 +941,7 @@
 
       /* 搜索和过滤 */
       .search-box {
-        margin-bottom: 30px;
+        margin-bottom: 10px;
       }
 
       .search-container {
@@ -1097,6 +1107,36 @@
           transition: none;
         }
       }
+      /* 付费风险提示 */
+      .risk-notice {
+        max-width: 500px;
+        margin: 0 auto 24px auto;
+        padding: 12px 16px;
+        /* background-color: var(--risk-bg); */
+        /* border: 1px solid var(--risk-border); */
+        border-left: 4px solid var(--risk-border);
+        border-radius: var(--radius-md);
+        font-size: 0.95rem;
+        color: var(--risk-text);
+        line-height: 1.5;
+        /* box-shadow: var(--shadow); */
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .risk-notice::before {
+        content: "⚠";
+        font-size: 1.1rem;
+        flex-shrink: 0;
+      }
+
+      @media (max-width: 480px) {
+        .risk-notice {
+          padding: 10px 14px;
+          font-size: 0.9rem;
+        }
+      }
     </style>
     <!-- 主题初始化：在渲染前设定，避免刷新白闪 -->
     <script>
@@ -1167,6 +1207,11 @@
             placeholder="搜索AI工具名称或描述..."
           />
         </div>
+      </div>
+
+      <!-- 付费风险提示 -->
+      <div class="risk-notice" role="alert" aria-label="付费风险提示">
+        付费产品可能存在商家停运等风险，请自行甄别、谨慎付费。
       </div>
 
       <!-- 分类导航 -->

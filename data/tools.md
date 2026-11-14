@@ -2,12 +2,12 @@
 
 | 产品名称 | 相关信息 | 备注 |
 | ------- | :------: | --- |
+| 赞助商 |  | 扫码联系，严格审核，虚位以待 |
 | [ChatGPT](https://openai.com/blog/chatgpt) | ✈️💰 | 推荐理由：OpenAI 推出的对话式 AI 产品，是目前全球最具影响力的 AI 应用，通用问答、写作、编程、多模态能力全面，适合作为大多数人的第一款 AI 产品<br/>⚠️ Open AI 目前有地域限制 |
 | [DeepSeek](https://www.deepseek.com/) | 🆓 | 推荐理由：深度求索（DeepSeek）自主研发的大语言模型智能助手，**免费使用**，推理与代码能力强，是国内用户低门槛体验顶尖大模型的首选 |
 | [Cursor](https://www.cursor.so/) | 🆓 | 推荐理由：基于大模型的新一代 AI 代码编辑器，具备极强的代码生成与续写能力，只需描述需求即可生成整套代码，是目前最受欢迎的 AI 编程工具之一 |
 | [Perplexity AI](https://www.perplexity.ai/) | ✈️🆓💰 | 推荐理由：AI 搜索引擎的代表产品，对检索结果提供数据来源标注，答案可追溯，适合用于调研、查证与深度阅读 |
 | [Midjourney](https://www.midjourney.com) | ✈️🆓💰 | 推荐理由：业界顶尖的 AI 绘画工具，可根据文本生成高质量图像，是 AI 视觉创作领域的标杆产品 |
-| 赞助商 |  | 扫码联系，严格审核，虚位以待 |
 
 # 中转站
 
@@ -19,6 +19,11 @@
 | [DSH API](https://dshapi.icu/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道【@[1261398983](https://github.com/1261398983)分享】 |
 | [MomAPI](https://momapi.link/) | 💰 | 中转站，兼容 OpenAI API，支持 CC Switch 导入；付费按量【@[hermanzhaozzzz](https://github.com/hermanzhaozzzz) 分享】 |
 
+# 充值平台
+
+| 产品名称 | 相关信息 | 备注 |
+| ------- | :------: | --- |
+| [苏哲AI](https://suzhe.ai/?utm_source=aiproducthome&utm_medium=listing) | 💰 | 面向简中用户的 AI 会员开通平台，提供 ChatGPT、Gemini、Super Duolingo 等会员【@[xinyanghu7](https://github.com/xinyanghu7) 分享】 |
 
 # 搜索引擎
 
@@ -209,7 +214,6 @@
 | [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) | ✈️🆓📃 | - | 由南洋理工提出的，基于 Transformer 的预测网络的模糊图片修复技术及应用实现<br/>[论文链接](https://shangchenzhou.com/projects/CodeFormer/#abstract) |
 | [AI Comic Factory](https://aicomicfactory.com/) | 🆓💰 | - | 利用 AI 生成漫画 |
 | [Shortbread](https://shortbread.ai/) | 🆓 | - | 利用 AI 生成漫画 |
-| [Shap-e](https://github.com/openai/shap-e) | ✈️🆓🔓📃 | - | 一款开源的使用文本或 2D 图像生成 3D 图像工具<br/>[论文链接](https://arxiv.org/abs/2305.02463) |
 | 一非 ai 壁纸 | 🆓 | - | 利用 AI 生成壁纸的小程序【 [@delltom2000](https://github.com/delltom2000) 分享】 |
 | [AI Image Bg](https://aiimagebg.com/zh) | 💰 | - | 利用AI技术增强照片、生成精美艺术作品并专业移除背景【[@lcsy001](https://github.com/lcsy001) 分享】 |
 | [Banana Pro](https://www.banana-pro.com/) | 💰 | - | 一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材 |
@@ -218,6 +222,7 @@
 | [Image Prompt Generator](https://github.com/Eternaldeath/AIProductHome/issues/38) | 🆓 | - | 免费 AI 图像提示词生成器和提示词库【@[xianyu110](https://github.com/xianyu110) 分享】 |
 | [Gptimage2](https://gptimage2.asia/) | 🆓 | - | AI 图像生成器、创意 AI、设计工具、营销【@[xianyu110](https://github.com/xianyu110) 分享】 |
 | [Vivify GPT Image 2.5](https://vivify.video/zh/models/gpt-image-2-5) | 💰 | GPT Image | 在浏览器中使用 GPT Image 2.5 生成图片或按文字指令编辑参考图，适合制作产品图、海报与社交媒体素材 |
+| [LayerGrab](https://layergrab.com) | 🆓💰 | - | AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素 【@[stimQQ](https://github.com/stimQQ) 分享】|
 
 ## 色彩搭配
 
@@ -241,6 +246,7 @@
 | [ArcReel](https://github.com/ArcReel/ArcReel) | 🆓🔓 | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 |
 | [ZOOOP](https://zooop.ai/) | 🆓 | 一个 AI 原生的影视创作工作站与创作平台，集图像 / 视频 / 音频生成、配方模板、用于分镜的生成式无限画布、对口型于一体，并聚合多家主流 AI 模型，覆盖从分镜到成片的创作流程【@[dayinji](https://github.com/dayinji) 分享】 |
 | [Pilio](https://pilio.ai/zh) | 🆓💰 | AI 模型搞定图片生成、视频创作和后期处理【@[GargantuaX](https://github.com/GargantuaX) 分享】 |
+| [pitchboom](https://pitchboom.io) | 🆓💰 | 粘贴你的产品页面或两行简介。pitchboom 会为你撰写脚本、生成分镜、配上旁白和音乐制作成动画，并针对各平台信息流进行适配剪辑 【@[arseneHuot](https://github.com/arseneHuot) 分享】|
 
 ## 角色扮演
 
@@ -293,7 +299,7 @@
 | ---------------------------------------- | :------: | ------------------------------------------------------------ |
 | [Bibigpt](https://bibigpt.co/) | ✈️🆓💰 | 1. 基于 ChatGPT 的总结视频内容的工具<br/>2. 支持平台：B 站，抖音，快手，小红书，Youtube |
 | [Glarity](https://glarity.app/zh-CN) | ✈️🆓📥 | 1. 基于 ChatGPT，OpenAI Key，Claude 和 GPT4的总结视频内容的插件<br/>2. 插件平台：Chrome，Edge，Safari，Firefox，Opera<br/>3. 支持平台：YouTube、Google、Twitter，B 站等 |
-| [Summarize](https://www.summarize.tech/) | ✈️🆓 | 1. 基于 AI 的总结视频内容的工具<br/>2. 支持平台：YouTube |
+| [aiMakeVideo](https://www.summarize.tech/) | 💰 | 一站式 AI 视频与图片创作工作台，同一界面切换文生视频 / 图生视频 / 图生图，支持 Seedance 2.5、MiniMax H3 等模型；另有 10 个热门玩法模板页，上传一张照片即可生成 15 秒竖屏视频，无需编写提示词；提供 9 种语言界面【@[tumingguang-svg](https://github.com/tumingguang-svg) 分享】 |
 
 ## 思维导图
 
