@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-labelledby="bannerTitle" aria-describedby="bannerDesc">
+  <title id="bannerTitle">付费风险提示</title>
+  <desc id="bannerDesc">付费产品可能存在商家停运等风险，请自行甄别、谨慎付费。</desc>
+
+  <defs>
+    <filter id="boxShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8" />
+      <feOffset dx="0" dy="6" result="offsetblur" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.15" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- 提示框整体阴影容器 -->
+  <g filter="url(#boxShadow)">
+    <!-- 外层边框（提示框边框效果） -->
+    <rect x="40" y="40" width="1200" height="120" rx="14" ry="14" fill="#ffffff" stroke="#d97706" stroke-width="3" />
+    <!-- 内层浅色填充 -->
+    <rect x="43" y="43" width="1194" height="114" rx="11" ry="11" fill="#fffbeb" />
+  </g>
+
+  <!-- 左侧警示色竖条 -->
+  <rect x="40" y="40" width="12" height="120" rx="7" ry="7" fill="#d97706" />
+
+  <!-- 文字（仅保留核心提示语） -->
+  <text x="640" y="112" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans SC', sans-serif" font-size="26" font-weight="800" fill="#92400e" text-anchor="middle">付费产品可能存在商家停运等风险，请自行甄别、谨慎付费。</text>
+</svg>
