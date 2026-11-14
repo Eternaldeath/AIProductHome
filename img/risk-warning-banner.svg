@@ -28,5 +28,5 @@
   <rect x="40" y="40" width="12" height="120" rx="7" ry="7" fill="#d97706" />
 
   <!-- 文字（仅保留核心提示语） -->
-  <text x="640" y="112" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans SC', sans-serif" font-size="26" font-weight="800" fill="#92400e" text-anchor="middle">付费产品可能存在商家停运等风险，请自行甄别、谨慎付费。</text>
+  <text x="640" y="112" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans SC', sans-serif" font-size="35" font-weight="800" fill="#92400e" text-anchor="middle">付费产品可能存在商家停运等风险，请自行甄别、谨慎付费。</text>
 </svg>

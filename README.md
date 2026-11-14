@@ -30,7 +30,7 @@
 **产品排序策略**：广告商工具（会注明广告商）→ 大型商业工具（如 DeepSeek）→ 其他工具按时间从上至下排列
 
 <details open>
-<summary> <b>更新记录</b> （点击收起） · 📅 2026-10-17</summary>
+<summary> <b>更新记录</b> （点击收起） · 📅 2026-11-14</summary>
 <br/>
 💡 AI Product Home
 
