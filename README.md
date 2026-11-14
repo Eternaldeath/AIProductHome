@@ -111,6 +111,8 @@
 
 # 充值平台
 
+| 产品名称 | 相关信息 | 备注 |
+| ------- | :------: | --- |
 | [苏哲AI](https://suzhe.ai/?utm_source=aiproducthome&utm_medium=listing) | 💰 | 面向简中用户的 AI 会员开通平台，提供 ChatGPT、Gemini、Super Duolingo 等会员【@[xinyanghu7](https://github.com/xinyanghu7) 分享】 |
 
 # 搜索引擎
