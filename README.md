@@ -394,6 +394,7 @@
 | ---------------------------------------- | :------: | ------------------------------------------------------------ |
 | [Bibigpt](https://bibigpt.co/) | ✈️🆓💰 | 1. 基于 ChatGPT 的总结视频内容的工具<br/>2. 支持平台：B 站，抖音，快手，小红书，Youtube |
 | [Glarity](https://glarity.app/zh-CN) | ✈️🆓📥 | 1. 基于 ChatGPT，OpenAI Key，Claude 和 GPT4的总结视频内容的插件<br/>2. 插件平台：Chrome，Edge，Safari，Firefox，Opera<br/>3. 支持平台：YouTube、Google、Twitter，B 站等 |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/) | ✈️🆓💰📥 | 1. 获取任意 YouTube 视频带时间戳的字幕文稿，约 1 秒出结果，可搜索、复制、下载 TXT / SRT / VTT<br/>2. AI 总结与视频问答，频道 / 播放列表批量获取<br/>3. 提供 Chrome / Edge / Firefox 插件、REST API 和 MCP 服务器（Claude、Cursor 等可直接读取 YouTube） |
 | [aiMakeVideo](https://www.summarize.tech/) | 💰 | 一站式 AI 视频与图片创作工作台，同一界面切换文生视频 / 图生视频 / 图生图，支持 Seedance 2.5、MiniMax H3 等模型；另有 10 个热门玩法模板页，上传一张照片即可生成 15 秒竖屏视频，无需编写提示词；提供 9 种语言界面【@[tumingguang-svg](https://github.com/tumingguang-svg) 分享】 |
 
 ## 思维导图
