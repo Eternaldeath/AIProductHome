@@ -30,7 +30,7 @@
 **产品排序策略**：广告商工具（会注明广告商）→ 大型商业工具（如 DeepSeek）→ 其他工具按时间从上至下排列
 
 <details open>
-<summary> <b>更新记录</b> （点击收起） · 📅 2026-11-14</summary>
+<summary> <b>更新记录</b> （点击收起） · 📅 2026-11-21</summary>
 <br/>
 💡 AI Product Home
 
@@ -40,10 +40,11 @@
 
 🛠️ AI Tool
 
-- 苏哲AI：面向简中用户的 AI 会员开通平台，提供 ChatGPT、Gemini、Super Duolingo 等会员
-- LayerGrab：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素
-- pitchboom：粘贴你的产品页面或两行简介。pitchboom 会为你撰写脚本、生成分镜、配上旁白和音乐制作成动画，并针对各平台信息流进行适配剪辑
-- aiMakeVideo：一站式 AI 视频与图片创作工作台，同一界面切换文生视频 / 图生视频 / 图生图 ...
+- Twinkle Model：源头中转，主打低价、稳定、高质量；GPT 1折、国模(GLM/DeepSeek/Kimi) 1折、满血 Claude
+- 巨浪 AI：中文模型 API 报价与接入资料网站。读者可以先按模型找到相关服务商，再查看公开报价、计费单位及原始来源
+- openworkbuddy：本机优先、源码开放的 AI 办公工作台
+- PicYep：浏览器端 AI 写真工作室，用文字或参考照片生成逼真头像、全家福、宠物写真、产品图，支持改背景/去物体/扩图和图生视频
+- Pagekin：免费 AI 小说写作软件，面向长篇小说创作者的开源桌面软件
 - 移除部分失效产品
 
 </details>
@@ -71,7 +72,7 @@
 
 | 产品名称 | 相关信息 | 备注 |
 | ------- | :------: | --- |
-| 赞助商 |  | 扫码联系，严格审核，虚位以待 |
+| 赞助商 | 💰 | - 扫码联系，严格审核，虚位以待<br/>- 极速上架（仓库 + 网站）<br>- 专属广告位<br>- 额外宣传 |
 | [ChatGPT](https://openai.com/blog/chatgpt) | ✈️💰 | 推荐理由：OpenAI 推出的对话式 AI 产品，是目前全球最具影响力的 AI 应用，通用问答、写作、编程、多模态能力全面，适合作为大多数人的第一款 AI 产品<br/>⚠️ Open AI 目前有地域限制 |
 | [DeepSeek](https://www.deepseek.com/) | 🆓 | 推荐理由：深度求索（DeepSeek）自主研发的大语言模型智能助手，**免费使用**，推理与代码能力强，是国内用户低门槛体验顶尖大模型的首选 |
 | [Cursor](https://www.cursor.so/) | 🆓 | 推荐理由：基于大模型的新一代 AI 代码编辑器，具备极强的代码生成与续写能力，只需描述需求即可生成整套代码，是目前最受欢迎的 AI 编程工具之一 |
@@ -108,6 +109,8 @@
 | [TeamoRouter](https://teamorouter.com/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道 【@[kwu18-png](https://github.com/kwu18-png)分享】 |
 | [DSH API](https://dshapi.icu/) | 💰 | 面向开发者的 AI API 智能路由网关，500+ 模型供应商统一接入，Agentic Routing 自动选择最优通道【@[1261398983](https://github.com/1261398983)分享】 |
 | [MomAPI](https://momapi.link/) | 💰 | 中转站，兼容 OpenAI API，支持 CC Switch 导入；付费按量【@[hermanzhaozzzz](https://github.com/hermanzhaozzzz) 分享】 |
+| [Twinkle Model](https://big-model.smart-agi.com/) | 💰 | 源头中转，主打低价、稳定、高质量；GPT 1折、国模(GLM/DeepSeek/Kimi) 1折、满血 Claude【@[bendangmi](https://github.com/bendangmi) 分享】 |
+| [巨浪 AI](https://jvlangai.com/) | 💰 | 中文模型 API 报价与接入资料网站。读者可以先按模型找到相关服务商，再查看公开报价、计费单位及原始来源【@[2EU55](https://github.com/2EU55) 分享】 |
 
 # 充值平台
 
@@ -239,6 +242,7 @@
 | [Minimaxi](https://minimaxi.com/) | | MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用 |
 | [Manus](https://manus.im/) | 🆓 | Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成 |
 | [Prism](https://openai.com/zh-Hans-CN/prism/) | 💰 | openai 原生支持 LaTeX 的免费工作空间，将 GPT‑5.2 无缝融入你的科研写作与协作流程 |
+| [openworkbuddy](https://openworkbuddy.work/) | 💰 | 本机优先、源码开放的 AI 办公工作台【@[CatCatUncle](https://github.com/CatCatUncle) 分享】 |
 
 # 代码辅助
 
@@ -313,6 +317,7 @@
 | [Gptimage2](https://gptimage2.asia/) | 🆓 | - | AI 图像生成器、创意 AI、设计工具、营销【@[xianyu110](https://github.com/xianyu110) 分享】 |
 | [Vivify GPT Image 2.5](https://vivify.video/zh/models/gpt-image-2-5) | 💰 | GPT Image | 在浏览器中使用 GPT Image 2.5 生成图片或按文字指令编辑参考图，适合制作产品图、海报与社交媒体素材 |
 | [LayerGrab](https://layergrab.com) | 🆓💰 | - | AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素 【@[stimQQ](https://github.com/stimQQ) 分享】|
+| [PicYep](https://picyep.com/zh) | 🆓💰 | 多模型 | 浏览器端 AI 写真工作室，用文字或参考照片生成逼真头像、全家福、宠物写真、产品图，支持改背景/去物体/扩图和图生视频 |
 
 ## 色彩搭配
 
@@ -422,6 +427,7 @@
 | [JadeAI](https://jadeai.cturing.cn/en) | 🆓 | **AI 驱动的智能简历生成器**。拖拽编辑、实时 AI 优化、50 套专业模板、多格式导出，轻松打造高质量简历【@[LingyiChen-AI](https://github.com/LingyiChen-AI) 分享】 |
 | [Aural](https://aural-ai.com/) | 🔓🆓 | 可自托管的开源 AI 面试平台，支持语音、文字和视频面试、自适应追问、结构化评分报告、代码编辑器、白板、多语言界面与 OpenAI 兼容模型，适合面试练习、招聘筛选和团队培训【@[1146345502](https://github.com/1146345502)提供】 |
 | [ORANO](https://oranoai.com/) | 🆓💰 | 将收藏的 Reels、TikTok、YouTube 视频、文章和 PDF 整理成可搜索的摘要、要点和分步计划【@[manuvamp](https://github.com/manuvamp) 分享】 |
+| [Pagekin](https://github.com/EthanYoQ/Pagekin) | 🔓🆓 | 免费 AI 小说写作软件，面向长篇小说创作者的开源桌面软件【@[EthanYoQ](https://github.com/EthanYoQ) 分享】 |
 
 ## 智能抠图
 
